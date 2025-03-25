@@ -1,0 +1,10 @@
+{
+  "id": "air_port_id",
+  "name": "name",
+  "location": "location",
+  "land_region": "sea_port_land_region",
+  "country": "sea_port_country",
+  "functional_area": "sea_port_functional_area",
+  "body_of_water": "sea_port_body_of_water",
+  "code": "port_code"
+}
