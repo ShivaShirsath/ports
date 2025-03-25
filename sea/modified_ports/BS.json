@@ -1,0 +1,62 @@
+[
+  {
+    "id": "freeport_bs",
+    "name": "Freeport",
+    "location": "26.5087581783105, -78.69906520190938",
+    "land_region": "",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "freeport_bs",
+    "isTerminal": true
+  },
+  {
+    "id": "inagua_islands_bs",
+    "name": "Inagua Islands",
+    "location": "21.5166666667, -73",
+    "land_region": "",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "inagua_islands_bs",
+    "isTerminal": null
+  },
+  {
+    "id": "nassau_bs",
+    "name": "Nassau",
+    "location": "25.0833333333, -77.3333333333002",
+    "land_region": "",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nassau_bs",
+    "isTerminal": true
+  },
+  {
+    "id": "ocean_cay_bs",
+    "name": "Ocean Cay",
+    "location": "25.4166666667, -79.2166666667",
+    "land_region": "",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "ocean_cay_bs",
+    "isTerminal": null
+  },
+  {
+    "id": "south_riding_point_bs",
+    "name": "South Riding Point",
+    "location": "26.644197414457267, -78.21666943139888",
+    "land_region": "",
+    "country": "Bahamas",
+    "country_code": "BS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "south_riding_point_bs",
+    "isTerminal": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "batumi_ge",
+    "name": "Batumi",
+    "location": "41.645896841426335, 41.660800314195306",
+    "land_region": "",
+    "country": "Georgia",
+    "country_code": "GE",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "batumi_ge",
+    "isTerminal": true
+  },
+  {
+    "id": "poti_ge",
+    "name": "Poti",
+    "location": "42.17812908721582, 41.67197108858286",
+    "land_region": "",
+    "country": "Georgia",
+    "country_code": "GE",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "poti_ge",
+    "isTerminal": true
+  },
+  {
+    "id": "sukhumi_ge",
+    "name": "Sukhumi",
+    "location": "43.097878945755156, 40.775529250586196",
+    "land_region": "",
+    "country": "Georgia",
+    "country_code": "GE",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sukhumi_ge",
+    "isTerminal": null
+  },
+  {
+    "id": "supsa_ge",
+    "name": "Supsa",
+    "location": "42.03706860538214, 41.76042545342911",
+    "land_region": "",
+    "country": "Georgia",
+    "country_code": "GE",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "supsa_ge",
+    "isTerminal": null
+  }
+]

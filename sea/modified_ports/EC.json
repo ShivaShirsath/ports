@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bahia_de_caraquez_ec",
+    "name": "Bahia De Caraquez",
+    "location": "-0.5170424386839092, -80.42122226904722",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "bahia_de_caraquez_ec",
+    "isTerminal": null
+  },
+  {
+    "id": "esmeraldas_ec",
+    "name": "Esmeraldas",
+    "location": "0.941982871339664, -79.6948248206272",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "esmeraldas_ec",
+    "isTerminal": true
+  },
+  {
+    "id": "guayaquil_ec",
+    "name": "Guayaquil",
+    "location": "-2.2404676319387, -79.881591796875",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "guayaquil_ec",
+    "isTerminal": true
+  },
+  {
+    "id": "la_libertad_ec",
+    "name": "La Libertad",
+    "location": "-2.22175701695054, -80.83976260100727",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "la_libertad_ec",
+    "isTerminal": null
+  },
+  {
+    "id": "manta_ec",
+    "name": "Manta",
+    "location": "-0.949899999999998, -80.7163",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "manta_ec",
+    "isTerminal": false
+  },
+  {
+    "id": "posorja_ec",
+    "name": "Posorja",
+    "location": "-2.7081505, -80.24097",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "posorja_ec",
+    "isTerminal": true
+  },
+  {
+    "id": "puerto_bolivar_ec",
+    "name": "Puerto Bolivar",
+    "location": "-3.25, -80.0166666667",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "puerto_bolivar_ec",
+    "isTerminal": null
+  },
+  {
+    "id": "salinas_ec",
+    "name": "Salinas",
+    "location": "-2.13, -80.58",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "salinas_ec",
+    "isTerminal": null
+  },
+  {
+    "id": "san_lorenzo_ec",
+    "name": "San Lorenzo",
+    "location": "1.2609836548739362, -78.95417959759853",
+    "land_region": "",
+    "country": "Ecuador",
+    "country_code": "EC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_lorenzo_ec",
+    "isTerminal": false
+  }
+]

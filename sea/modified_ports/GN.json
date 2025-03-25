@@ -1,0 +1,26 @@
+[
+  {
+    "id": "conakry_gn",
+    "name": "Conakry",
+    "location": "9.510572258831903, -13.715293060952405",
+    "land_region": "",
+    "country": "Guinea",
+    "country_code": "GN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "conakry_gn",
+    "isTerminal": true
+  },
+  {
+    "id": "port_kamsar_gn",
+    "name": "Port Kamsar",
+    "location": "10.65, -14.6166666667",
+    "land_region": "",
+    "country": "Guinea",
+    "country_code": "GN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_kamsar_gn",
+    "isTerminal": null
+  }
+]

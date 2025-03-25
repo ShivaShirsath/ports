@@ -1,0 +1,14 @@
+[
+  {
+    "id": "brest_by",
+    "name": "Brest",
+    "location": "52.103552950461, 23.689956665039",
+    "land_region": "",
+    "country": "Belarus",
+    "country_code": "BY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "brest_by",
+    "isTerminal": null
+  }
+]

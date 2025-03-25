@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bluefields_ni",
+    "name": "Bluefields",
+    "location": "12.107988186029262, -83.73352250704491",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "bluefields_ni",
+    "isTerminal": null
+  },
+  {
+    "id": "corinto_ni",
+    "name": "Corinto",
+    "location": "12.53802714145702, -87.19024709504251",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "corinto_ni",
+    "isTerminal": true
+  },
+  {
+    "id": "el_bluff_ni",
+    "name": "El Bluff",
+    "location": "11.795744380574837, -83.72178824205082",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "el_bluff_ni",
+    "isTerminal": null
+  },
+  {
+    "id": "puerto_cabezas_ni",
+    "name": "Puerto Cabezas",
+    "location": "14.064628208694584, -83.39432165248374",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "puerto_cabezas_ni",
+    "isTerminal": null
+  },
+  {
+    "id": "puerto_sandino_puert_ni",
+    "name": "Puerto Sandino Puert",
+    "location": "12.188144724807593, -86.72896343925653",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "puerto_sandino_puert_ni",
+    "isTerminal": null
+  },
+  {
+    "id": "san_juan_del_sur_ni",
+    "name": "San Juan del Sur",
+    "location": "11.2333333333, -85.8666666667",
+    "land_region": "",
+    "country": "Nicaragua",
+    "country_code": "NI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_juan_del_sur_ni",
+    "isTerminal": null
+  }
+]

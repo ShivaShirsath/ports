@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aktau_kz",
+    "name": "Aktau",
+    "location": "43.682324515344, 51.212927246094",
+    "land_region": "",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "aktau_kz",
+    "isTerminal": null
+  },
+  {
+    "id": "aktau_kz",
+    "name": "Aktau",
+    "location": "43.60049, 51.22873",
+    "land_region": "",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "aktau_kz",
+    "isTerminal": true
+  },
+  {
+    "id": "almaty_kz",
+    "name": "Almaty",
+    "location": "43.244546346722, 76.889438602508",
+    "land_region": "",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "almaty_kz",
+    "isTerminal": true
+  },
+  {
+    "id": "atyrau_kz",
+    "name": "Atyrau",
+    "location": "46.980533683791, 51.5867859375",
+    "land_region": "",
+    "country": "Kazakhstan",
+    "country_code": "KZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "atyrau_kz",
+    "isTerminal": null
+  }
+]

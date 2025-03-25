@@ -1,0 +1,26 @@
+[
+  {
+    "id": "kpeme_tg",
+    "name": "Kpeme",
+    "location": "6.204095610875301, 1.4809300468569213",
+    "land_region": "",
+    "country": "Togo",
+    "country_code": "TG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kpeme_tg",
+    "isTerminal": null
+  },
+  {
+    "id": "lome_tg",
+    "name": "Lome",
+    "location": "6.116888182439401, 1.2100804961456524",
+    "land_region": "",
+    "country": "Togo",
+    "country_code": "TG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "lome_tg",
+    "isTerminal": true
+  }
+]

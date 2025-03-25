@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pago_pago_as",
+    "name": "Pago Pago",
+    "location": "-14.26666666, -170.68333333",
+    "land_region": "",
+    "country": "American Samoa",
+    "country_code": "AS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "pago_pago_as",
+    "isTerminal": true
+  }
+]

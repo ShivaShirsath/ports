@@ -1,0 +1,14 @@
+[
+  {
+    "id": "wake_island_um",
+    "name": "Wake Island",
+    "location": "19.296759726146746, 166.64981287989778",
+    "land_region": "",
+    "country": "United States Minor Outlying Islands",
+    "country_code": "UM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "wake_island_um",
+    "isTerminal": null
+  }
+]

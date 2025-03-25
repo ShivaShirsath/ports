@@ -1,0 +1,50 @@
+[
+  {
+    "id": "djeno_cg",
+    "name": "Djeno",
+    "location": "-4.891790448186418, 11.913920313594398",
+    "land_region": "",
+    "country": "Republic of the Congo",
+    "country_code": "CG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "djeno_cg",
+    "isTerminal": null
+  },
+  {
+    "id": "nkossa_terminal_cg",
+    "name": "N'Kossa Terminal",
+    "location": "-5.26666666667, 11.5666666667",
+    "land_region": "",
+    "country": "Republic of the Congo",
+    "country_code": "CG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nkossa_terminal_cg",
+    "isTerminal": null
+  },
+  {
+    "id": "pointe_noire_cg",
+    "name": "Pointe Noire",
+    "location": "-4.701217925059307, 11.81941354736987",
+    "land_region": "",
+    "country": "Republic of the Congo",
+    "country_code": "CG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "pointe_noire_cg",
+    "isTerminal": true
+  },
+  {
+    "id": "yombo_cg",
+    "name": "Yombo",
+    "location": "-4.121569225391121, 11.374658095601674",
+    "land_region": "",
+    "country": "Republic of the Congo",
+    "country_code": "CG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "yombo_cg",
+    "isTerminal": null
+  }
+]

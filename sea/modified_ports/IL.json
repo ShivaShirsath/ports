@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ashdod_il",
+    "name": "Ashdod",
+    "location": "31.816667229509367, 34.66629386822497",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "ashdod_il",
+    "isTerminal": true
+  },
+  {
+    "id": "ashkelon_il",
+    "name": "Ashkelon",
+    "location": "31.66878680378942, 34.54845602956933",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "ashkelon_il",
+    "isTerminal": null
+  },
+  {
+    "id": "hadera_il",
+    "name": "Hadera",
+    "location": "32.44826165224961, 34.883709034790236",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "hadera_il",
+    "isTerminal": null
+  },
+  {
+    "id": "haifa_il",
+    "name": "Haifa",
+    "location": "32.79691548862209, 34.9890134763189",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "haifa_il",
+    "isTerminal": true
+  },
+  {
+    "id": "jaffa_il",
+    "name": "Jaffa",
+    "location": "32.17636889686433, 34.82215878508466",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "jaffa_il",
+    "isTerminal": null
+  },
+  {
+    "id": "tel_aviv_il",
+    "name": "Tel-Aviv",
+    "location": "32.038337603927545, 34.76623661125518",
+    "land_region": "",
+    "country": "Israel",
+    "country_code": "IL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tel_aviv_il",
+    "isTerminal": false
+  }
+]

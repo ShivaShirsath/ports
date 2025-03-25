@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saipan_mp",
+    "name": "Saipan",
+    "location": "15.225909242194, 145.73540028658",
+    "land_region": "",
+    "country": "Northern Mariana Islands",
+    "country_code": "MP",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "saipan_mp",
+    "isTerminal": true
+  }
+]

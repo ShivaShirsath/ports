@@ -1,0 +1,14 @@
+[
+  {
+    "id": "monaco_mc",
+    "name": "Monaco",
+    "location": "43.7333333333, 7.45",
+    "land_region": "",
+    "country": "Monaco",
+    "country_code": "MC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "monaco_mc",
+    "isTerminal": true
+  }
+]

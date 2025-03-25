@@ -1,0 +1,38 @@
+[
+  {
+    "id": "brno_cz",
+    "name": "Brno",
+    "location": "49.2022097, 16.437877",
+    "land_region": "",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "brno_cz",
+    "isTerminal": false
+  },
+  {
+    "id": "prague_cz",
+    "name": "Prague",
+    "location": "50.1333333333, 14.7",
+    "land_region": "",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "prague_cz",
+    "isTerminal": false
+  },
+  {
+    "id": "rudna_cz",
+    "name": "Rudna",
+    "location": "50.0664, 14.1485",
+    "land_region": "",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "rudna_cz",
+    "isTerminal": false
+  }
+]

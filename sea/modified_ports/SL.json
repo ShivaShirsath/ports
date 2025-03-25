@@ -1,0 +1,38 @@
+[
+  {
+    "id": "freetown_sl",
+    "name": "Freetown",
+    "location": "8.48913454392942, -13.204837165784209",
+    "land_region": "",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "freetown_sl",
+    "isTerminal": true
+  },
+  {
+    "id": "pepel_sl",
+    "name": "Pepel",
+    "location": "8.577869800305287, -13.05411965023777",
+    "land_region": "",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "pepel_sl",
+    "isTerminal": null
+  },
+  {
+    "id": "sherbro_island_sl",
+    "name": "Sherbro Island",
+    "location": "7.394444757725845, -12.554931859652802",
+    "land_region": "",
+    "country": "Sierra Leone",
+    "country_code": "SL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sherbro_island_sl",
+    "isTerminal": null
+  }
+]

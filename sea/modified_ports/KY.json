@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cayman_brac_ky",
+    "name": "Cayman Brac",
+    "location": "19.75, -79.75",
+    "land_region": "",
+    "country": "Cayman Islands",
+    "country_code": "KY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "cayman_brac_ky",
+    "isTerminal": null
+  },
+  {
+    "id": "georgetown_ky",
+    "name": "Georgetown",
+    "location": "19.3, -81.3833333333002",
+    "land_region": "",
+    "country": "Cayman Islands",
+    "country_code": "KY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "georgetown_ky",
+    "isTerminal": true
+  }
+]

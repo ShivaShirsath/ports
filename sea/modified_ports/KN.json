@@ -1,0 +1,26 @@
+[
+  {
+    "id": "basseterre_kn",
+    "name": "Basseterre",
+    "location": "17.3, -62.6999999999997",
+    "land_region": "",
+    "country": "Saint Kitts and Nevis",
+    "country_code": "KN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "basseterre_kn",
+    "isTerminal": true
+  },
+  {
+    "id": "charlestown_kn",
+    "name": "Charlestown",
+    "location": "17.1340780566528, -62.6165771484377",
+    "land_region": "",
+    "country": "Saint Kitts and Nevis",
+    "country_code": "KN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "charlestown_kn",
+    "isTerminal": true
+  }
+]

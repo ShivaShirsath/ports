@@ -1,0 +1,26 @@
+[
+  {
+    "id": "miquelon_pm",
+    "name": "Miquelon",
+    "location": "46.9333333333, -56.3333333333",
+    "land_region": "",
+    "country": "Saint Pierre and Miquelon",
+    "country_code": "PM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "miquelon_pm",
+    "isTerminal": null
+  },
+  {
+    "id": "st_pierre_pm",
+    "name": "St. Pierre",
+    "location": "46.8166666667, -56.1666666667",
+    "land_region": "",
+    "country": "Saint Pierre and Miquelon",
+    "country_code": "PM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_pierre_pm",
+    "isTerminal": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "macao_mo",
+    "name": "Macao",
+    "location": "22.2, 113.55",
+    "land_region": "",
+    "country": "Macao",
+    "country_code": "MO",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "macao_mo",
+    "isTerminal": true
+  },
+  {
+    "id": "macau_mo",
+    "name": "Macau",
+    "location": "22.2, 113.55",
+    "land_region": "",
+    "country": "Macao",
+    "country_code": "MO",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "macau_mo",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "izola_si",
+    "name": "Izola",
+    "location": "45.539996813562, 13.660674031542",
+    "land_region": "",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "izola_si",
+    "isTerminal": null
+  },
+  {
+    "id": "koper_si",
+    "name": "Koper",
+    "location": "45.548652962696, 13.734519449903",
+    "land_region": "",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "koper_si",
+    "isTerminal": true
+  },
+  {
+    "id": "piran_si",
+    "name": "Piran",
+    "location": "45.527731654046, 13.57184753418",
+    "land_region": "",
+    "country": "Slovenia",
+    "country_code": "SI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "piran_si",
+    "isTerminal": null
+  }
+]

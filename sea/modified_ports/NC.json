@@ -1,0 +1,74 @@
+[
+  {
+    "id": "babouillat_nc",
+    "name": "Babouillat",
+    "location": "-20.3833333333, 164.133333333",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "babouillat_nc",
+    "isTerminal": null
+  },
+  {
+    "id": "kouaoua_nc",
+    "name": "Kouaoua",
+    "location": "-21.4, 165.816666667",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kouaoua_nc",
+    "isTerminal": null
+  },
+  {
+    "id": "nepoui_nc",
+    "name": "Nepoui",
+    "location": "-21.344809024247994, 164.9531255881749",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nepoui_nc",
+    "isTerminal": null
+  },
+  {
+    "id": "noumea_nc",
+    "name": "Noumea",
+    "location": "-22.3045576539983, 166.431884765625",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "noumea_nc",
+    "isTerminal": true
+  },
+  {
+    "id": "poro_nc",
+    "name": "Poro",
+    "location": "-21.3166666667, 165.733333333",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "poro_nc",
+    "isTerminal": null
+  },
+  {
+    "id": "thio_nc",
+    "name": "Thio",
+    "location": "-21.6166666667, 166.25",
+    "land_region": "",
+    "country": "New Caledonia",
+    "country_code": "NC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "thio_nc",
+    "isTerminal": null
+  }
+]

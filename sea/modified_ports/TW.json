@@ -1,0 +1,122 @@
+[
+  {
+    "id": "an_ping_tw",
+    "name": "An-Ping",
+    "location": "22.962873314472, 120.16853942871",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "an_ping_tw",
+    "isTerminal": null
+  },
+  {
+    "id": "hualien_tw",
+    "name": "Hualien",
+    "location": "23.9946004052874, 121.610412597656",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "hualien_tw",
+    "isTerminal": false
+  },
+  {
+    "id": "kaohsiung_tw",
+    "name": "Kaohsiung",
+    "location": "22.642017334437032, 120.2719678116758",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kaohsiung_tw",
+    "isTerminal": true
+  },
+  {
+    "id": "keelung_tw",
+    "name": "Keelung",
+    "location": "25.1481622950363, 121.739501953125",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "keelung_tw",
+    "isTerminal": true
+  },
+  {
+    "id": "mailiao_tw",
+    "name": "Mailiao",
+    "location": "23.768643377652296, 120.1849375412715",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "mailiao_tw",
+    "isTerminal": false
+  },
+  {
+    "id": "ma_kung_tw",
+    "name": "Ma-Kung",
+    "location": "23.569184778414996, 119.57471478044421",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "ma_kung_tw",
+    "isTerminal": null
+  },
+  {
+    "id": "su_ao_tw",
+    "name": "Su-Ao",
+    "location": "24.5833333333, 121.85",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "su_ao_tw",
+    "isTerminal": null
+  },
+  {
+    "id": "taichung_tw",
+    "name": "Taichung",
+    "location": "24.275236516693, 120.53512573242",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "taichung_tw",
+    "isTerminal": true
+  },
+  {
+    "id": "taipei_tw",
+    "name": "Taipei",
+    "location": "25.02, 121.31",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "taipei_tw",
+    "isTerminal": true
+  },
+  {
+    "id": "taoyuan_tw",
+    "name": "Taoyuan",
+    "location": "25.11656997236, 121.24130461337",
+    "land_region": "",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "taoyuan_tw",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "berbera_so",
+    "name": "Berbera",
+    "location": "10.418764583521927, 45.00823846037812",
+    "land_region": "",
+    "country": "Somali",
+    "country_code": "SO",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "berbera_so",
+    "isTerminal": true
+  },
+  {
+    "id": "dante_so",
+    "name": "Dante",
+    "location": "10.451856850050639, 51.39249140966991",
+    "land_region": "",
+    "country": "Somali",
+    "country_code": "SO",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "dante_so",
+    "isTerminal": null
+  },
+  {
+    "id": "mogadiscio_so",
+    "name": "Mogadiscio",
+    "location": "2.0279, 45.3327",
+    "land_region": "",
+    "country": "Somali",
+    "country_code": "SO",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "mogadiscio_so",
+    "isTerminal": true
+  }
+]

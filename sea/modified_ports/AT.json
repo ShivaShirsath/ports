@@ -1,0 +1,74 @@
+[
+  {
+    "id": "enns_at",
+    "name": "Enns",
+    "location": "48.22513, 14.50092",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "enns_at",
+    "isTerminal": true
+  },
+  {
+    "id": "linz_at",
+    "name": "Linz",
+    "location": "48.31307, 14.31385",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "linz_at",
+    "isTerminal": true
+  },
+  {
+    "id": "salzburg_at",
+    "name": "Salzburg",
+    "location": "47.811195, 13.033229",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "salzburg_at",
+    "isTerminal": true
+  },
+  {
+    "id": "vienna_at",
+    "name": "Vienna",
+    "location": "48.213692646648, 16.364135742188",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "vienna_at",
+    "isTerminal": true
+  },
+  {
+    "id": "wels_at",
+    "name": "Wels",
+    "location": "48.16667, 14.03333",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "wels_at",
+    "isTerminal": true
+  },
+  {
+    "id": "wien_at",
+    "name": "Wien",
+    "location": "48.22401, 16.40831",
+    "land_region": "",
+    "country": "Austria",
+    "country_code": "AT",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "wien_at",
+    "isTerminal": true
+  }
+]

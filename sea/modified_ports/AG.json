@@ -1,0 +1,14 @@
+[
+  {
+    "id": "st_johns_ag",
+    "name": "St. Johns",
+    "location": "17.1166666667, -61.8666666667",
+    "land_region": "",
+    "country": "Antigua and Barbuda",
+    "country_code": "AG",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_johns_ag",
+    "isTerminal": true
+  }
+]

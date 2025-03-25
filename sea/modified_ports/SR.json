@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moengo_sr",
+    "name": "Moengo",
+    "location": "5.581665167567094, -54.04587646824729",
+    "land_region": "",
+    "country": "Suriname",
+    "country_code": "SR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "moengo_sr",
+    "isTerminal": null
+  },
+  {
+    "id": "nieuw_nickerie_sr",
+    "name": "Nieuw Nickerie",
+    "location": "5.95, -56.9833333333",
+    "land_region": "",
+    "country": "Suriname",
+    "country_code": "SR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nieuw_nickerie_sr",
+    "isTerminal": null
+  },
+  {
+    "id": "paramaribo_sr",
+    "name": "Paramaribo",
+    "location": "5.880577724422123, -55.21459355222276",
+    "land_region": "",
+    "country": "Suriname",
+    "country_code": "SR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "paramaribo_sr",
+    "isTerminal": true
+  },
+  {
+    "id": "paranam_sr",
+    "name": "Paranam",
+    "location": "5.698929270332457, -55.10255795926704",
+    "land_region": "",
+    "country": "Suriname",
+    "country_code": "SR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "paranam_sr",
+    "isTerminal": true
+  },
+  {
+    "id": "wageningen_sr",
+    "name": "Wageningen",
+    "location": "5.95519028402852, -56.66960143035389",
+    "land_region": "",
+    "country": "Suriname",
+    "country_code": "SR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "wageningen_sr",
+    "isTerminal": null
+  }
+]

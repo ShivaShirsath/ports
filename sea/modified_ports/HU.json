@@ -1,0 +1,26 @@
+[
+  {
+    "id": "budapest_hu",
+    "name": "Budapest",
+    "location": "47.498415907729, 19.039478302002",
+    "land_region": "",
+    "country": "Hungary",
+    "country_code": "HU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "budapest_hu",
+    "isTerminal": false
+  },
+  {
+    "id": "papa_hu",
+    "name": "Papa",
+    "location": "47.327653995607, 17.462768554688",
+    "land_region": "",
+    "country": "Hungary",
+    "country_code": "HU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "papa_hu",
+    "isTerminal": null
+  }
+]

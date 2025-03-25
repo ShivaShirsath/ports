@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bartica_gy",
+    "name": "Bartica",
+    "location": "5.47, -57.38",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "bartica_gy",
+    "isTerminal": null
+  },
+  {
+    "id": "essequibo_river_gy",
+    "name": "Essequibo River",
+    "location": "6.871675739031408, -58.320970416933726",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "essequibo_river_gy",
+    "isTerminal": null
+  },
+  {
+    "id": "georgetown_gy",
+    "name": "Georgetown",
+    "location": "6.815303199603531, -58.154306970996245",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "georgetown_gy",
+    "isTerminal": true
+  },
+  {
+    "id": "kaituma_gy",
+    "name": "Kaituma",
+    "location": "7.73333333333, -59.8833333333",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kaituma_gy",
+    "isTerminal": null
+  },
+  {
+    "id": "linden_gy",
+    "name": "Linden",
+    "location": "6, -58.2833333333",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "linden_gy",
+    "isTerminal": null
+  },
+  {
+    "id": "new_amsterdam_gy",
+    "name": "New Amsterdam",
+    "location": "6.293397346065456, -57.51392209479419",
+    "land_region": "",
+    "country": "Guyana",
+    "country_code": "GY",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "new_amsterdam_gy",
+    "isTerminal": null
+  }
+]

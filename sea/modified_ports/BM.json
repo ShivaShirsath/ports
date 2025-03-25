@@ -1,0 +1,38 @@
+[
+  {
+    "id": "freeport_bm",
+    "name": "Freeport",
+    "location": "32.3166666667, -64.8333333333",
+    "land_region": "",
+    "country": "Bermuda",
+    "country_code": "BM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "freeport_bm",
+    "isTerminal": null
+  },
+  {
+    "id": "hamilton_bm",
+    "name": "Hamilton",
+    "location": "32.2833333333, -64.7666666667002",
+    "land_region": "",
+    "country": "Bermuda",
+    "country_code": "BM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "hamilton_bm",
+    "isTerminal": true
+  },
+  {
+    "id": "st_georges_bm",
+    "name": "St George's",
+    "location": "32.3666666667, -64.7",
+    "land_region": "",
+    "country": "Bermuda",
+    "country_code": "BM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_georges_bm",
+    "isTerminal": null
+  }
+]

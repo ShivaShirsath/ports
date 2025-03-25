@@ -1,0 +1,74 @@
+[
+  {
+    "id": "charlotte_amalie_vi",
+    "name": "Charlotte Amalie",
+    "location": "18.3414809310923, -64.93058545789009",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "charlotte_amalie_vi",
+    "isTerminal": true
+  },
+  {
+    "id": "christiansted_st_croix_vi",
+    "name": "Christiansted, St. Croix",
+    "location": "17.746795143079506, -64.7072997437332",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "christiansted_st_croix_vi",
+    "isTerminal": true
+  },
+  {
+    "id": "limetree_bay_vi",
+    "name": "Limetree Bay",
+    "location": "17.70557495143848, -64.73264657574312",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "limetree_bay_vi",
+    "isTerminal": null
+  },
+  {
+    "id": "port_alucroix_vi",
+    "name": "Port Alucroix",
+    "location": "17.42, -64.46",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_alucroix_vi",
+    "isTerminal": null
+  },
+  {
+    "id": "saint_john_vi",
+    "name": "Saint John",
+    "location": "18.3345, -64.8485",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "saint_john_vi",
+    "isTerminal": true
+  },
+  {
+    "id": "third_port_vi",
+    "name": "Third Port",
+    "location": "17.693132054318006, -64.76563638943428",
+    "land_region": "",
+    "country": "U.S. Virgin Islands",
+    "country_code": "VI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "third_port_vi",
+    "isTerminal": null
+  }
+]

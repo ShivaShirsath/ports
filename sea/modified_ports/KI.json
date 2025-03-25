@@ -1,0 +1,62 @@
+[
+  {
+    "id": "banaba_ki",
+    "name": "Banaba",
+    "location": "-0.85, 169.566666667",
+    "land_region": "",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "banaba_ki",
+    "isTerminal": null
+  },
+  {
+    "id": "betio_ki",
+    "name": "Betio",
+    "location": "1.41666666667, 172.9",
+    "land_region": "",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "betio_ki",
+    "isTerminal": null
+  },
+  {
+    "id": "english_harbour_ki",
+    "name": "English Harbour",
+    "location": "3.85, -159.366666667",
+    "land_region": "",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "english_harbour_ki",
+    "isTerminal": null
+  },
+  {
+    "id": "tarawa_island_ki",
+    "name": "Tarawa Island",
+    "location": "1.4063996119646, 172.847900390625",
+    "land_region": "",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tarawa_island_ki",
+    "isTerminal": true
+  },
+  {
+    "id": "teraina_harbour_ki",
+    "name": "Teraina Harbour",
+    "location": "3.85, -159.366666667",
+    "land_region": "",
+    "country": "Kiribati",
+    "country_code": "KI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "teraina_harbour_ki",
+    "isTerminal": null
+  }
+]

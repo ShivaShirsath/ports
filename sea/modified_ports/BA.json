@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sarajevo_ba",
+    "name": "Sarajevo",
+    "location": "43.8509, 18.3846",
+    "land_region": "",
+    "country": "Bosnia and Herzegovina",
+    "country_code": "BA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sarajevo_ba",
+    "isTerminal": true
+  }
+]

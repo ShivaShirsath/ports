@@ -1,0 +1,26 @@
+[
+  {
+    "id": "kwajalein_mh",
+    "name": "Kwajalein",
+    "location": "9.16666666667, 167.5",
+    "land_region": "",
+    "country": "Marshall Islands",
+    "country_code": "MH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kwajalein_mh",
+    "isTerminal": true
+  },
+  {
+    "id": "majuro_mh",
+    "name": "Majuro",
+    "location": "7.11666666666998, 171.166666667",
+    "land_region": "",
+    "country": "Marshall Islands",
+    "country_code": "MH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "majuro_mh",
+    "isTerminal": true
+  }
+]

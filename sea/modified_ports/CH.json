@@ -1,0 +1,38 @@
+[
+  {
+    "id": "basel_ch",
+    "name": "BASEL",
+    "location": "47.56791, 7.607204",
+    "land_region": "",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "basel_ch",
+    "isTerminal": true
+  },
+  {
+    "id": "muttenz_ch",
+    "name": "Muttenz",
+    "location": "47.52271, 7.64511",
+    "land_region": "",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "muttenz_ch",
+    "isTerminal": true
+  },
+  {
+    "id": "zurich_ch",
+    "name": "Zurich",
+    "location": "47.3744, 8.5411",
+    "land_region": "",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "zurich_ch",
+    "isTerminal": true
+  }
+]

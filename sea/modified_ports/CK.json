@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aitutaki_ck",
+    "name": "Aitutaki",
+    "location": "-18.86949, -159.7882",
+    "land_region": "",
+    "country": "Cook Islands",
+    "country_code": "CK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "aitutaki_ck",
+    "isTerminal": true
+  },
+  {
+    "id": "avatiu_ck",
+    "name": "Avatiu",
+    "location": "-21.2, -159.783333333",
+    "land_region": "",
+    "country": "Cook Islands",
+    "country_code": "CK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "avatiu_ck",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "apra_harbour_gu",
+    "name": "Apra Harbour",
+    "location": "13.4096497966322, 144.66796875",
+    "land_region": "",
+    "country": "Guam",
+    "country_code": "GU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "apra_harbour_gu",
+    "isTerminal": null
+  },
+  {
+    "id": "guam_gu",
+    "name": "Guam",
+    "location": "13.44447, 144.6515",
+    "land_region": "",
+    "country": "Guam",
+    "country_code": "GU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "guam_gu",
+    "isTerminal": true
+  }
+]

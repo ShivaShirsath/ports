@@ -1,0 +1,26 @@
+[
+  {
+    "id": "portsmouth_dm",
+    "name": "Portsmouth",
+    "location": "15.566667061903136, -61.452933170275564",
+    "land_region": "",
+    "country": "Dominica",
+    "country_code": "DM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "portsmouth_dm",
+    "isTerminal": true
+  },
+  {
+    "id": "roseau_dm",
+    "name": "Roseau",
+    "location": "15.3, -61.3833333333",
+    "land_region": "",
+    "country": "Dominica",
+    "country_code": "DM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "roseau_dm",
+    "isTerminal": true
+  }
+]

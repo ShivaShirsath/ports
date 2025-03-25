@@ -1,0 +1,122 @@
+[
+  {
+    "id": "chake_chake_tz",
+    "name": "Chake Chake",
+    "location": "-5.24427388624915, 39.7529338186194",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "chake_chake_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "dar_es_salaam_tz",
+    "name": "Dar Es Salaam",
+    "location": "-6.7825759213085925, 39.284519445339924",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "dar_es_salaam_tz",
+    "isTerminal": true
+  },
+  {
+    "id": "kilwa_kivinje_tz",
+    "name": "Kilwa Kivinje",
+    "location": "-8.75, 39.35",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kilwa_kivinje_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "kilwa_masoko_tz",
+    "name": "Kilwa Masoko",
+    "location": "-8.93333333333, 39.5166666667",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kilwa_masoko_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "lindi_tz",
+    "name": "Lindi",
+    "location": "-10, 39.7333333333",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "lindi_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "mkoani_tz",
+    "name": "Mkoani",
+    "location": "-5.349316219268423, 39.64328879187318",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "mkoani_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "pangani_tz",
+    "name": "Pangani",
+    "location": "-5.457518795439295, 38.9986282172507",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "pangani_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "tanga_tz",
+    "name": "Tanga",
+    "location": "-5.058207580426956, 39.12421832061431",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tanga_tz",
+    "isTerminal": true
+  },
+  {
+    "id": "wete_wete_tz",
+    "name": "Wete Wete",
+    "location": "-5.22649533072643, 39.712546910057114",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "wete_wete_tz",
+    "isTerminal": null
+  },
+  {
+    "id": "zanzibar_tz",
+    "name": "Zanzibar",
+    "location": "-6.162066468704451, 39.18857577806875",
+    "land_region": "",
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "zanzibar_tz",
+    "isTerminal": true
+  }
+]

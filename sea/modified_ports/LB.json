@@ -1,0 +1,98 @@
+[
+  {
+    "id": "beirut_lb",
+    "name": "Beirut",
+    "location": "33.89087956722635, 35.486268323368755",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "beirut_lb",
+    "isTerminal": true
+  },
+  {
+    "id": "chekka_lb",
+    "name": "Chekka",
+    "location": "34.18874753202519, 35.646692391499435",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "chekka_lb",
+    "isTerminal": null
+  },
+  {
+    "id": "jounieh_lb",
+    "name": "Jounieh",
+    "location": "33.98333300783164, 35.65823882629134",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "jounieh_lb",
+    "isTerminal": null
+  },
+  {
+    "id": "selaata_lb",
+    "name": "Selaata",
+    "location": "34.28333199165153, 35.674907902960754",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "selaata_lb",
+    "isTerminal": null
+  },
+  {
+    "id": "sidon_lb",
+    "name": "Sidon",
+    "location": "33.568955676170724, 35.391386750513526",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sidon_lb",
+    "isTerminal": null
+  },
+  {
+    "id": "tripoli_lb",
+    "name": "Tripoli",
+    "location": "34.43722298384108, 35.83314631055703",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tripoli_lb",
+    "isTerminal": true
+  },
+  {
+    "id": "tyr_lb",
+    "name": "Tyr",
+    "location": "33.268963522540005, 35.22197415343511",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tyr_lb",
+    "isTerminal": null
+  },
+  {
+    "id": "zahrani_terminal_lb",
+    "name": "Zahrani Terminal",
+    "location": "33.49898380321853, 35.34962697392807",
+    "land_region": "",
+    "country": "Lebanon",
+    "country_code": "LB",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "zahrani_terminal_lb",
+    "isTerminal": null
+  }
+]

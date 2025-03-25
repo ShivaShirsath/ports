@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kampong_saom_kh",
+    "name": "Kampong Saom",
+    "location": "10.64724, 103.507",
+    "land_region": "",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kampong_saom_kh",
+    "isTerminal": true
+  },
+  {
+    "id": "phnom_penh_kh",
+    "name": "Phnom Penh",
+    "location": "11.5833333333, 104.916666667",
+    "land_region": "",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "phnom_penh_kh",
+    "isTerminal": true
+  },
+  {
+    "id": "sihanoukville_kh",
+    "name": "Sihanoukville",
+    "location": "10.6078861745146, 103.524169921875",
+    "land_region": "",
+    "country": "Cambodia",
+    "country_code": "KH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sihanoukville_kh",
+    "isTerminal": true
+  }
+]

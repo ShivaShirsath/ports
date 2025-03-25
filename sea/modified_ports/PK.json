@@ -1,0 +1,110 @@
+[
+  {
+    "id": "faisalabad_pk",
+    "name": "Faisalabad",
+    "location": "31.49046825451, 73.140958469178",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "faisalabad_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "gwadar_pk",
+    "name": "Gwadar",
+    "location": "25.199713150289828, 62.35000338567587",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "gwadar_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "islamabad_pk",
+    "name": "Islamabad",
+    "location": "33.664486, 73.049084",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "islamabad_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "karachi_pk",
+    "name": "Karachi",
+    "location": "24.876482985555437, 66.93370918672558",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "karachi_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "keti_bandar_pk",
+    "name": "Keti Bandar",
+    "location": "24.025089660229593, 67.44175914775863",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "keti_bandar_pk",
+    "isTerminal": null
+  },
+  {
+    "id": "lahore_pk",
+    "name": "Lahore",
+    "location": "31.579057734786, 74.286804199219",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "lahore_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "port_qasim_pk",
+    "name": "Port Qasim",
+    "location": "24.817782632281055, 67.20649328179755",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_qasim_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "sialkot_pk",
+    "name": "Sialkot",
+    "location": "32.477689, 74.373893",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sialkot_pk",
+    "isTerminal": true
+  },
+  {
+    "id": "sialkot_pk",
+    "name": "Sialkot",
+    "location": "32.3, 74.31",
+    "land_region": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sialkot_pk",
+    "isTerminal": null
+  }
+]

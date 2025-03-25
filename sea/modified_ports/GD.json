@@ -1,0 +1,26 @@
+[
+  {
+    "id": "st_george_gd",
+    "name": "St. George",
+    "location": "11.8977777778, -61.8286111110997",
+    "land_region": "",
+    "country": "Grenada",
+    "country_code": "GD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_george_gd",
+    "isTerminal": true
+  },
+  {
+    "id": "st_georges_gd",
+    "name": "St George's",
+    "location": "12.05, -61.75",
+    "land_region": "",
+    "country": "Grenada",
+    "country_code": "GD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_georges_gd",
+    "isTerminal": null
+  }
+]

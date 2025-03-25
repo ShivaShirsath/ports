@@ -1,0 +1,74 @@
+[
+  {
+    "id": "colombo_lk",
+    "name": "Colombo",
+    "location": "6.93082874954599, 79.8486328124997",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "colombo_lk",
+    "isTerminal": true
+  },
+  {
+    "id": "galle_lk",
+    "name": "Galle",
+    "location": "6.03578651623467, 80.21510765046375",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "galle_lk",
+    "isTerminal": null
+  },
+  {
+    "id": "jaffna_lk",
+    "name": "Jaffna",
+    "location": "9.66666666667, 80.0166666667",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "jaffna_lk",
+    "isTerminal": null
+  },
+  {
+    "id": "kankesanturai_lk",
+    "name": "Kankesanturai",
+    "location": "9.81666666667, 80.05",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kankesanturai_lk",
+    "isTerminal": null
+  },
+  {
+    "id": "matara_lk",
+    "name": "Matara",
+    "location": "5.56, 80.32",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "matara_lk",
+    "isTerminal": null
+  },
+  {
+    "id": "negombo_lk",
+    "name": "Negombo",
+    "location": "7.12, 79.5",
+    "land_region": "",
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "negombo_lk",
+    "isTerminal": null
+  }
+]

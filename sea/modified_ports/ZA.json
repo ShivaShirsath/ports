@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cape_town_za",
+    "name": "Cape Town",
+    "location": "-33.945701864914, 18.430981636047",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "cape_town_za",
+    "isTerminal": true
+  },
+  {
+    "id": "coega_za",
+    "name": "Coega",
+    "location": "-33.797932, 25.671709",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "coega_za",
+    "isTerminal": true
+  },
+  {
+    "id": "durban_za",
+    "name": "Durban",
+    "location": "-29.8666666667, 31.0166666667",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "durban_za",
+    "isTerminal": true
+  },
+  {
+    "id": "east_london_za",
+    "name": "East London",
+    "location": "-33.0166666667, 27.9",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "east_london_za",
+    "isTerminal": false
+  },
+  {
+    "id": "johannesburg_za",
+    "name": "Johannesburg",
+    "location": "-26.216655, 28.091608",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "johannesburg_za",
+    "isTerminal": true
+  },
+  {
+    "id": "port_elizabeth_za",
+    "name": "Port Elizabeth",
+    "location": "-33.9265642390802, 25.6063842773437",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_elizabeth_za",
+    "isTerminal": true
+  },
+  {
+    "id": "port_nolloth_za",
+    "name": "Port Nolloth",
+    "location": "-29.272763273138118, 16.887265354904883",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_nolloth_za",
+    "isTerminal": null
+  },
+  {
+    "id": "richards_bay_za",
+    "name": "Richards Bay",
+    "location": "-28.771113820687, 32.083520507812",
+    "land_region": "",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "richards_bay_za",
+    "isTerminal": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "belize_bz",
+    "name": "Belize",
+    "location": "17.5038602694019, -88.1900024414064",
+    "land_region": "",
+    "country": "Belize",
+    "country_code": "BZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "belize_bz",
+    "isTerminal": true
+  },
+  {
+    "id": "belize_city_bz",
+    "name": "Belize City",
+    "location": "17.499999917799435, -88.20000177136968",
+    "land_region": "",
+    "country": "Belize",
+    "country_code": "BZ",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "belize_city_bz",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chalna_bd",
+    "name": "Chalna",
+    "location": "22.6, 89.5166666666002",
+    "land_region": "",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "chalna_bd",
+    "isTerminal": false
+  },
+  {
+    "id": "chittagong_bd",
+    "name": "Chittagong",
+    "location": "22.331040529073643, 91.83845037242465",
+    "land_region": "",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "chittagong_bd",
+    "isTerminal": true
+  },
+  {
+    "id": "dhaka_bd",
+    "name": "Dhaka",
+    "location": "23.68756732465695, 90.43739415854745",
+    "land_region": "",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "dhaka_bd",
+    "isTerminal": true
+  },
+  {
+    "id": "mongla_bd",
+    "name": "Mongla",
+    "location": "22.4672972600644, 89.58251953125",
+    "land_region": "",
+    "country": "Bangladesh",
+    "country_code": "BD",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "mongla_bd",
+    "isTerminal": true
+  }
+]

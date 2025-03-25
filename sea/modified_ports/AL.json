@@ -1,0 +1,62 @@
+[
+  {
+    "id": "durres_al",
+    "name": "Durres",
+    "location": "41.318730780182726, 19.44881339744957",
+    "land_region": "",
+    "country": "Albania",
+    "country_code": "AL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "durres_al",
+    "isTerminal": true
+  },
+  {
+    "id": "sarande_al",
+    "name": "Sarande",
+    "location": "39.8833333333, 20",
+    "land_region": "",
+    "country": "Albania",
+    "country_code": "AL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sarande_al",
+    "isTerminal": null
+  },
+  {
+    "id": "shengjin_al",
+    "name": "Shengjin",
+    "location": "41.8166666667, 19.6",
+    "land_region": "",
+    "country": "Albania",
+    "country_code": "AL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "shengjin_al",
+    "isTerminal": null
+  },
+  {
+    "id": "valona_al",
+    "name": "Valona",
+    "location": "40.44999901964881, 19.498436429317003",
+    "land_region": "",
+    "country": "Albania",
+    "country_code": "AL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "valona_al",
+    "isTerminal": null
+  },
+  {
+    "id": "vlore_al",
+    "name": "Vlore",
+    "location": "40.49691217396304, 19.458614718908535",
+    "land_region": "",
+    "country": "Albania",
+    "country_code": "AL",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "vlore_al",
+    "isTerminal": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "chuuk_fm",
+    "name": "Chuuk",
+    "location": "7.4459896794714, 151.83959296815",
+    "land_region": "",
+    "country": "Micronesia",
+    "country_code": "FM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "chuuk_fm",
+    "isTerminal": true
+  },
+  {
+    "id": "pohnpei_fm",
+    "name": "Pohnpei",
+    "location": "6.9796599317638, 158.20127909958",
+    "land_region": "",
+    "country": "Micronesia",
+    "country_code": "FM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "pohnpei_fm",
+    "isTerminal": true
+  },
+  {
+    "id": "yap_fm",
+    "name": "Yap",
+    "location": "9.5156056393527, 138.12466981676",
+    "land_region": "",
+    "country": "Micronesia",
+    "country_code": "FM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "yap_fm",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "accra_gh",
+    "name": "Accra",
+    "location": "5.53333333333, -0.2",
+    "land_region": "",
+    "country": "Ghana",
+    "country_code": "GH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "accra_gh",
+    "isTerminal": true
+  },
+  {
+    "id": "saltpond_gh",
+    "name": "Saltpond",
+    "location": "5.19822560463857, -1.0796508835899716",
+    "land_region": "",
+    "country": "Ghana",
+    "country_code": "GH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "saltpond_gh",
+    "isTerminal": null
+  },
+  {
+    "id": "sekondi_gh",
+    "name": "Sekondi",
+    "location": "4.94, -1.697",
+    "land_region": "",
+    "country": "Ghana",
+    "country_code": "GH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "sekondi_gh",
+    "isTerminal": null
+  },
+  {
+    "id": "takoradi_gh",
+    "name": "Takoradi",
+    "location": "4.884, -1.7395",
+    "land_region": "",
+    "country": "Ghana",
+    "country_code": "GH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "takoradi_gh",
+    "isTerminal": true
+  },
+  {
+    "id": "tema_gh",
+    "name": "Tema",
+    "location": "5.63333333333, 0.0166666666667",
+    "land_region": "",
+    "country": "Ghana",
+    "country_code": "GH",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tema_gh",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kuala_belait_bn",
+    "name": "Kuala Belait",
+    "location": "4.588808806133353, 114.22709330186359",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kuala_belait_bn",
+    "isTerminal": true
+  },
+  {
+    "id": "lumut_bn",
+    "name": "Lumut",
+    "location": "4.6701311728256405, 114.46373203584785",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "lumut_bn",
+    "isTerminal": null
+  },
+  {
+    "id": "muara_bn",
+    "name": "Muara",
+    "location": "5.022822931658058, 115.06564245645524",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "muara_bn",
+    "isTerminal": true
+  },
+  {
+    "id": "muara_harbour_bn",
+    "name": "Muara Harbour",
+    "location": "5.009890822238285, 115.06521898472668",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "muara_harbour_bn",
+    "isTerminal": true
+  },
+  {
+    "id": "seria_bn",
+    "name": "Seria",
+    "location": "4.612642324355289, 114.31510711950838",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "seria_bn",
+    "isTerminal": null
+  },
+  {
+    "id": "tanjong_salirontanjo_bn",
+    "name": "Tanjong Salirontanjo",
+    "location": "4.893406214811949, 115.11080366724735",
+    "land_region": "",
+    "country": "Brunei",
+    "country_code": "BN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tanjong_salirontanjo_bn",
+    "isTerminal": null
+  }
+]

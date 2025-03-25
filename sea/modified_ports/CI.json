@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ciabj_ci",
+    "name": "CIABJ",
+    "location": "5.2562412314487, -3.9780272504546",
+    "land_region": "",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "ciabj_ci",
+    "isTerminal": true
+  },
+  {
+    "id": "espoir_terminal_ci",
+    "name": "Espoir Terminal",
+    "location": "5.175589077068679, -4.80156236859008",
+    "land_region": "",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "espoir_terminal_ci",
+    "isTerminal": null
+  },
+  {
+    "id": "fresco_ci",
+    "name": "Fresco",
+    "location": "5.05, -5.34",
+    "land_region": "",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "fresco_ci",
+    "isTerminal": null
+  },
+  {
+    "id": "san_pedro_ci",
+    "name": "San Pedro",
+    "location": "4.740397571022961, -6.6193956546172785",
+    "land_region": "",
+    "country": "Ivory Coast",
+    "country_code": "CI",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_pedro_ci",
+    "isTerminal": true
+  }
+]

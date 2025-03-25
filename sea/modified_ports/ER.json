@@ -1,0 +1,26 @@
+[
+  {
+    "id": "assab_er",
+    "name": "Assab",
+    "location": "13.0166666667, 42.7333333333",
+    "land_region": "",
+    "country": "Eritrea",
+    "country_code": "ER",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "assab_er",
+    "isTerminal": null
+  },
+  {
+    "id": "massawa_er",
+    "name": "Massawa",
+    "location": "15.6333333333, 39.4666666667",
+    "land_region": "",
+    "country": "Eritrea",
+    "country_code": "ER",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "massawa_er",
+    "isTerminal": true
+  }
+]

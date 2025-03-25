@@ -1,0 +1,26 @@
+[
+  {
+    "id": "little_bay_ferry_terminal_ms",
+    "name": "Little Bay Ferry Terminal",
+    "location": "16.80342, -62.205477309966",
+    "land_region": "",
+    "country": "Montserrat",
+    "country_code": "MS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "little_bay_ferry_terminal_ms",
+    "isTerminal": true
+  },
+  {
+    "id": "plymouth_ms",
+    "name": "Plymouth",
+    "location": "16.7, -62.2166666667",
+    "land_region": "",
+    "country": "Montserrat",
+    "country_code": "MS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "plymouth_ms",
+    "isTerminal": true
+  }
+]

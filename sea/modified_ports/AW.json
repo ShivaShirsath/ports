@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aruba_aw",
+    "name": "Aruba",
+    "location": "12.47543, -69.97541",
+    "land_region": "",
+    "country": "Aruba",
+    "country_code": "AW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "aruba_aw",
+    "isTerminal": false
+  },
+  {
+    "id": "barcadera_aw",
+    "name": "Barcadera",
+    "location": "12.481883625069, -69.99027265625",
+    "land_region": "",
+    "country": "Aruba",
+    "country_code": "AW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "barcadera_aw",
+    "isTerminal": true
+  },
+  {
+    "id": "oranjestad_aw",
+    "name": "Oranjestad",
+    "location": "12.5380525878925, -70.037841796875",
+    "land_region": "",
+    "country": "Aruba",
+    "country_code": "AW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "oranjestad_aw",
+    "isTerminal": true
+  },
+  {
+    "id": "san_nicolas_aw",
+    "name": "San Nicolas",
+    "location": "12.4333333333, -69.9166666667",
+    "land_region": "",
+    "country": "Aruba",
+    "country_code": "AW",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_nicolas_aw",
+    "isTerminal": null
+  }
+]

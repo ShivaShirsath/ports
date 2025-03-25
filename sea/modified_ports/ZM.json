@@ -1,0 +1,14 @@
+[
+  {
+    "id": "lusaka_zm",
+    "name": "Lusaka",
+    "location": "-15.42655, 28.300588",
+    "land_region": "",
+    "country": "Zambia",
+    "country_code": "ZM",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "lusaka_zm",
+    "isTerminal": true
+  }
+]

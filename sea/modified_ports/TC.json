@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cockburn_harbour_tc",
+    "name": "Cockburn Harbour",
+    "location": "21.43205444561115, -71.14194582872135",
+    "land_region": "",
+    "country": "Turks and Caicos Islands",
+    "country_code": "TC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "cockburn_harbour_tc",
+    "isTerminal": null
+  },
+  {
+    "id": "grand_turk_tc",
+    "name": "Grand Turk",
+    "location": "21.471678080533685, -71.13333296017795",
+    "land_region": "",
+    "country": "Turks and Caicos Islands",
+    "country_code": "TC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "grand_turk_tc",
+    "isTerminal": null
+  },
+  {
+    "id": "providenciales_tc",
+    "name": "Providenciales",
+    "location": "21.63665276219888, -72.46429777279249",
+    "land_region": "",
+    "country": "Turks and Caicos Islands",
+    "country_code": "TC",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "providenciales_tc",
+    "isTerminal": true
+  }
+]

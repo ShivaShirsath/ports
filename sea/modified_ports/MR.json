@@ -1,0 +1,26 @@
+[
+  {
+    "id": "nouadhibou_mr",
+    "name": "Nouadhibou",
+    "location": "20.9, -17.05",
+    "land_region": "",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nouadhibou_mr",
+    "isTerminal": true
+  },
+  {
+    "id": "nouakchott_mr",
+    "name": "Nouakchott",
+    "location": "18.043780305928124, -16.00037382891519",
+    "land_region": "",
+    "country": "Mauritania",
+    "country_code": "MR",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "nouakchott_mr",
+    "isTerminal": true
+  }
+]

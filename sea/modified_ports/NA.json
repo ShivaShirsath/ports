@@ -1,0 +1,26 @@
+[
+  {
+    "id": "luderitz_na",
+    "name": "Luderitz",
+    "location": "-26.604386072693, 15.2490234375",
+    "land_region": "",
+    "country": "Namibia",
+    "country_code": "NA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "luderitz_na",
+    "isTerminal": true
+  },
+  {
+    "id": "walvis_bay_na",
+    "name": "Walvis Bay",
+    "location": "-22.950255887413, 14.500579833984",
+    "land_region": "",
+    "country": "Namibia",
+    "country_code": "NA",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "walvis_bay_na",
+    "isTerminal": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bar_rs",
+    "name": "Bar",
+    "location": "42.0833333333, 19.0833333333",
+    "land_region": "",
+    "country": "Serbia",
+    "country_code": "RS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "bar_rs",
+    "isTerminal": true
+  },
+  {
+    "id": "kotor_rs",
+    "name": "Kotor",
+    "location": "42.422749439713, 18.709987386034",
+    "land_region": "",
+    "country": "Serbia",
+    "country_code": "RS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kotor_rs",
+    "isTerminal": null
+  },
+  {
+    "id": "novi_sad_rs",
+    "name": "Novi Sad",
+    "location": "45.25047, 19.84938",
+    "land_region": "",
+    "country": "Serbia",
+    "country_code": "RS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "novi_sad_rs",
+    "isTerminal": null
+  },
+  {
+    "id": "risan_rs",
+    "name": "Risan",
+    "location": "42.5166666667, 18.7",
+    "land_region": "",
+    "country": "Serbia",
+    "country_code": "RS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "risan_rs",
+    "isTerminal": null
+  },
+  {
+    "id": "zelenika_rs",
+    "name": "Zelenika",
+    "location": "42.457599330949, 18.563233439161",
+    "land_region": "",
+    "country": "Serbia",
+    "country_code": "RS",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "zelenika_rs",
+    "isTerminal": null
+  }
+]

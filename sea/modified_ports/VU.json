@@ -1,0 +1,26 @@
+[
+  {
+    "id": "port_vila_vu",
+    "name": "Port Vila",
+    "location": "-17.683489534757243, 168.31329179187605",
+    "land_region": "",
+    "country": "Vanuatu",
+    "country_code": "VU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "port_vila_vu",
+    "isTerminal": true
+  },
+  {
+    "id": "santo_vu",
+    "name": "Santo",
+    "location": "-15.510050369491, 167.18299001025",
+    "land_region": "",
+    "country": "Vanuatu",
+    "country_code": "VU",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "santo_vu",
+    "isTerminal": false
+  }
+]

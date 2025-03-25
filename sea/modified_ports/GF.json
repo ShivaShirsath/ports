@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cayenne_gf",
+    "name": "Cayenne",
+    "location": "4.912708329406405, -52.3797371975873",
+    "land_region": "",
+    "country": "French Guiana",
+    "country_code": "GF",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "cayenne_gf",
+    "isTerminal": true
+  },
+  {
+    "id": "degrad_des_cannes_gf",
+    "name": "Degrad des Cannes",
+    "location": "4.86666666667, -52.2666666667",
+    "land_region": "",
+    "country": "French Guiana",
+    "country_code": "GF",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "degrad_des_cannes_gf",
+    "isTerminal": true
+  },
+  {
+    "id": "kourou_gf",
+    "name": "Kourou",
+    "location": "5.15, -52.6666666667",
+    "land_region": "",
+    "country": "French Guiana",
+    "country_code": "GF",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "kourou_gf",
+    "isTerminal": null
+  },
+  {
+    "id": "st_laurent_du_maroni_gf",
+    "name": "St Laurent du Maroni",
+    "location": "5.505468004073254, -54.005868635183944",
+    "land_region": "",
+    "country": "French Guiana",
+    "country_code": "GF",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "st_laurent_du_maroni_gf",
+    "isTerminal": null
+  }
+]

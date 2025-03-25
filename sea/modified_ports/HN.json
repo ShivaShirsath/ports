@@ -1,0 +1,86 @@
+[
+  {
+    "id": "coxen_hole_hn",
+    "name": "Coxen Hole",
+    "location": "16.32635997497968, -86.52784168895633",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "coxen_hole_hn",
+    "isTerminal": null
+  },
+  {
+    "id": "la_ceiba_hn",
+    "name": "La Ceiba",
+    "location": "15.758737104005771, -86.8333355599635",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "la_ceiba_hn",
+    "isTerminal": null
+  },
+  {
+    "id": "puerto_castilla_hn",
+    "name": "Puerto Castilla",
+    "location": "15.890916632371152, -86.01471006718079",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "puerto_castilla_hn",
+    "isTerminal": false
+  },
+  {
+    "id": "puerto_cortes_hn",
+    "name": "Puerto Cortes",
+    "location": "15.860488139618745, -87.94830247026555",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "puerto_cortes_hn",
+    "isTerminal": true
+  },
+  {
+    "id": "san_lorenzo_hn",
+    "name": "San Lorenzo",
+    "location": "13.4002725865147, -87.4209594726564",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_lorenzo_hn",
+    "isTerminal": true
+  },
+  {
+    "id": "san_pedro_sula_hn",
+    "name": "San Pedro Sula",
+    "location": "15.506, -88.0266",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "san_pedro_sula_hn",
+    "isTerminal": false
+  },
+  {
+    "id": "tela_hn",
+    "name": "Tela",
+    "location": "15.7727611899191, -87.46922617169169",
+    "land_region": "",
+    "country": "Honduras",
+    "country_code": "HN",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "tela_hn",
+    "isTerminal": null
+  }
+]

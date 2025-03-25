@@ -1,0 +1,38 @@
+[
+  {
+    "id": "acajutla_sv",
+    "name": "Acajutla",
+    "location": "13.569944074093595, -89.83039524700841",
+    "land_region": "",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "acajutla_sv",
+    "isTerminal": true
+  },
+  {
+    "id": "cutuco_sv",
+    "name": "Cutuco",
+    "location": "13.330660349353245, -87.83333672615589",
+    "land_region": "",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "cutuco_sv",
+    "isTerminal": null
+  },
+  {
+    "id": "la_libertad_sv",
+    "name": "La Libertad",
+    "location": "13.29, -89.19",
+    "land_region": "",
+    "country": "El Salvador",
+    "country_code": "SV",
+    "functional_area": "",
+    "body_of_water": "",
+    "code": "la_libertad_sv",
+    "isTerminal": null
+  }
+]
