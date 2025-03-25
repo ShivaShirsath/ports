@@ -1,0 +1,49 @@
+{
+  "title": "Sri Lanka",
+  "ckey": "sri_lanka",
+  "cports": [
+    {
+      "name": "Colombo",
+      "t": true,
+      "ckey": "colombo_lk",
+      "lat": "6.93082874954599",
+      "lng": "79.8486328124997"
+    },
+    {
+      "name": "Galle",
+      "t": null,
+      "ckey": "galle_lk",
+      "lat": "6.03578651623467",
+      "lng": "80.21510765046375"
+    },
+    {
+      "name": "Jaffna",
+      "t": null,
+      "ckey": "jaffna_lk",
+      "lat": "9.66666666667",
+      "lng": "80.0166666667"
+    },
+    {
+      "name": "Kankesanturai",
+      "t": null,
+      "ckey": "kankesanturai_lk",
+      "lat": "9.81666666667",
+      "lng": "80.05"
+    },
+    {
+      "name": "Matara",
+      "t": null,
+      "ckey": "matara_lk",
+      "lat": "5.56",
+      "lng": "80.32"
+    },
+    {
+      "name": "Negombo",
+      "t": null,
+      "ckey": "negombo_lk",
+      "lat": "7.12",
+      "lng": "79.5"
+    }
+  ],
+  "ccountries": []
+}

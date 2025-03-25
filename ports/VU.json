@@ -1,0 +1,21 @@
+{
+  "title": "Vanuatu",
+  "ckey": "vanuatu",
+  "cports": [
+    {
+      "name": "Port Vila",
+      "t": true,
+      "ckey": "port_vila_vu",
+      "lat": "-17.683489534757243",
+      "lng": "168.31329179187605"
+    },
+    {
+      "name": "Santo",
+      "t": false,
+      "ckey": "santo_vu",
+      "lat": "-15.510050369491",
+      "lng": "167.18299001025"
+    }
+  ],
+  "ccountries": []
+}

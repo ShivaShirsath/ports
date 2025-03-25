@@ -1,0 +1,150 @@
+{
+  "title": "Croatia",
+  "ckey": "croatia",
+  "cports": [
+    {
+      "name": "Bakar",
+      "t": null,
+      "ckey": "bakar_hr",
+      "lat": "45.302414707930566",
+      "lng": "14.533332865013785"
+    },
+    {
+      "name": "Dubrovnik",
+      "t": true,
+      "ckey": "dubrovnik_hr",
+      "lat": "42.6626251408961",
+      "lng": "18.086766101469596"
+    },
+    {
+      "name": "Dugi Rat",
+      "t": null,
+      "ckey": "dugi_rat_hr",
+      "lat": "43.44645423495217",
+      "lng": "16.635081110369672"
+    },
+    {
+      "name": "Hvar",
+      "t": null,
+      "ckey": "hvar_hr",
+      "lat": "43.1666666667",
+      "lng": "16.45"
+    },
+    {
+      "name": "Korcula",
+      "t": null,
+      "ckey": "korcula_hr",
+      "lat": "42.902692629843706",
+      "lng": "16.9012467521359"
+    },
+    {
+      "name": "Mali Losinj",
+      "t": null,
+      "ckey": "mali_losinj_hr",
+      "lat": "44.5666666667",
+      "lng": "14.4333333333"
+    },
+    {
+      "name": "Metkovic",
+      "t": null,
+      "ckey": "metkovic_hr",
+      "lat": "43.0333333333",
+      "lng": "17.65"
+    },
+    {
+      "name": "Omisalj",
+      "t": null,
+      "ckey": "omisalj_hr",
+      "lat": "45.21402864497602",
+      "lng": "14.55549341377589"
+    },
+    {
+      "name": "Ploce",
+      "t": true,
+      "ckey": "ploce_hr",
+      "lat": "43.04437465889186",
+      "lng": "17.41254617566659"
+    },
+    {
+      "name": "Plomin",
+      "t": null,
+      "ckey": "plomin_hr",
+      "lat": "45.1166666667",
+      "lng": "14.1833333333"
+    },
+    {
+      "name": "Pula",
+      "t": null,
+      "ckey": "pula_hr",
+      "lat": "44.86898114848531",
+      "lng": "13.845880301467524"
+    },
+    {
+      "name": "Rasa",
+      "t": null,
+      "ckey": "rasa_hr",
+      "lat": "45.07685112568548",
+      "lng": "14.081273379701905"
+    },
+    {
+      "name": "Rijeka Bakar",
+      "t": true,
+      "ckey": "rijeka_bakar_hr",
+      "lat": "45.32509435107",
+      "lng": "14.448394340043"
+    },
+    {
+      "name": "Rovinj",
+      "t": null,
+      "ckey": "rovinj_hr",
+      "lat": "45.08381791863889",
+      "lng": "13.638140097861587"
+    },
+    {
+      "name": "Senj",
+      "t": null,
+      "ckey": "senj_hr",
+      "lat": "44.98834553442045",
+      "lng": "14.90324566517792"
+    },
+    {
+      "name": "Sibenik",
+      "t": null,
+      "ckey": "sibenik_hr",
+      "lat": "43.7320483498125",
+      "lng": "15.900811868931207"
+    },
+    {
+      "name": "Split",
+      "t": true,
+      "ckey": "split_hr",
+      "lat": "43.504982125950015",
+      "lng": "16.444319049493096"
+    },
+    {
+      "name": "Zadar",
+      "t": false,
+      "ckey": "zadar_hr",
+      "lat": "44.114696037684126",
+      "lng": "15.227652329996845"
+    },
+    {
+      "name": "Zagreb",
+      "t": true,
+      "ckey": "zagreb_hr",
+      "lat": "45.82148014881",
+      "lng": "15.970480996017"
+    }
+  ],
+  "ccountries": [
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "link": "/maritime/bosnia_and_herzegovina"
+    },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Montenegro", "code": "ME", "link": "/maritime/montenegro" },
+    { "name": "Serbia", "code": "RS", "link": "/maritime/serbia" },
+    { "name": "Slovenia", "code": "SI", "link": "/maritime/slovenia" }
+  ]
+}

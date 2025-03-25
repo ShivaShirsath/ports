@@ -1,0 +1,14 @@
+{
+  "title": "Mayotte",
+  "ckey": "mayotte",
+  "cports": [
+    {
+      "name": "LONGONI",
+      "t": false,
+      "ckey": "longoni_yt",
+      "lat": "-12.725495",
+      "lng": "45.15956"
+    }
+  ],
+  "ccountries": []
+}

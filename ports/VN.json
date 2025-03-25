@@ -1,0 +1,199 @@
+{
+  "title": "Vietnam",
+  "ckey": "vietnam",
+  "cports": [
+    {
+      "name": "Ba Ngoi",
+      "t": null,
+      "ckey": "ba_ngoi_vn",
+      "lat": "11.91881243658742",
+      "lng": "109.1335207094616"
+    },
+    {
+      "name": "Binh Duong Port",
+      "t": true,
+      "ckey": "binh_duong_port_vn",
+      "lat": "10.8994539",
+      "lng": "106.8383396"
+    },
+    {
+      "name": "Cai Lan",
+      "t": false,
+      "ckey": "cai_lan_vn",
+      "lat": "21.25",
+      "lng": "107.03"
+    },
+    {
+      "name": "Cai Mep",
+      "t": true,
+      "ckey": "cai_mep_vn",
+      "lat": "10.5357785",
+      "lng": "107.0013142"
+    },
+    {
+      "name": "Campha",
+      "t": null,
+      "ckey": "campha_vn",
+      "lat": "21.0166666667",
+      "lng": "107.35"
+    },
+    {
+      "name": "Can Tho",
+      "t": null,
+      "ckey": "can_tho_vn",
+      "lat": "10.037491471220767",
+      "lng": "105.78726760109978"
+    },
+    {
+      "name": "Cat Lai",
+      "t": true,
+      "ckey": "cat_lai_vn",
+      "lat": "10.770827",
+      "lng": "106.785392"
+    },
+    {
+      "name": "Dai Hung",
+      "t": null,
+      "ckey": "dai_hung_vn",
+      "lat": "8.48333333333",
+      "lng": "108.683333333"
+    },
+    {
+      "name": "Danang",
+      "t": true,
+      "ckey": "danang_vn",
+      "lat": "16.12638740400734",
+      "lng": "108.23863615459571"
+    },
+    {
+      "name": "Da Nang",
+      "t": true,
+      "ckey": "da_nang_vn",
+      "lat": "16.04",
+      "lng": "108.13"
+    },
+    {
+      "name": "Dong Nai Port",
+      "t": true,
+      "ckey": "dong_nai_port_vn",
+      "lat": "10.901346318758",
+      "lng": "106.84131007385"
+    },
+    {
+      "name": "Dong Thap",
+      "t": null,
+      "ckey": "dong_thap_vn",
+      "lat": "10.378810538198291",
+      "lng": "107.12553388593707"
+    },
+    {
+      "name": "Haiphong",
+      "t": true,
+      "ckey": "haiphong_vn",
+      "lat": "20.9089907600014",
+      "lng": "106.740417480469"
+    },
+    {
+      "name": "Hanoi",
+      "t": true,
+      "ckey": "hanoi_vn",
+      "lat": "21.025576227725352",
+      "lng": "105.85972224781528"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "t": true,
+      "ckey": "ho_chi_minh_city_vn",
+      "lat": "10.826167627573",
+      "lng": "106.7530040741"
+    },
+    {
+      "name": "Hon Chong",
+      "t": null,
+      "ckey": "hon_chong_vn",
+      "lat": "10.373442863284307",
+      "lng": "104.50274807484134"
+    },
+    {
+      "name": "Hon Gay",
+      "t": null,
+      "ckey": "hon_gay_vn",
+      "lat": "20.95",
+      "lng": "107.1"
+    },
+    {
+      "name": "Le Mon",
+      "t": null,
+      "ckey": "le_mon_vn",
+      "lat": "19.799999526456823",
+      "lng": "105.93352244179728"
+    },
+    {
+      "name": "My Tho",
+      "t": null,
+      "ckey": "my_tho_vn",
+      "lat": "10.3333333333",
+      "lng": "105.483333333"
+    },
+    {
+      "name": "Nam Can",
+      "t": null,
+      "ckey": "nam_can_vn",
+      "lat": "8.77058273396355",
+      "lng": "105.26960073371535"
+    },
+    {
+      "name": "Nghe Tinh",
+      "t": null,
+      "ckey": "nghe_tinh_vn",
+      "lat": "18.65",
+      "lng": "105.7"
+    },
+    {
+      "name": "Nha Trang",
+      "t": true,
+      "ckey": "nha_trang_vn",
+      "lat": "12.210738136808349",
+      "lng": "109.20293592199644"
+    },
+    {
+      "name": "Phu My",
+      "t": null,
+      "ckey": "phu_my_vn",
+      "lat": "10.5833333333",
+      "lng": "107.033333333"
+    },
+    {
+      "name": "Quy Nhon",
+      "t": true,
+      "ckey": "quy_nhon_vn",
+      "lat": "13.769334371439",
+      "lng": "109.23127437686"
+    },
+    {
+      "name": "Tan Cang",
+      "t": false,
+      "ckey": "tan_cang_vn",
+      "lat": "10.7511111111",
+      "lng": "106.718333333"
+    },
+    {
+      "name": "Van Phong Bay",
+      "t": null,
+      "ckey": "van_phong_bay_vn",
+      "lat": "12.645337097280738",
+      "lng": "109.19107188340813"
+    },
+    {
+      "name": "Vung Tau",
+      "t": true,
+      "ckey": "vung_tau_vn",
+      "lat": "10.356755003595",
+      "lng": "107.06391874943"
+    }
+  ],
+  "ccountries": [
+    { "name": "Cambodia", "code": "KH", "link": "/maritime/cambodia" },
+    { "name": "China", "code": "CN", "link": "/maritime/china" }
+  ]
+}

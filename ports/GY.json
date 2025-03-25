@@ -1,0 +1,53 @@
+{
+  "title": "Guyana",
+  "ckey": "guyana",
+  "cports": [
+    {
+      "name": "Bartica",
+      "t": null,
+      "ckey": "bartica_gy",
+      "lat": "5.47",
+      "lng": "-57.38"
+    },
+    {
+      "name": "Essequibo River",
+      "t": null,
+      "ckey": "essequibo_river_gy",
+      "lat": "6.871675739031408",
+      "lng": "-58.320970416933726"
+    },
+    {
+      "name": "Georgetown",
+      "t": true,
+      "ckey": "georgetown_gy",
+      "lat": "6.815303199603531",
+      "lng": "-58.154306970996245"
+    },
+    {
+      "name": "Kaituma",
+      "t": null,
+      "ckey": "kaituma_gy",
+      "lat": "7.73333333333",
+      "lng": "-59.8833333333"
+    },
+    {
+      "name": "Linden",
+      "t": null,
+      "ckey": "linden_gy",
+      "lat": "6",
+      "lng": "-58.2833333333"
+    },
+    {
+      "name": "New Amsterdam",
+      "t": null,
+      "ckey": "new_amsterdam_gy",
+      "lat": "6.293397346065456",
+      "lng": "-57.51392209479419"
+    }
+  ],
+  "ccountries": [
+    { "name": "Brazil", "code": "BR", "link": "/maritime/brazil" },
+    { "name": "Suriname", "code": "SR", "link": "/maritime/suriname" },
+    { "name": "Venezuela", "code": "VE", "link": "/maritime/venezuela" }
+  ]
+}

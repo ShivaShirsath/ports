@@ -1,0 +1,18 @@
+{
+  "title": "Bosnia and Herzegovina",
+  "ckey": "bosnia_and_herzegovina",
+  "cports": [
+    {
+      "name": "Sarajevo",
+      "t": true,
+      "ckey": "sarajevo_ba",
+      "lat": "43.8509",
+      "lng": "18.3846"
+    }
+  ],
+  "ccountries": [
+    { "name": "Croatia", "code": "HR", "link": "/maritime/croatia" },
+    { "name": "Montenegro", "code": "ME", "link": "/maritime/montenegro" },
+    { "name": "Serbia", "code": "RS", "link": "/maritime/serbia" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Aruba",
+  "ckey": "aruba",
+  "cports": [
+    {
+      "name": "Aruba",
+      "t": false,
+      "ckey": "aruba_aw",
+      "lat": "12.47543",
+      "lng": "-69.97541"
+    },
+    {
+      "name": "Barcadera",
+      "t": true,
+      "ckey": "barcadera_aw",
+      "lat": "12.481883625069",
+      "lng": "-69.99027265625"
+    },
+    {
+      "name": "Oranjestad",
+      "t": true,
+      "ckey": "oranjestad_aw",
+      "lat": "12.5380525878925",
+      "lng": "-70.037841796875"
+    },
+    {
+      "name": "San Nicolas",
+      "t": null,
+      "ckey": "san_nicolas_aw",
+      "lat": "12.4333333333",
+      "lng": "-69.9166666667"
+    }
+  ],
+  "ccountries": []
+}

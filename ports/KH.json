@@ -1,0 +1,31 @@
+{
+  "title": "Cambodia",
+  "ckey": "cambodia",
+  "cports": [
+    {
+      "name": "Kampong Saom",
+      "t": true,
+      "ckey": "kampong_saom_kh",
+      "lat": "10.64724",
+      "lng": "103.507"
+    },
+    {
+      "name": "Phnom Penh",
+      "t": true,
+      "ckey": "phnom_penh_kh",
+      "lat": "11.5833333333",
+      "lng": "104.916666667"
+    },
+    {
+      "name": "Sihanoukville",
+      "t": true,
+      "ckey": "sihanoukville_kh",
+      "lat": "10.6078861745146",
+      "lng": "103.524169921875"
+    }
+  ],
+  "ccountries": [
+    { "name": "Thailand", "code": "TH", "link": "/maritime/thailand" },
+    { "name": "Vietnam", "code": "VN", "link": "/maritime/vietnam" }
+  ]
+}

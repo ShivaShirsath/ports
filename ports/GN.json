@@ -1,0 +1,32 @@
+{
+  "title": "Guinea",
+  "ckey": "guinea",
+  "cports": [
+    {
+      "name": "Conakry",
+      "t": true,
+      "ckey": "conakry_gn",
+      "lat": "9.510572258831903",
+      "lng": "-13.715293060952405"
+    },
+    {
+      "name": "Port Kamsar",
+      "t": null,
+      "ckey": "port_kamsar_gn",
+      "lat": "10.65",
+      "lng": "-14.6166666667"
+    }
+  ],
+  "ccountries": [
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "link": "/maritime/guinea_bissau"
+    },
+    { "name": "Ivory Coast", "code": "CI", "link": "/maritime/ivory_coast" },
+    { "name": "Liberia", "code": "LR", "link": "/maritime/liberia" },
+    { "name": "Mali", "code": "ML", "link": "/maritime/mali" },
+    { "name": "Senegal", "code": "SN", "link": "/maritime/senegal" },
+    { "name": "Sierra Leone", "code": "SL", "link": "/maritime/sierra_leone" }
+  ]
+}

@@ -1,0 +1,1472 @@
+{
+  "title": "Canada",
+  "ckey": "canada",
+  "cports": [
+    {
+      "name": "Aklavik",
+      "t": null,
+      "ckey": "aklavik_ca",
+      "lat": "68.13",
+      "lng": "-135"
+    },
+    {
+      "name": "Amherst",
+      "t": null,
+      "ckey": "amherst_ca",
+      "lat": "47.2333333333",
+      "lng": "-61.8333333333"
+    },
+    {
+      "name": "Amherstburg",
+      "t": null,
+      "ckey": "amherstburg_ca",
+      "lat": "42.087771436045",
+      "lng": "-83.089200846388"
+    },
+    {
+      "name": "Annapolis Royal",
+      "t": null,
+      "ckey": "annapolis_royal_ca",
+      "lat": "44.73146553483086",
+      "lng": "-65.52490753832957"
+    },
+    {
+      "name": "Argentia",
+      "t": false,
+      "ckey": "argentia_ca",
+      "lat": "47.27582028368733",
+      "lng": "-53.99368357770464"
+    },
+    {
+      "name": "Arichat",
+      "t": null,
+      "ckey": "arichat_ca",
+      "lat": "45.5166666667",
+      "lng": "-61.0333333333"
+    },
+    {
+      "name": "Baddeck",
+      "t": null,
+      "ckey": "baddeck_ca",
+      "lat": "46.095714742233",
+      "lng": "-60.759487915039"
+    },
+    {
+      "name": "Baie Comeau",
+      "t": null,
+      "ckey": "baie_comeau_ca",
+      "lat": "49.2166666667",
+      "lng": "-68.15"
+    },
+    {
+      "name": "Baie Verte",
+      "t": null,
+      "ckey": "baie_verte_ca",
+      "lat": "49.925508491812",
+      "lng": "-56.2"
+    },
+    {
+      "name": "Bathurst",
+      "t": null,
+      "ckey": "bathurst_ca",
+      "lat": "47.616667213838475",
+      "lng": "-65.69943936219092"
+    },
+    {
+      "name": "Bay Roberts",
+      "t": null,
+      "ckey": "bay_roberts_ca",
+      "lat": "47.58332906049964",
+      "lng": "-53.2682901670926"
+    },
+    {
+      "name": "Bayside",
+      "t": null,
+      "ckey": "bayside_ca",
+      "lat": "45.15",
+      "lng": "-67.1333333333"
+    },
+    {
+      "name": "Beaver Harbour",
+      "t": null,
+      "ckey": "beaver_harbour_ca",
+      "lat": "45.053570425899494",
+      "lng": "-66.75118604153532"
+    },
+    {
+      "name": "Becancour",
+      "t": null,
+      "ckey": "becancour_ca",
+      "lat": "46.36020951978503",
+      "lng": "-72.45062373407413"
+    },
+    {
+      "name": "Bella Coola",
+      "t": null,
+      "ckey": "bella_coola_ca",
+      "lat": "52.3833333333",
+      "lng": "-126.766666667"
+    },
+    {
+      "name": "Belledune",
+      "t": false,
+      "ckey": "belledune_ca",
+      "lat": "47.90193689471323",
+      "lng": "-65.85961412841688"
+    },
+    {
+      "name": "Blanc-Sablon",
+      "t": null,
+      "ckey": "blanc_sablon_ca",
+      "lat": "51.417560376916",
+      "lng": "-57.153433227539"
+    },
+    {
+      "name": "Botwood",
+      "t": null,
+      "ckey": "botwood_ca",
+      "lat": "49.1242709636733",
+      "lng": "-55.3385136743343"
+    },
+    {
+      "name": "Brandon",
+      "t": null,
+      "ckey": "brandon_ca",
+      "lat": "49.5",
+      "lng": "-99.57"
+    },
+    {
+      "name": "Bridgewater",
+      "t": null,
+      "ckey": "bridgewater_ca",
+      "lat": "44.3833333333",
+      "lng": "-64.5166666667"
+    },
+    {
+      "name": "Brooks",
+      "t": null,
+      "ckey": "brooks_ca",
+      "lat": "50.34",
+      "lng": "-111.53"
+    },
+    {
+      "name": "Buctouche Harbour",
+      "t": null,
+      "ckey": "buctouche_harbour_ca",
+      "lat": "46.47376141473649",
+      "lng": "-64.72278378258162"
+    },
+    {
+      "name": "Burgeo",
+      "t": null,
+      "ckey": "burgeo_ca",
+      "lat": "47.6166666667",
+      "lng": "-57.6333333333"
+    },
+    {
+      "name": "Burin",
+      "t": null,
+      "ckey": "burin_ca",
+      "lat": "47.03",
+      "lng": "-55.11"
+    },
+    {
+      "name": "Calgary",
+      "t": true,
+      "ckey": "calgary_ca",
+      "lat": "51.08333",
+      "lng": "-114.08333"
+    },
+    {
+      "name": "Cambridge Bay",
+      "t": null,
+      "ckey": "cambridge_bay_ca",
+      "lat": "69.07",
+      "lng": "-105.05"
+    },
+    {
+      "name": "Campbell River",
+      "t": null,
+      "ckey": "campbell_river_ca",
+      "lat": "50.01490031068628",
+      "lng": "-125.23763828168012"
+    },
+    {
+      "name": "Campbellton",
+      "t": null,
+      "ckey": "campbellton_ca",
+      "lat": "48.01045152515181",
+      "lng": "-66.66924426206268"
+    },
+    {
+      "name": "Canso",
+      "t": null,
+      "ckey": "canso_ca",
+      "lat": "45.24999983623989",
+      "lng": "-61.05493121714975"
+    },
+    {
+      "name": "Cap-aux-Meules",
+      "t": null,
+      "ckey": "cap_aux_meules_ca",
+      "lat": "47.3833333333",
+      "lng": "-61.85"
+    },
+    {
+      "name": "Caraquet",
+      "t": null,
+      "ckey": "caraquet_ca",
+      "lat": "47.78708384872488",
+      "lng": "-64.95667678051953"
+    },
+    {
+      "name": "Carbonear",
+      "t": null,
+      "ckey": "carbonear_ca",
+      "lat": "47.74441565697981",
+      "lng": "-53.21254557818155"
+    },
+    {
+      "name": "Carleton",
+      "t": null,
+      "ckey": "carleton_ca",
+      "lat": "48.10607417353199",
+      "lng": "-66.13142833662671"
+    },
+    {
+      "name": "Carmanville",
+      "t": null,
+      "ckey": "carmanville_ca",
+      "lat": "49.42055090949011",
+      "lng": "-54.287265598799294"
+    },
+    {
+      "name": "Catalina",
+      "t": null,
+      "ckey": "catalina_ca",
+      "lat": "48.51968993910045",
+      "lng": "-53.060860737093904"
+    },
+    {
+      "name": "Centerm",
+      "t": true,
+      "ckey": "centerm_ca",
+      "lat": "49.287218821724",
+      "lng": "-123.08887068484"
+    },
+    {
+      "name": "Chandler",
+      "t": null,
+      "ckey": "chandler_ca",
+      "lat": "48.34702617197711",
+      "lng": "-64.6664825332532"
+    },
+    {
+      "name": "Charlottetown",
+      "t": null,
+      "ckey": "charlottetown_ca",
+      "lat": "46.2347594352994",
+      "lng": "-63.12078340332264"
+    },
+    {
+      "name": "Chatham",
+      "t": null,
+      "ckey": "chatham_ca",
+      "lat": "47.0333333333",
+      "lng": "-65.4666666667"
+    },
+    {
+      "name": "Chemainus",
+      "t": null,
+      "ckey": "chemainus_ca",
+      "lat": "48.9166666667",
+      "lng": "-123.716666667"
+    },
+    {
+      "name": "Chicoutimi",
+      "t": null,
+      "ckey": "chicoutimi_ca",
+      "lat": "48.42760191361575",
+      "lng": "-71.04981340700704"
+    },
+    {
+      "name": "Churchill",
+      "t": null,
+      "ckey": "churchill_ca",
+      "lat": "58.741315067225",
+      "lng": "-94.078463745117"
+    },
+    {
+      "name": "Clarenville",
+      "t": null,
+      "ckey": "clarenville_ca",
+      "lat": "48.16620715898478",
+      "lng": "-53.96270183962946"
+    },
+    {
+      "name": "Clarkson",
+      "t": null,
+      "ckey": "clarkson_ca",
+      "lat": "43.5",
+      "lng": "-79.6333333333"
+    },
+    {
+      "name": "Cobourg",
+      "t": null,
+      "ckey": "cobourg_ca",
+      "lat": "43.58",
+      "lng": "-78.1"
+    },
+    {
+      "name": "Collingwood",
+      "t": null,
+      "ckey": "collingwood_ca",
+      "lat": "44.49804040485109",
+      "lng": "-80.23083757612228"
+    },
+    {
+      "name": "Come By Chance",
+      "t": null,
+      "ckey": "come_by_chance_ca",
+      "lat": "47.79999973644538",
+      "lng": "-54.044131354914356"
+    },
+    {
+      "name": "Comox",
+      "t": null,
+      "ckey": "comox_ca",
+      "lat": "49.67555260705795",
+      "lng": "-124.92627727817592"
+    },
+    {
+      "name": "Concord",
+      "t": null,
+      "ckey": "concord_ca",
+      "lat": "45.842754388264865",
+      "lng": "-73.24569190440945"
+    },
+    {
+      "name": "Corner Brook",
+      "t": null,
+      "ckey": "corner_brook_ca",
+      "lat": "48.95",
+      "lng": "-57.95"
+    },
+    {
+      "name": "Cornwall",
+      "t": null,
+      "ckey": "cornwall_ca",
+      "lat": "45.026373652586",
+      "lng": "-74.722159830762"
+    },
+    {
+      "name": "Country Harbour",
+      "t": null,
+      "ckey": "country_harbour_ca",
+      "lat": "45.1333333333",
+      "lng": "-61.6833333333"
+    },
+    {
+      "name": "Cowichan Bay",
+      "t": null,
+      "ckey": "cowichan_bay_ca",
+      "lat": "48.72065117995515",
+      "lng": "-123.57391348289174"
+    },
+    {
+      "name": "Crofton",
+      "t": false,
+      "ckey": "crofton_ca",
+      "lat": "48.85507271791558",
+      "lng": "-123.62365092042776"
+    },
+    {
+      "name": "Dalhousie",
+      "t": null,
+      "ckey": "dalhousie_ca",
+      "lat": "48.069536076567005",
+      "lng": "-66.3724998633823"
+    },
+    {
+      "name": "Dartmouth",
+      "t": null,
+      "ckey": "dartmouth_ca",
+      "lat": "44.4",
+      "lng": "-63.34"
+    },
+    {
+      "name": "Digby",
+      "t": null,
+      "ckey": "digby_ca",
+      "lat": "44.6333333333",
+      "lng": "-65.7666666667"
+    },
+    {
+      "name": "Dingwall",
+      "t": null,
+      "ckey": "dingwall_ca",
+      "lat": "46.54",
+      "lng": "-60.28"
+    },
+    {
+      "name": "Don Mills",
+      "t": null,
+      "ckey": "don_mills_ca",
+      "lat": "43.44",
+      "lng": "-79.2"
+    },
+    {
+      "name": "Duncan Bay",
+      "t": false,
+      "ckey": "duncan_bay_ca",
+      "lat": "50.06692586159427",
+      "lng": "-125.28259458679715"
+    },
+    {
+      "name": "Edmonton",
+      "t": true,
+      "ckey": "edmonton_ca",
+      "lat": "53.5097555021486",
+      "lng": "-113.494262695313"
+    },
+    {
+      "name": "Esquimalt",
+      "t": null,
+      "ckey": "esquimalt_ca",
+      "lat": "48.42760191361575",
+      "lng": "-123.41890916986746"
+    },
+    {
+      "name": "Fraser Port",
+      "t": true,
+      "ckey": "fraser_port_ca",
+      "lat": "49.35447224436482",
+      "lng": "-122.91098898242863"
+    },
+    {
+      "name": "Fraser Surrey Docks",
+      "t": true,
+      "ckey": "fraser_surrey_docks_ca",
+      "lat": "49.18532897653",
+      "lng": "-122.91190623751"
+    },
+    {
+      "name": "Gaspe",
+      "t": null,
+      "ckey": "gaspe_ca",
+      "lat": "48.8166666667",
+      "lng": "-64.4333333333"
+    },
+    {
+      "name": "Georgetown",
+      "t": false,
+      "ckey": "georgetown_ca",
+      "lat": "46.16234235462434",
+      "lng": "-62.53761502179778"
+    },
+    {
+      "name": "Godbout",
+      "t": null,
+      "ckey": "godbout_ca",
+      "lat": "49.323827889914",
+      "lng": "-67.608239746094"
+    },
+    {
+      "name": "Goderich",
+      "t": null,
+      "ckey": "goderich_ca",
+      "lat": "43.75000150204588",
+      "lng": "-81.70605598400749"
+    },
+    {
+      "name": "Gold River",
+      "t": null,
+      "ckey": "gold_river_ca",
+      "lat": "49.6833333333",
+      "lng": "-126.116666667"
+    },
+    {
+      "name": "Goose Bay",
+      "t": null,
+      "ckey": "goose_bay_ca",
+      "lat": "53.366072494671",
+      "lng": "-60.355812437369"
+    },
+    {
+      "name": "Grand Bank",
+      "t": null,
+      "ckey": "grand_bank_ca",
+      "lat": "47.09438996876428",
+      "lng": "-55.77746602662892"
+    },
+    {
+      "name": "Grande Anse",
+      "t": null,
+      "ckey": "grande_anse_ca",
+      "lat": "47.48",
+      "lng": "-65.11"
+    },
+    {
+      "name": "Gros Cacouna",
+      "t": null,
+      "ckey": "gros_cacouna_ca",
+      "lat": "47.90930325373309",
+      "lng": "-69.47802978463619"
+    },
+    {
+      "name": "Halifax",
+      "t": true,
+      "ckey": "halifax_ca",
+      "lat": "44.625816168749104",
+      "lng": "-63.573877662293775"
+    },
+    {
+      "name": "Hamilton",
+      "t": null,
+      "ckey": "hamilton_ca",
+      "lat": "43.2666666667",
+      "lng": "-79.9"
+    },
+    {
+      "name": "Hantsport",
+      "t": null,
+      "ckey": "hantsport_ca",
+      "lat": "45.06666731363299",
+      "lng": "-64.17627985652139"
+    },
+    {
+      "name": "Harbour Breton",
+      "t": null,
+      "ckey": "harbour_breton_ca",
+      "lat": "47.47637171319183",
+      "lng": "-55.800685254712384"
+    },
+    {
+      "name": "Harbour Grace",
+      "t": null,
+      "ckey": "harbour_grace_ca",
+      "lat": "47.69633454031751",
+      "lng": "-53.211609842265254"
+    },
+    {
+      "name": "Harmac",
+      "t": null,
+      "ckey": "harmac_ca",
+      "lat": "49.08",
+      "lng": "-123.51"
+    },
+    {
+      "name": "Havre St.Pierrehavre",
+      "t": null,
+      "ckey": "havre_stpierrehavre_ca",
+      "lat": "50.241238664246",
+      "lng": "-63.604119873047"
+    },
+    {
+      "name": "High River",
+      "t": null,
+      "ckey": "high_river_ca",
+      "lat": "50.34",
+      "lng": "-113.52"
+    },
+    {
+      "name": "Holyrood",
+      "t": null,
+      "ckey": "holyrood_ca",
+      "lat": "47.3833333333",
+      "lng": "-53.1166666667"
+    },
+    {
+      "name": "Hull",
+      "t": false,
+      "ckey": "hull_ca",
+      "lat": "45.3729",
+      "lng": "-75.6831"
+    },
+    {
+      "name": "Iona",
+      "t": null,
+      "ckey": "iona_ca",
+      "lat": "45.961075163458",
+      "lng": "-60.813233439161"
+    },
+    {
+      "name": "Iqaluit",
+      "t": null,
+      "ckey": "iqaluit_ca",
+      "lat": "63.73352325433",
+      "lng": "-68.531359227465"
+    },
+    {
+      "name": "Kelsey Bay",
+      "t": null,
+      "ckey": "kelsey_bay_ca",
+      "lat": "50.392964941624825",
+      "lng": "-125.96804505114295"
+    },
+    {
+      "name": "Kingston",
+      "t": false,
+      "ckey": "kingston_ca",
+      "lat": "44.22805233516",
+      "lng": "-76.495880126953"
+    },
+    {
+      "name": "Kingsville",
+      "t": null,
+      "ckey": "kingsville_ca",
+      "lat": "42.0333333333",
+      "lng": "-82.7333333333"
+    },
+    {
+      "name": "Kitimat",
+      "t": null,
+      "ckey": "kitimat_ca",
+      "lat": "53.95981608470513",
+      "lng": "-128.7130707578144"
+    },
+    {
+      "name": "La Have",
+      "t": null,
+      "ckey": "la_have_ca",
+      "lat": "44.28579227639295",
+      "lng": "-64.35686322798736"
+    },
+    {
+      "name": "Les Escoumins",
+      "t": null,
+      "ckey": "les_escoumins_ca",
+      "lat": "48.35250185096",
+      "lng": "-69.411610921191"
+    },
+    {
+      "name": "Les Mechins",
+      "t": null,
+      "ckey": "les_mechins_ca",
+      "lat": "48.984681325435",
+      "lng": "-66.9833333333"
+    },
+    {
+      "name": "Lewisporte",
+      "t": null,
+      "ckey": "lewisporte_ca",
+      "lat": "49.25",
+      "lng": "-55.05"
+    },
+    {
+      "name": "Little Narrows",
+      "t": null,
+      "ckey": "little_narrows_ca",
+      "lat": "46.024351110156",
+      "lng": "-60.968227132128"
+    },
+    {
+      "name": "Liverpool",
+      "t": null,
+      "ckey": "liverpool_ca",
+      "lat": "44.05",
+      "lng": "-64.7166666667"
+    },
+    {
+      "name": "Lockeport",
+      "t": null,
+      "ckey": "lockeport_ca",
+      "lat": "43.695035554700205",
+      "lng": "-65.12490433977695"
+    },
+    {
+      "name": "Long Harbour",
+      "t": null,
+      "ckey": "long_harbour_ca",
+      "lat": "47.430493332536855",
+      "lng": "-53.86042317190311"
+    },
+    {
+      "name": "Long Pond",
+      "t": null,
+      "ckey": "long_pond_ca",
+      "lat": "47.5166666667",
+      "lng": "-52.9666666667"
+    },
+    {
+      "name": "Louisbourg",
+      "t": null,
+      "ckey": "louisbourg_ca",
+      "lat": "45.9166666667",
+      "lng": "-59.9666666667"
+    },
+    {
+      "name": "Lunenburg",
+      "t": null,
+      "ckey": "lunenburg_ca",
+      "lat": "44.3833333333",
+      "lng": "-64.3166666667"
+    },
+    {
+      "name": "Main Brook",
+      "t": null,
+      "ckey": "main_brook_ca",
+      "lat": "51.1666666667",
+      "lng": "-56"
+    },
+    {
+      "name": "Mandeville",
+      "t": null,
+      "ckey": "mandeville_ca",
+      "lat": "46.22",
+      "lng": "-73.21"
+    },
+    {
+      "name": "Marathon",
+      "t": null,
+      "ckey": "marathon_ca",
+      "lat": "48.7333333333",
+      "lng": "-86.3833333333"
+    },
+    {
+      "name": "Marystown",
+      "t": null,
+      "ckey": "marystown_ca",
+      "lat": "47.1666666667",
+      "lng": "-55.15"
+    },
+    {
+      "name": "Matane",
+      "t": null,
+      "ckey": "matane_ca",
+      "lat": "43.9833333333",
+      "lng": "-66.15"
+    },
+    {
+      "name": "Medicine Hat",
+      "t": null,
+      "ckey": "medicine_hat_ca",
+      "lat": "50.02",
+      "lng": "-110.4"
+    },
+    {
+      "name": "Meteghan",
+      "t": null,
+      "ckey": "meteghan_ca",
+      "lat": "44.229398819510735",
+      "lng": "-66.11704395823466"
+    },
+    {
+      "name": "Michipicoten Harbour",
+      "t": null,
+      "ckey": "michipicoten_harbour_ca",
+      "lat": "47.9666666667",
+      "lng": "-84.8833333333"
+    },
+    {
+      "name": "Middle Point",
+      "t": null,
+      "ckey": "middle_point_ca",
+      "lat": "50.11842890303075",
+      "lng": "-125.29588613492199"
+    },
+    {
+      "name": "Midland",
+      "t": null,
+      "ckey": "midland_ca",
+      "lat": "44.7534143477287",
+      "lng": "-79.88046253207898"
+    },
+    {
+      "name": "Mississauga",
+      "t": null,
+      "ckey": "mississauga_ca",
+      "lat": "43.35",
+      "lng": "-79.39"
+    },
+    {
+      "name": "Montague",
+      "t": null,
+      "ckey": "montague_ca",
+      "lat": "46.09",
+      "lng": "-62.38"
+    },
+    {
+      "name": "Montreal",
+      "t": true,
+      "ckey": "montreal_ca",
+      "lat": "45.514195857806",
+      "lng": "-73.559285227491"
+    },
+    {
+      "name": "Mulgrave",
+      "t": null,
+      "ckey": "mulgrave_ca",
+      "lat": "45.5895797663",
+      "lng": "-61.388825014725825"
+    },
+    {
+      "name": "Nanaimo",
+      "t": true,
+      "ckey": "nanaimo_ca",
+      "lat": "49.159484003939",
+      "lng": "-123.9333316974"
+    },
+    {
+      "name": "Nanisivik",
+      "t": null,
+      "ckey": "nanisivik_ca",
+      "lat": "73.0666666667",
+      "lng": "-84.55"
+    },
+    {
+      "name": "Natashquan",
+      "t": null,
+      "ckey": "natashquan_ca",
+      "lat": "50.1833333333",
+      "lng": "-61.85"
+    },
+    {
+      "name": "Newcastle",
+      "t": null,
+      "ckey": "newcastle_ca",
+      "lat": "47",
+      "lng": "-65.55"
+    },
+    {
+      "name": "New Glasgow",
+      "t": null,
+      "ckey": "new_glasgow_ca",
+      "lat": "45.6",
+      "lng": "-62.6333333333"
+    },
+    {
+      "name": "New Richmond",
+      "t": null,
+      "ckey": "new_richmond_ca",
+      "lat": "48.13791651544258",
+      "lng": "-65.82509435235164"
+    },
+    {
+      "name": "North Sydney",
+      "t": null,
+      "ckey": "north_sydney_ca",
+      "lat": "46.26002074345",
+      "lng": "-60.225936381055"
+    },
+    {
+      "name": "Oakville",
+      "t": null,
+      "ckey": "oakville_ca",
+      "lat": "43.441310802247",
+      "lng": "-79.7106119792"
+    },
+    {
+      "name": "Ocean Falls",
+      "t": null,
+      "ckey": "ocean_falls_ca",
+      "lat": "52.35",
+      "lng": "-127.683333333"
+    },
+    {
+      "name": "Oshawa",
+      "t": null,
+      "ckey": "oshawa_ca",
+      "lat": "43.8666666667",
+      "lng": "-78.8333333333"
+    },
+    {
+      "name": "Owen Sound",
+      "t": null,
+      "ckey": "owen_sound_ca",
+      "lat": "44.5833333333",
+      "lng": "-80.95"
+    },
+    {
+      "name": "Parrsboro",
+      "t": null,
+      "ckey": "parrsboro_ca",
+      "lat": "45.4",
+      "lng": "-64.3333333333"
+    },
+    {
+      "name": "Parry Sound",
+      "t": null,
+      "ckey": "parry_sound_ca",
+      "lat": "45.406656022151",
+      "lng": "-80.047066243456"
+    },
+    {
+      "name": "Paspebiac",
+      "t": null,
+      "ckey": "paspebiac_ca",
+      "lat": "48.028606167965705",
+      "lng": "-65.2513721224489"
+    },
+    {
+      "name": "Penetanguishene",
+      "t": null,
+      "ckey": "penetanguishene_ca",
+      "lat": "44.7666666667",
+      "lng": "-79.9333333333"
+    },
+    {
+      "name": "Penticton",
+      "t": null,
+      "ckey": "penticton_ca",
+      "lat": "49.3",
+      "lng": "-119.35"
+    },
+    {
+      "name": "Pictou",
+      "t": null,
+      "ckey": "pictou_ca",
+      "lat": "45.6833333333",
+      "lng": "-62.7166666667"
+    },
+    {
+      "name": "Pointe-au-Pic",
+      "t": null,
+      "ckey": "pointe_au_pic_ca",
+      "lat": "47.631475063959066",
+      "lng": "-70.16629428692004"
+    },
+    {
+      "name": "Pointe Noire",
+      "t": null,
+      "ckey": "pointe_noire_ca",
+      "lat": "50.09",
+      "lng": "-66.29"
+    },
+    {
+      "name": "Point Tupper",
+      "t": null,
+      "ckey": "point_tupper_ca",
+      "lat": "45.36",
+      "lng": "-61.22"
+    },
+    {
+      "name": "Port Alfred",
+      "t": null,
+      "ckey": "port_alfred_ca",
+      "lat": "48.32876907632567",
+      "lng": "-70.87902452681087"
+    },
+    {
+      "name": "Port Alice",
+      "t": null,
+      "ckey": "port_alice_ca",
+      "lat": "50.408694867283366",
+      "lng": "-127.47078229119413"
+    },
+    {
+      "name": "Port Aux Barqueport",
+      "t": null,
+      "ckey": "port_aux_barqueport_ca",
+      "lat": "49.24050712296857",
+      "lng": "-124.84020323425541"
+    },
+    {
+      "name": "Port aux Basques",
+      "t": null,
+      "ckey": "port_aux_basques_ca",
+      "lat": "47.5666666667",
+      "lng": "-59.1166666667"
+    },
+    {
+      "name": "Port Cartier",
+      "t": null,
+      "ckey": "port_cartier_ca",
+      "lat": "50.028040307996",
+      "lng": "-66.821785481737"
+    },
+    {
+      "name": "Port Hardy",
+      "t": null,
+      "ckey": "port_hardy_ca",
+      "lat": "50.763191930490784",
+      "lng": "-127.49295308523999"
+    },
+    {
+      "name": "Port Hawkesbury",
+      "t": null,
+      "ckey": "port_hawkesbury_ca",
+      "lat": "45.60273812573603",
+      "lng": "-61.363922145011955"
+    },
+    {
+      "name": "Port Hope",
+      "t": null,
+      "ckey": "port_hope_ca",
+      "lat": "43.9666666667",
+      "lng": "-78.3"
+    },
+    {
+      "name": "Port Medway",
+      "t": null,
+      "ckey": "port_medway_ca",
+      "lat": "44.1166666667",
+      "lng": "-64.6"
+    },
+    {
+      "name": "Port Mellon",
+      "t": null,
+      "ckey": "port_mellon_ca",
+      "lat": "49.52112544501855",
+      "lng": "-123.4943144583044"
+    },
+    {
+      "name": "Portneuf",
+      "t": null,
+      "ckey": "portneuf_ca",
+      "lat": "46.692105487028876",
+      "lng": "-71.88864259935464"
+    },
+    {
+      "name": "Port Saguenay",
+      "t": null,
+      "ckey": "port_saguenay_ca",
+      "lat": "48.39453013765455",
+      "lng": "-70.8235360699937"
+    },
+    {
+      "name": "Port Stanley",
+      "t": null,
+      "ckey": "port_stanley_ca",
+      "lat": "42.695436269431",
+      "lng": "-81.270911661817"
+    },
+    {
+      "name": "Port Weller",
+      "t": null,
+      "ckey": "port_weller_ca",
+      "lat": "43.13",
+      "lng": "-79.13"
+    },
+    {
+      "name": "Powell River",
+      "t": null,
+      "ckey": "powell_river_ca",
+      "lat": "49.84630392121369",
+      "lng": "-124.52391083417047"
+    },
+    {
+      "name": "Prescott",
+      "t": null,
+      "ckey": "prescott_ca",
+      "lat": "44.7166666667",
+      "lng": "-75.5166666667"
+    },
+    {
+      "name": "Prince Albert",
+      "t": null,
+      "ckey": "prince_albert_ca",
+      "lat": "53.11",
+      "lng": "-105.45"
+    },
+    {
+      "name": "Prince Rupert",
+      "t": true,
+      "ckey": "prince_rupert_ca",
+      "lat": "54.2622090498291",
+      "lng": "-130.37201442418376"
+    },
+    {
+      "name": "Pugwash",
+      "t": null,
+      "ckey": "pugwash_ca",
+      "lat": "45.8666666667",
+      "lng": "-63.6666666667"
+    },
+    {
+      "name": "Quebec",
+      "t": false,
+      "ckey": "quebec_ca",
+      "lat": "46.795499313957",
+      "lng": "-71.22569516015"
+    },
+    {
+      "name": "Red Lake",
+      "t": null,
+      "ckey": "red_lake_ca",
+      "lat": "51.04",
+      "lng": "-93.48"
+    },
+    {
+      "name": "Regina",
+      "t": true,
+      "ckey": "regina_ca",
+      "lat": "50.414633",
+      "lng": "-104.49306"
+    },
+    {
+      "name": "Richibucto",
+      "t": null,
+      "ckey": "richibucto_ca",
+      "lat": "46.6833333333",
+      "lng": "-64.8666666667"
+    },
+    {
+      "name": "Rimouski",
+      "t": null,
+      "ckey": "rimouski_ca",
+      "lat": "48.429688537395",
+      "lng": "-68.538826497363"
+    },
+    {
+      "name": "Riverport",
+      "t": null,
+      "ckey": "riverport_ca",
+      "lat": "44.18",
+      "lng": "-64.2"
+    },
+    {
+      "name": "Roberts Bank",
+      "t": false,
+      "ckey": "roberts_bank_ca",
+      "lat": "48.992683954218414",
+      "lng": "-123.07846522087735"
+    },
+    {
+      "name": "Saguenay",
+      "t": null,
+      "ckey": "saguenay_ca",
+      "lat": "48.25",
+      "lng": "-71.04"
+    },
+    {
+      "name": "Sainte-Anne-des-Monts",
+      "t": null,
+      "ckey": "sainte_anne_des_monts_ca",
+      "lat": "49.120752098238",
+      "lng": "-66.4833333333"
+    },
+    {
+      "name": "Saint John",
+      "t": true,
+      "ckey": "saint_john_ca",
+      "lat": "45.2666666667",
+      "lng": "-66.05"
+    },
+    {
+      "name": "Sarnia",
+      "t": null,
+      "ckey": "sarnia_ca",
+      "lat": "42.97219321974317",
+      "lng": "-82.4036232039409"
+    },
+    {
+      "name": "Saskatoon",
+      "t": true,
+      "ckey": "saskatoon_ca",
+      "lat": "52.13333",
+      "lng": "-106.66666"
+    },
+    {
+      "name": "Saulte Ste Marie",
+      "t": null,
+      "ckey": "saulte_ste_marie_ca",
+      "lat": "46.5166666667",
+      "lng": "-84.3333333333"
+    },
+    {
+      "name": "Sept-Iles",
+      "t": null,
+      "ckey": "sept_iles_ca",
+      "lat": "50.202675418655",
+      "lng": "-66.36136067705"
+    },
+    {
+      "name": "Shediac",
+      "t": null,
+      "ckey": "shediac_ca",
+      "lat": "46.23195222755053",
+      "lng": "-64.50998923898987"
+    },
+    {
+      "name": "Sheet Harbour",
+      "t": null,
+      "ckey": "sheet_harbour_ca",
+      "lat": "44.8333333333",
+      "lng": "-62.5"
+    },
+    {
+      "name": "Shelburne",
+      "t": false,
+      "ckey": "shelburne_ca",
+      "lat": "43.740336784370314",
+      "lng": "-65.33638065685888"
+    },
+    {
+      "name": "Sherbrooke",
+      "t": null,
+      "ckey": "sherbrooke_ca",
+      "lat": "45.08",
+      "lng": "-62"
+    },
+    {
+      "name": "Shippegan",
+      "t": null,
+      "ckey": "shippegan_ca",
+      "lat": "47.753694468967275",
+      "lng": "-64.73433363246811"
+    },
+    {
+      "name": "Sorel",
+      "t": null,
+      "ckey": "sorel_ca",
+      "lat": "46.0333333333",
+      "lng": "-73.1166666667"
+    },
+    {
+      "name": "Souris",
+      "t": null,
+      "ckey": "souris_ca",
+      "lat": "46.35",
+      "lng": "-62.2333333333"
+    },
+    {
+      "name": "Spragge",
+      "t": null,
+      "ckey": "spragge_ca",
+      "lat": "46.2166666667",
+      "lng": "-82.6666666667"
+    },
+    {
+      "name": "Springdale",
+      "t": null,
+      "ckey": "springdale_ca",
+      "lat": "49.5",
+      "lng": "-56.0666666667"
+    },
+    {
+      "name": "Squamish",
+      "t": false,
+      "ckey": "squamish_ca",
+      "lat": "49.67200090868955",
+      "lng": "-123.15785933978958"
+    },
+    {
+      "name": "St Anthony",
+      "t": null,
+      "ckey": "st_anthony_ca",
+      "lat": "51.369667442106",
+      "lng": "-55.593547185229"
+    },
+    {
+      "name": "Stephenville",
+      "t": null,
+      "ckey": "stephenville_ca",
+      "lat": "48.52964444",
+      "lng": "-58.525"
+    },
+    {
+      "name": "Stewart",
+      "t": null,
+      "ckey": "stewart_ca",
+      "lat": "55.90808997941083",
+      "lng": "-130.0163254929662"
+    },
+    {
+      "name": "St. John",
+      "t": false,
+      "ckey": "st_john_ca",
+      "lat": "45.2666666667",
+      "lng": "-66.05"
+    },
+    {
+      "name": "St John's",
+      "t": true,
+      "ckey": "st_johns_ca",
+      "lat": "45.2666666667",
+      "lng": "-66.05"
+    },
+    {
+      "name": "St. Lawrence",
+      "t": null,
+      "ckey": "st_lawrence_ca",
+      "lat": "46.42053716562916",
+      "lng": "-72.38876271076131"
+    },
+    {
+      "name": "St Romuald",
+      "t": null,
+      "ckey": "st_romuald_ca",
+      "lat": "46.754644299602",
+      "lng": "-71.237266031934"
+    },
+    {
+      "name": "Summerside",
+      "t": null,
+      "ckey": "summerside_ca",
+      "lat": "46.389490540756874",
+      "lng": "-63.782649224464386"
+    },
+    {
+      "name": "Sydney",
+      "t": null,
+      "ckey": "sydney_ca",
+      "lat": "46.167123487043355",
+      "lng": "-60.189013494553876"
+    },
+    {
+      "name": "Tahsis",
+      "t": null,
+      "ckey": "tahsis_ca",
+      "lat": "49.9166666667",
+      "lng": "-126.666666667"
+    },
+    {
+      "name": "Texada Island",
+      "t": null,
+      "ckey": "texada_island_ca",
+      "lat": "49.706216741336725",
+      "lng": "-124.54725642075357"
+    },
+    {
+      "name": "Thunder Bay",
+      "t": null,
+      "ckey": "thunder_bay_ca",
+      "lat": "48.45",
+      "lng": "-89.2333333333"
+    },
+    {
+      "name": "Tillsonburg",
+      "t": null,
+      "ckey": "tillsonburg_ca",
+      "lat": "42.51",
+      "lng": "-80.43"
+    },
+    {
+      "name": "Toronto",
+      "t": true,
+      "ckey": "toronto_ca",
+      "lat": "43.681004111851",
+      "lng": "-79.365234375"
+    },
+    {
+      "name": "Trenton",
+      "t": null,
+      "ckey": "trenton_ca",
+      "lat": "45.37",
+      "lng": "-62.37"
+    },
+    {
+      "name": "Trois-Rivieres",
+      "t": false,
+      "ckey": "trois_rivieres_ca",
+      "lat": "46.32874966846795",
+      "lng": "-72.55430600567492"
+    },
+    {
+      "name": "Tuktoyaktuk",
+      "t": null,
+      "ckey": "tuktoyaktuk_ca",
+      "lat": "69.45",
+      "lng": "-133.033333333"
+    },
+    {
+      "name": "Twillingate",
+      "t": null,
+      "ckey": "twillingate_ca",
+      "lat": "49.6666666667",
+      "lng": "-54.75"
+    },
+    {
+      "name": "Valleyfield",
+      "t": null,
+      "ckey": "valleyfield_ca",
+      "lat": "45.206992000494",
+      "lng": "-74.143758137988"
+    },
+    {
+      "name": "Vancouver",
+      "t": true,
+      "ckey": "vancouver_ca",
+      "lat": "49.30821478821091",
+      "lng": "-123.14884349008516"
+    },
+    {
+      "name": "Vancouver Centerm Terminal",
+      "t": true,
+      "ckey": "vancouver_centerm_terminal_ca",
+      "lat": "49.287917134574",
+      "lng": "-123.09444563093"
+    },
+    {
+      "name": "Victoria",
+      "t": null,
+      "ckey": "victoria_ca",
+      "lat": "48.425153290798306",
+      "lng": "-123.37019626070693"
+    },
+    {
+      "name": "Wabush",
+      "t": null,
+      "ckey": "wabush_ca",
+      "lat": "52.55",
+      "lng": "-66.52"
+    },
+    {
+      "name": "Watson Island",
+      "t": null,
+      "ckey": "watson_island_ca",
+      "lat": "54.14",
+      "lng": "-130.18"
+    },
+    {
+      "name": "Welland",
+      "t": null,
+      "ckey": "welland_ca",
+      "lat": "43.18452454979",
+      "lng": "-79.14013671875"
+    },
+    {
+      "name": "Weymouth",
+      "t": null,
+      "ckey": "weymouth_ca",
+      "lat": "44.45",
+      "lng": "-66"
+    },
+    {
+      "name": "Wheatley",
+      "t": null,
+      "ckey": "wheatley_ca",
+      "lat": "42.06",
+      "lng": "-82.27"
+    },
+    {
+      "name": "Winchester",
+      "t": null,
+      "ckey": "winchester_ca",
+      "lat": "45.05",
+      "lng": "-75.21"
+    },
+    {
+      "name": "Windsor",
+      "t": null,
+      "ckey": "windsor_ca",
+      "lat": "42.3166666667",
+      "lng": "-83.039200846388"
+    },
+    {
+      "name": "Winnipeg",
+      "t": true,
+      "ckey": "winnipeg_ca",
+      "lat": "50.313219332689",
+      "lng": "-96.92497078125"
+    },
+    {
+      "name": "Woodfibre",
+      "t": null,
+      "ckey": "woodfibre_ca",
+      "lat": "49.6666666667",
+      "lng": "-123.25"
+    },
+    {
+      "name": "Yarmouth",
+      "t": null,
+      "ckey": "yarmouth_ca",
+      "lat": "43.8333333333",
+      "lng": "-66.1166666667"
+    }
+  ],
+  "ccountries": [
+    { "name": "United States", "code": "US", "link": "/maritime/united_states" }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Gabon",
+  "ckey": "gabon",
+  "cports": [
+    {
+      "name": "Cap Lopez",
+      "t": null,
+      "ckey": "cap_lopez_ga",
+      "lat": "-0.6607973767843146",
+      "lng": "8.710985918360604"
+    },
+    {
+      "name": "Gamba",
+      "t": null,
+      "ckey": "gamba_ga",
+      "lat": "-2.7649581196602457",
+      "lng": "9.983146217315914"
+    },
+    {
+      "name": "Libreville",
+      "t": true,
+      "ckey": "libreville_ga",
+      "lat": "0.2884897148620169",
+      "lng": "9.500770937372934"
+    },
+    {
+      "name": "Lucina Terminal",
+      "t": null,
+      "ckey": "lucina_terminal_ga",
+      "lat": "-3.5131599274927",
+      "lng": "10.765293375684"
+    },
+    {
+      "name": "Mayumba",
+      "t": true,
+      "ckey": "mayumba_ga",
+      "lat": "2.59",
+      "lng": "10.17"
+    },
+    {
+      "name": "M'Bya Terminal",
+      "t": null,
+      "ckey": "mbya_terminal_ga",
+      "lat": "-3.8175641630377",
+      "lng": "11.034956868456"
+    },
+    {
+      "name": "Nyanga",
+      "t": null,
+      "ckey": "nyanga_ga",
+      "lat": "-2.9408181908643",
+      "lng": "10.239200846387"
+    },
+    {
+      "name": "Oguendjo Terminal",
+      "t": null,
+      "ckey": "oguendjo_terminal_ga",
+      "lat": "-1.3429150823411182",
+      "lng": "9.037515918237759"
+    },
+    {
+      "name": "Owendo",
+      "t": null,
+      "ckey": "owendo_ga",
+      "lat": "0.29054302074904",
+      "lng": "9.5087547302246"
+    },
+    {
+      "name": "Port Gentil",
+      "t": true,
+      "ckey": "port_gentil_ga",
+      "lat": "-0.704478076730528",
+      "lng": "8.76708984374997"
+    },
+    {
+      "name": "Tchatamba Marine Terminal",
+      "t": null,
+      "ckey": "tchatamba_marine_terminal_ga",
+      "lat": "-1.8580490167605377",
+      "lng": "9.276529850505892"
+    }
+  ],
+  "ccountries": [
+    { "name": "Cameroon", "code": "CM", "link": "/maritime/cameroon" },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "link": "/maritime/equatorial_guinea"
+    },
+    {
+      "name": "Republic of the Congo",
+      "code": "CG",
+      "link": "/maritime/republic_of_the_congo"
+    }
+  ]
+}

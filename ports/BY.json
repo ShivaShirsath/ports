@@ -1,0 +1,20 @@
+{
+  "title": "Belarus",
+  "ckey": "belarus",
+  "cports": [
+    {
+      "name": "Brest",
+      "t": null,
+      "ckey": "brest_by",
+      "lat": "52.103552950461",
+      "lng": "23.689956665039"
+    }
+  ],
+  "ccountries": [
+    { "name": "Latvia", "code": "LV", "link": "/maritime/latvia" },
+    { "name": "Lithuania", "code": "LT", "link": "/maritime/lithuania" },
+    { "name": "Poland", "code": "PL", "link": "/maritime/poland" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Ukraine", "code": "UA", "link": "/maritime/ukraine" }
+  ]
+}

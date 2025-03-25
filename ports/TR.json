@@ -1,0 +1,421 @@
+{
+  "title": "Turkey",
+  "ckey": "turkey",
+  "cports": [
+    {
+      "name": "Alanya",
+      "t": null,
+      "ckey": "alanya_tr",
+      "lat": "36.5333333333",
+      "lng": "32.0333333333"
+    },
+    {
+      "name": "Aliaga",
+      "t": true,
+      "ckey": "aliaga_tr",
+      "lat": "38.8279827710271",
+      "lng": "26.936266548650767"
+    },
+    {
+      "name": "Ambarli",
+      "t": true,
+      "ckey": "ambarli_tr",
+      "lat": "40.994737341809",
+      "lng": "28.536079559828"
+    },
+    {
+      "name": "Antalya",
+      "t": true,
+      "ckey": "antalya_tr",
+      "lat": "36.84922232696105",
+      "lng": "30.767867776791814"
+    },
+    {
+      "name": "Ayvalik",
+      "t": null,
+      "ckey": "ayvalik_tr",
+      "lat": "39.19",
+      "lng": "26.41"
+    },
+    {
+      "name": "Bagfas-Iskur Fertilizer Jetty",
+      "t": null,
+      "ckey": "bagfas_iskur_fertilizer_jetty_tr",
+      "lat": "40.379081165496565",
+      "lng": "28.489388386661847"
+    },
+    {
+      "name": "Bandirmar",
+      "t": null,
+      "ckey": "bandirmar_tr",
+      "lat": "40.35",
+      "lng": "27.95"
+    },
+    {
+      "name": "Bodrum",
+      "t": null,
+      "ckey": "bodrum_tr",
+      "lat": "37.0333333333",
+      "lng": "27.4166666667"
+    },
+    {
+      "name": "Borusan",
+      "t": null,
+      "ckey": "borusan_tr",
+      "lat": "40.41039416774649",
+      "lng": "29.090199146812846"
+    },
+    {
+      "name": "Botas Natural Gas Terminal",
+      "t": null,
+      "ckey": "botas_natural_gas_terminal_tr",
+      "lat": "41",
+      "lng": "27.9833333333"
+    },
+    {
+      "name": "Cesme",
+      "t": false,
+      "ckey": "cesme_tr",
+      "lat": "38.41666536411435",
+      "lng": "27.182771490891113"
+    },
+    {
+      "name": "Cide",
+      "t": null,
+      "ckey": "cide_tr",
+      "lat": "41.54",
+      "lng": "32.59"
+    },
+    {
+      "name": "Darica",
+      "t": null,
+      "ckey": "darica_tr",
+      "lat": "40.75771270213622",
+      "lng": "29.37194786517046"
+    },
+    {
+      "name": "Delta Terminal",
+      "t": null,
+      "ckey": "delta_terminal_tr",
+      "lat": "36.852196874344585",
+      "lng": "36.15755297537595"
+    },
+    {
+      "name": "Derince",
+      "t": false,
+      "ckey": "derince_tr",
+      "lat": "40.74867977695888",
+      "lng": "29.829901803736057"
+    },
+    {
+      "name": "Dikili",
+      "t": null,
+      "ckey": "dikili_tr",
+      "lat": "39.10664424387986",
+      "lng": "26.88277250707123"
+    },
+    {
+      "name": "Dortyol Oil Terminal",
+      "t": null,
+      "ckey": "dortyol_oil_terminal_tr",
+      "lat": "36.87691874404545",
+      "lng": "36.13470599260226"
+    },
+    {
+      "name": "Eregli",
+      "t": null,
+      "ckey": "eregli_tr",
+      "lat": "41.3",
+      "lng": "31.45"
+    },
+    {
+      "name": "Fatsa",
+      "t": null,
+      "ckey": "fatsa_tr",
+      "lat": "41.07889893276148",
+      "lng": "37.416291952612184"
+    },
+    {
+      "name": "Fethiye",
+      "t": null,
+      "ckey": "fethiye_tr",
+      "lat": "36.6333333333",
+      "lng": "29.15"
+    },
+    {
+      "name": "Finike",
+      "t": null,
+      "ckey": "finike_tr",
+      "lat": "36.3166666667",
+      "lng": "30.1666666667"
+    },
+    {
+      "name": "Gebze",
+      "t": true,
+      "ckey": "gebze_tr",
+      "lat": "40.77044075965454",
+      "lng": "29.427224586123373"
+    },
+    {
+      "name": "Gelibolu",
+      "t": null,
+      "ckey": "gelibolu_tr",
+      "lat": "40.42084777227119",
+      "lng": "26.650373613014253"
+    },
+    {
+      "name": "Gemlik",
+      "t": true,
+      "ckey": "gemlik_tr",
+      "lat": "40.43652988660554",
+      "lng": "29.153371566446296"
+    },
+    {
+      "name": "Giresun",
+      "t": null,
+      "ckey": "giresun_tr",
+      "lat": "40.9105040338694",
+      "lng": "38.394508230446824"
+    },
+    {
+      "name": "Gocek",
+      "t": null,
+      "ckey": "gocek_tr",
+      "lat": "36.75",
+      "lng": "28.9166666667"
+    },
+    {
+      "name": "Gorele",
+      "t": null,
+      "ckey": "gorele_tr",
+      "lat": "41.0666666667",
+      "lng": "39.35"
+    },
+    {
+      "name": "Gulluk",
+      "t": null,
+      "ckey": "gulluk_tr",
+      "lat": "37.25",
+      "lng": "27.6333333333"
+    },
+    {
+      "name": "Haydarpasa",
+      "t": true,
+      "ckey": "haydarpasa_tr",
+      "lat": "40.9826854730181",
+      "lng": "29.0429478981347"
+    },
+    {
+      "name": "Hereke",
+      "t": null,
+      "ckey": "hereke_tr",
+      "lat": "40.68646358380923",
+      "lng": "29.645507186713225"
+    },
+    {
+      "name": "Hopa",
+      "t": null,
+      "ckey": "hopa_tr",
+      "lat": "41.41357820209211",
+      "lng": "41.44257235511881"
+    },
+    {
+      "name": "Icdas Jetty",
+      "t": null,
+      "ckey": "icdas_jetty_tr",
+      "lat": "40.4494765101773",
+      "lng": "27.27496879940253"
+    },
+    {
+      "name": "Inebolu",
+      "t": null,
+      "ckey": "inebolu_tr",
+      "lat": "41.97108214781064",
+      "lng": "33.72216023434869"
+    },
+    {
+      "name": "Isdemir",
+      "t": null,
+      "ckey": "isdemir_tr",
+      "lat": "36.726436016251725",
+      "lng": "36.20213020499404"
+    },
+    {
+      "name": "Iskenderun",
+      "t": true,
+      "ckey": "iskenderun_tr",
+      "lat": "36.589398515839",
+      "lng": "36.168382240305"
+    },
+    {
+      "name": "Istanbul",
+      "t": true,
+      "ckey": "istanbul_tr",
+      "lat": "41.006785795504",
+      "lng": "28.973221911993"
+    },
+    {
+      "name": "Izmir",
+      "t": true,
+      "ckey": "izmir_tr",
+      "lat": "38.373799096883346",
+      "lng": "27.051087151240562"
+    },
+    {
+      "name": "Izmit (Evyap)",
+      "t": true,
+      "ckey": "izmit_evyap_tr",
+      "lat": "40.759645645671334",
+      "lng": "29.899655110634814"
+    },
+    {
+      "name": "Karabiga",
+      "t": null,
+      "ckey": "karabiga_tr",
+      "lat": "40.380126184439575",
+      "lng": "27.306555009219256"
+    },
+    {
+      "name": "Kumport",
+      "t": true,
+      "ckey": "kumport_tr",
+      "lat": "40.97599871782066",
+      "lng": "28.684673740316263"
+    },
+    {
+      "name": "Kusadasi",
+      "t": null,
+      "ckey": "kusadasi_tr",
+      "lat": "37.862330626170696",
+      "lng": "27.282958413184154"
+    },
+    {
+      "name": "Mardas",
+      "t": false,
+      "ckey": "mardas_tr",
+      "lat": "41.01",
+      "lng": "28.57"
+    },
+    {
+      "name": "Mersin",
+      "t": true,
+      "ckey": "mersin_tr",
+      "lat": "36.79323185123987",
+      "lng": "34.61666571371566"
+    },
+    {
+      "name": "Mudanya",
+      "t": null,
+      "ckey": "mudanya_tr",
+      "lat": "40.35",
+      "lng": "28.8833333333"
+    },
+    {
+      "name": "Nemrut Bay",
+      "t": null,
+      "ckey": "nemrut_bay_tr",
+      "lat": "38.67284526931402",
+      "lng": "26.77159751795093"
+    },
+    {
+      "name": "Ordu",
+      "t": null,
+      "ckey": "ordu_tr",
+      "lat": "40.98341630325929",
+      "lng": "37.878026400883385"
+    },
+    {
+      "name": "Rize",
+      "t": null,
+      "ckey": "rize_tr",
+      "lat": "41.02223226831247",
+      "lng": "40.540386328030166"
+    },
+    {
+      "name": "Samsun",
+      "t": true,
+      "ckey": "samsun_tr",
+      "lat": "41.3166666",
+      "lng": "36.3333333"
+    },
+    {
+      "name": "Sedef",
+      "t": null,
+      "ckey": "sedef_tr",
+      "lat": "40.76744572170349",
+      "lng": "29.529899404821588"
+    },
+    {
+      "name": "Sinop",
+      "t": null,
+      "ckey": "sinop_tr",
+      "lat": "42.01666683033131",
+      "lng": "35.10861350378041"
+    },
+    {
+      "name": "S-Port",
+      "t": null,
+      "ckey": "s_port_tr",
+      "lat": "40.97288756665372",
+      "lng": "28.72078495045812"
+    },
+    {
+      "name": "Tasucu",
+      "t": null,
+      "ckey": "tasucu_tr",
+      "lat": "36.31791215670951",
+      "lng": "33.89725213372197"
+    },
+    {
+      "name": "Tekirdag",
+      "t": true,
+      "ckey": "tekirdag_tr",
+      "lat": "40.98532875622689",
+      "lng": "27.51666699601448"
+    },
+    {
+      "name": "Tirebolu",
+      "t": null,
+      "ckey": "tirebolu_tr",
+      "lat": "41",
+      "lng": "38.48"
+    },
+    {
+      "name": "Toros",
+      "t": null,
+      "ckey": "toros_tr",
+      "lat": "36.88921308455147",
+      "lng": "35.94069788432263"
+    },
+    {
+      "name": "Trabzon",
+      "t": true,
+      "ckey": "trabzon_tr",
+      "lat": "40.96889873617843",
+      "lng": "39.76666591394571"
+    },
+    {
+      "name": "Yarimca",
+      "t": true,
+      "ckey": "yarimca_tr",
+      "lat": "40.77758513752637",
+      "lng": "29.70412045507569"
+    },
+    {
+      "name": "Zonguldak",
+      "t": null,
+      "ckey": "zonguldak_tr",
+      "lat": "41.45",
+      "lng": "31.8"
+    }
+  ],
+  "ccountries": [
+    { "name": "Azerbaijan", "code": "AZ", "link": "/maritime/azerbaijan" },
+    { "name": "Bulgaria", "code": "BG", "link": "/maritime/bulgaria" },
+    { "name": "Georgia", "code": "GE", "link": "/maritime/georgia" },
+    { "name": "Greece", "code": "GR", "link": "/maritime/greece" },
+    { "name": "Iran", "code": "IR", "link": "/maritime/iran" },
+    { "name": "Iraq", "code": "IQ", "link": "/maritime/iraq" },
+    { "name": "Syria", "code": "SY", "link": "/maritime/syria" }
+  ]
+}

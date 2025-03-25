@@ -1,0 +1,21 @@
+{
+  "title": "Dominica",
+  "ckey": "dominica",
+  "cports": [
+    {
+      "name": "Portsmouth",
+      "t": true,
+      "ckey": "portsmouth_dm",
+      "lat": "15.566667061903136",
+      "lng": "-61.452933170275564"
+    },
+    {
+      "name": "Roseau",
+      "t": true,
+      "ckey": "roseau_dm",
+      "lat": "15.3",
+      "lng": "-61.3833333333"
+    }
+  ],
+  "ccountries": []
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Saudi Arabia",
+  "ckey": "saudi_arabia",
+  "cports": [
+    {
+      "name": "Dammam",
+      "t": true,
+      "ckey": "dammam_sa",
+      "lat": "26.450829636412",
+      "lng": "50.103870354815"
+    },
+    {
+      "name": "Dhuba",
+      "t": null,
+      "ckey": "dhuba_sa",
+      "lat": "27.396752779851152",
+      "lng": "35.6670395250369"
+    },
+    {
+      "name": "Dhuba Bulk Plant Terminal",
+      "t": null,
+      "ckey": "dhuba_bulk_plant_terminal_sa",
+      "lat": "27.272731912449352",
+      "lng": "35.79906366659866"
+    },
+    {
+      "name": "Gizan",
+      "t": null,
+      "ckey": "gizan_sa",
+      "lat": "17.03660402601263",
+      "lng": "42.5327729994904"
+    },
+    {
+      "name": "Jeddah",
+      "t": true,
+      "ckey": "jeddah_sa",
+      "lat": "21.492224997104376",
+      "lng": "39.18864066486587"
+    },
+    {
+      "name": "Jubail",
+      "t": true,
+      "ckey": "jubail_sa",
+      "lat": "27.050918104058603",
+      "lng": "49.606243262455244"
+    },
+    {
+      "name": "King Abdullah Port",
+      "t": true,
+      "ckey": "king_abdullah_port_sa",
+      "lat": "22.382205805392",
+      "lng": "39.104354113769"
+    },
+    {
+      "name": "Neom",
+      "t": true,
+      "ckey": "neom_sa",
+      "lat": "27.572850085745",
+      "lng": "35.530493616293"
+    },
+    {
+      "name": "Qadhimah",
+      "t": null,
+      "ckey": "qadhimah_sa",
+      "lat": "22.296338045448103",
+      "lng": "39.11098482909741"
+    },
+    {
+      "name": "Rabigh",
+      "t": null,
+      "ckey": "rabigh_sa",
+      "lat": "22.773858768438494",
+      "lng": "38.98882689579173"
+    },
+    {
+      "name": "Ras al Ghar",
+      "t": null,
+      "ckey": "ras_al_ghar_sa",
+      "lat": "27.5333333333",
+      "lng": "49.2166666667"
+    },
+    {
+      "name": "Ras al Mishab",
+      "t": null,
+      "ckey": "ras_al_mishab_sa",
+      "lat": "28.1",
+      "lng": "48.6166666667"
+    },
+    {
+      "name": "Ras Tanura",
+      "t": null,
+      "ckey": "ras_tanura_sa",
+      "lat": "26.709417183294427",
+      "lng": "50.070347786368444"
+    },
+    {
+      "name": "Riyadh",
+      "t": true,
+      "ckey": "riyadh_sa",
+      "lat": "24.34",
+      "lng": "46.44"
+    }
+  ],
+  "ccountries": [
+    { "name": "Iraq", "code": "IQ", "link": "/maritime/iraq" },
+    { "name": "Jordan", "code": "JO", "link": "/maritime/jordan" },
+    { "name": "Kuwait", "code": "KW", "link": "/maritime/kuwait" },
+    { "name": "Oman", "code": "OM", "link": "/maritime/oman" },
+    { "name": "Qatar", "code": "QA", "link": "/maritime/qatar" },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "link": "/maritime/united_arab_emirates"
+    },
+    { "name": "Yemen", "code": "YE", "link": "/maritime/yemen" }
+  ]
+}

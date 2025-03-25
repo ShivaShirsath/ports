@@ -1,0 +1,38 @@
+{
+  "title": "Bangladesh",
+  "ckey": "bangladesh",
+  "cports": [
+    {
+      "name": "Chalna",
+      "t": false,
+      "ckey": "chalna_bd",
+      "lat": "22.6",
+      "lng": "89.5166666666002"
+    },
+    {
+      "name": "Chittagong",
+      "t": true,
+      "ckey": "chittagong_bd",
+      "lat": "22.331040529073643",
+      "lng": "91.83845037242465"
+    },
+    {
+      "name": "Dhaka",
+      "t": true,
+      "ckey": "dhaka_bd",
+      "lat": "23.68756732465695",
+      "lng": "90.43739415854745"
+    },
+    {
+      "name": "Mongla",
+      "t": true,
+      "ckey": "mongla_bd",
+      "lat": "22.4672972600644",
+      "lng": "89.58251953125"
+    }
+  ],
+  "ccountries": [
+    { "name": "India", "code": "IN", "link": "/maritime/india" },
+    { "name": "Myanmar", "code": "MM", "link": "/maritime/myanmar" }
+  ]
+}

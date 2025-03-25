@@ -1,0 +1,14 @@
+{
+  "title": "Monaco",
+  "ckey": "monaco",
+  "cports": [
+    {
+      "name": "Monaco",
+      "t": true,
+      "ckey": "monaco_mc",
+      "lat": "43.7333333333",
+      "lng": "7.45"
+    }
+  ],
+  "ccountries": [{ "name": "France", "code": "FR", "link": "/maritime/france" }]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "United States Minor Outlying Islands",
+  "ckey": "united_states_minor_outlying_islands",
+  "cports": [
+    {
+      "name": "Wake Island",
+      "t": null,
+      "ckey": "wake_island_um",
+      "lat": "19.296759726146746",
+      "lng": "166.64981287989778"
+    }
+  ],
+  "ccountries": []
+}

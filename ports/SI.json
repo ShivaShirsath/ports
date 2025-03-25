@@ -1,0 +1,33 @@
+{
+  "title": "Slovenia",
+  "ckey": "slovenia",
+  "cports": [
+    {
+      "name": "Izola",
+      "t": null,
+      "ckey": "izola_si",
+      "lat": "45.539996813562",
+      "lng": "13.660674031542"
+    },
+    {
+      "name": "Koper",
+      "t": true,
+      "ckey": "koper_si",
+      "lat": "45.548652962696",
+      "lng": "13.734519449903"
+    },
+    {
+      "name": "Piran",
+      "t": null,
+      "ckey": "piran_si",
+      "lat": "45.527731654046",
+      "lng": "13.57184753418"
+    }
+  ],
+  "ccountries": [
+    { "name": "Austria", "code": "AT", "link": "/maritime/austria" },
+    { "name": "Croatia", "code": "HR", "link": "/maritime/croatia" },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Italy", "code": "IT", "link": "/maritime/italy" }
+  ]
+}

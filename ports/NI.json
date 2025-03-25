@@ -1,0 +1,52 @@
+{
+  "title": "Nicaragua",
+  "ckey": "nicaragua",
+  "cports": [
+    {
+      "name": "Bluefields",
+      "t": null,
+      "ckey": "bluefields_ni",
+      "lat": "12.107988186029262",
+      "lng": "-83.73352250704491"
+    },
+    {
+      "name": "Corinto",
+      "t": true,
+      "ckey": "corinto_ni",
+      "lat": "12.53802714145702",
+      "lng": "-87.19024709504251"
+    },
+    {
+      "name": "El Bluff",
+      "t": null,
+      "ckey": "el_bluff_ni",
+      "lat": "11.795744380574837",
+      "lng": "-83.72178824205082"
+    },
+    {
+      "name": "Puerto Cabezas",
+      "t": null,
+      "ckey": "puerto_cabezas_ni",
+      "lat": "14.064628208694584",
+      "lng": "-83.39432165248374"
+    },
+    {
+      "name": "Puerto Sandino Puert",
+      "t": null,
+      "ckey": "puerto_sandino_puert_ni",
+      "lat": "12.188144724807593",
+      "lng": "-86.72896343925653"
+    },
+    {
+      "name": "San Juan del Sur",
+      "t": null,
+      "ckey": "san_juan_del_sur_ni",
+      "lat": "11.2333333333",
+      "lng": "-85.8666666667"
+    }
+  ],
+  "ccountries": [
+    { "name": "Costa Rica", "code": "CR", "link": "/maritime/costa_rica" },
+    { "name": "Honduras", "code": "HN", "link": "/maritime/honduras" }
+  ]
+}

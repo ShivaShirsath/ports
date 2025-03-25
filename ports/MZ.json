@@ -1,0 +1,90 @@
+{
+  "title": "Mozambique",
+  "ckey": "mozambique",
+  "cports": [
+    {
+      "name": "Beira",
+      "t": true,
+      "ckey": "beira_mz",
+      "lat": "-19.833332557153778",
+      "lng": "34.83539227660156"
+    },
+    {
+      "name": "Chinde",
+      "t": null,
+      "ckey": "chinde_mz",
+      "lat": "-18.5666666667",
+      "lng": "36.45"
+    },
+    {
+      "name": "Inhambane",
+      "t": null,
+      "ckey": "inhambane_mz",
+      "lat": "-23.8666666667",
+      "lng": "35.3833333333"
+    },
+    {
+      "name": "Macuse",
+      "t": null,
+      "ckey": "macuse_mz",
+      "lat": "-17.7833333333",
+      "lng": "37.1833333333"
+    },
+    {
+      "name": "Maputo",
+      "t": true,
+      "ckey": "maputo_mz",
+      "lat": "-25.9666666667",
+      "lng": "32.5666666667"
+    },
+    {
+      "name": "Matola",
+      "t": true,
+      "ckey": "matola_mz",
+      "lat": "-25.96",
+      "lng": "32.4995"
+    },
+    {
+      "name": "Mozambique",
+      "t": null,
+      "ckey": "mozambique_mz",
+      "lat": "-14.986333208883833",
+      "lng": "40.709173962799525"
+    },
+    {
+      "name": "Nacala",
+      "t": true,
+      "ckey": "nacala_mz",
+      "lat": "-14.512061948391072",
+      "lng": "40.691384735106226"
+    },
+    {
+      "name": "Pebane",
+      "t": null,
+      "ckey": "pebane_mz",
+      "lat": "-17.2666666667",
+      "lng": "38.1333333333"
+    },
+    {
+      "name": "Pemba",
+      "t": true,
+      "ckey": "pemba_mz",
+      "lat": "-12.95",
+      "lng": "40.5"
+    },
+    {
+      "name": "Quelimane",
+      "t": true,
+      "ckey": "quelimane_mz",
+      "lat": "-17.8833333333",
+      "lng": "36.8833333333"
+    }
+  ],
+  "ccountries": [
+    { "name": "Malawi", "code": "MW", "link": "/maritime/malawi" },
+    { "name": "South Africa", "code": "ZA", "link": "/maritime/south_africa" },
+    { "name": "Tanzania", "code": "TZ", "link": "/maritime/tanzania" },
+    { "name": "Zambia", "code": "ZM", "link": "/maritime/zambia" },
+    { "name": "Zimbabwe", "code": "ZW", "link": "/maritime/zimbabwe" }
+  ]
+}

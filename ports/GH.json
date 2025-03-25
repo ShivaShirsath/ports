@@ -1,0 +1,45 @@
+{
+  "title": "Ghana",
+  "ckey": "ghana",
+  "cports": [
+    {
+      "name": "Accra",
+      "t": true,
+      "ckey": "accra_gh",
+      "lat": "5.53333333333",
+      "lng": "-0.2"
+    },
+    {
+      "name": "Saltpond",
+      "t": null,
+      "ckey": "saltpond_gh",
+      "lat": "5.19822560463857",
+      "lng": "-1.0796508835899716"
+    },
+    {
+      "name": "Sekondi",
+      "t": null,
+      "ckey": "sekondi_gh",
+      "lat": "4.94",
+      "lng": "-1.697"
+    },
+    {
+      "name": "Takoradi",
+      "t": true,
+      "ckey": "takoradi_gh",
+      "lat": "4.884",
+      "lng": "-1.7395"
+    },
+    {
+      "name": "Tema",
+      "t": true,
+      "ckey": "tema_gh",
+      "lat": "5.63333333333",
+      "lng": "0.0166666666667"
+    }
+  ],
+  "ccountries": [
+    { "name": "Ivory Coast", "code": "CI", "link": "/maritime/ivory_coast" },
+    { "name": "Togo", "code": "TG", "link": "/maritime/togo" }
+  ]
+}

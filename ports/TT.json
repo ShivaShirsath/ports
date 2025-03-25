@@ -1,0 +1,84 @@
+{
+  "title": "Trinidad and Tobago",
+  "ckey": "trinidad_and_tobago",
+  "cports": [
+    {
+      "name": "Brighton",
+      "t": null,
+      "ckey": "brighton_tt",
+      "lat": "10.240878092553",
+      "lng": "-61.629556783007"
+    },
+    {
+      "name": "Chaguaramas",
+      "t": null,
+      "ckey": "chaguaramas_tt",
+      "lat": "10.66565449394",
+      "lng": "-61.652746582031"
+    },
+    {
+      "name": "Cronstadt Island",
+      "t": null,
+      "ckey": "cronstadt_island_tt",
+      "lat": "10.668894308253",
+      "lng": "-61.627840169238"
+    },
+    {
+      "name": "Crown Point",
+      "t": null,
+      "ckey": "crown_point_tt",
+      "lat": "11.149663157514",
+      "lng": "-60.840730285645"
+    },
+    {
+      "name": "Galeota Point",
+      "t": null,
+      "ckey": "galeota_point_tt",
+      "lat": "10.156337327601",
+      "lng": "-61.026092529297"
+    },
+    {
+      "name": "Pointe A Pierre",
+      "t": null,
+      "ckey": "pointe_a_pierre_tt",
+      "lat": "10.310924486087",
+      "lng": "-61.454837544726"
+    },
+    {
+      "name": "Point Fortin",
+      "t": null,
+      "ckey": "point_fortin_tt",
+      "lat": "10.181415136956",
+      "lng": "-61.690730285644"
+    },
+    {
+      "name": "Point Lisas",
+      "t": true,
+      "ckey": "point_lisas_tt",
+      "lat": "10.405564593644",
+      "lng": "-61.486701965332"
+    },
+    {
+      "name": "Port of Spain",
+      "t": true,
+      "ckey": "port_of_spain_tt",
+      "lat": "10.655158085655",
+      "lng": "-61.519317626953"
+    },
+    {
+      "name": "Scarborough",
+      "t": null,
+      "ckey": "scarborough_tt",
+      "lat": "11.1833333333",
+      "lng": "-60.7333333333"
+    },
+    {
+      "name": "Tembladora",
+      "t": null,
+      "ckey": "tembladora_tt",
+      "lat": "10.23772550005",
+      "lng": "-61.594850158692"
+    }
+  ],
+  "ccountries": []
+}

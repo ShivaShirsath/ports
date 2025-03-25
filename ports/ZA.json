@@ -1,0 +1,68 @@
+{
+  "title": "South Africa",
+  "ckey": "south_africa",
+  "cports": [
+    {
+      "name": "Cape Town",
+      "t": true,
+      "ckey": "cape_town_za",
+      "lat": "-33.945701864914",
+      "lng": "18.430981636047"
+    },
+    {
+      "name": "Coega",
+      "t": true,
+      "ckey": "coega_za",
+      "lat": "-33.797932",
+      "lng": "25.671709"
+    },
+    {
+      "name": "Durban",
+      "t": true,
+      "ckey": "durban_za",
+      "lat": "-29.8666666667",
+      "lng": "31.0166666667"
+    },
+    {
+      "name": "East London",
+      "t": false,
+      "ckey": "east_london_za",
+      "lat": "-33.0166666667",
+      "lng": "27.9"
+    },
+    {
+      "name": "Johannesburg",
+      "t": true,
+      "ckey": "johannesburg_za",
+      "lat": "-26.216655",
+      "lng": "28.091608"
+    },
+    {
+      "name": "Port Elizabeth",
+      "t": true,
+      "ckey": "port_elizabeth_za",
+      "lat": "-33.9265642390802",
+      "lng": "25.6063842773437"
+    },
+    {
+      "name": "Port Nolloth",
+      "t": null,
+      "ckey": "port_nolloth_za",
+      "lat": "-29.272763273138118",
+      "lng": "16.887265354904883"
+    },
+    {
+      "name": "Richards Bay",
+      "t": false,
+      "ckey": "richards_bay_za",
+      "lat": "-28.771113820687",
+      "lng": "32.083520507812"
+    }
+  ],
+  "ccountries": [
+    { "name": "Botswana", "code": "BW", "link": "/maritime/botswana" },
+    { "name": "Mozambique", "code": "MZ", "link": "/maritime/mozambique" },
+    { "name": "Namibia", "code": "NA", "link": "/maritime/namibia" },
+    { "name": "Zimbabwe", "code": "ZW", "link": "/maritime/zimbabwe" }
+  ]
+}

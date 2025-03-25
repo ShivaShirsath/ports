@@ -1,0 +1,98 @@
+{
+  "title": "Madagascar",
+  "ckey": "madagascar",
+  "cports": [
+    {
+      "name": "Andoany",
+      "t": null,
+      "ckey": "andoany_mg",
+      "lat": "-13.4",
+      "lng": "48.2833333333"
+    },
+    {
+      "name": "Antalaha",
+      "t": null,
+      "ckey": "antalaha_mg",
+      "lat": "-14.89999961777487",
+      "lng": "50.27509295202333"
+    },
+    {
+      "name": "Antsiranana",
+      "t": true,
+      "ckey": "antsiranana_mg",
+      "lat": "-12.173097818066056",
+      "lng": "49.29965656118089"
+    },
+    {
+      "name": "Majunga",
+      "t": true,
+      "ckey": "majunga_mg",
+      "lat": "-15.7166666667",
+      "lng": "46.3333333333"
+    },
+    {
+      "name": "Manakara",
+      "t": null,
+      "ckey": "manakara_mg",
+      "lat": "-22.15",
+      "lng": "48.0166666667"
+    },
+    {
+      "name": "Mananjary",
+      "t": null,
+      "ckey": "mananjary_mg",
+      "lat": "-21.2333333333",
+      "lng": "48.35"
+    },
+    {
+      "name": "Morondava",
+      "t": null,
+      "ckey": "morondava_mg",
+      "lat": "-20.2833333333",
+      "lng": "44.2666666667"
+    },
+    {
+      "name": "Nosy Be",
+      "t": true,
+      "ckey": "nosy_be_mg",
+      "lat": "-13.4016399356072",
+      "lng": "48.2807922363281"
+    },
+    {
+      "name": "Port Saint Louis",
+      "t": null,
+      "ckey": "port_saint_louis_mg",
+      "lat": "-13.0833333333",
+      "lng": "48.8333333333"
+    },
+    {
+      "name": "Suarez",
+      "t": false,
+      "ckey": "suarez_mg",
+      "lat": "-12.184675842482873",
+      "lng": "49.2989701271693"
+    },
+    {
+      "name": "Toamasina",
+      "t": true,
+      "ckey": "toamasina_mg",
+      "lat": "-18.160439936952",
+      "lng": "49.41117305976"
+    },
+    {
+      "name": "Tolagnaro",
+      "t": true,
+      "ckey": "tolagnaro_mg",
+      "lat": "-25.03457795917914",
+      "lng": "46.99313241431884"
+    },
+    {
+      "name": "Toleary",
+      "t": true,
+      "ckey": "toleary_mg",
+      "lat": "-23.362533989981678",
+      "lng": "43.66441923174562"
+    }
+  ],
+  "ccountries": []
+}

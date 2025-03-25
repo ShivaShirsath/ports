@@ -1,0 +1,61 @@
+{
+  "title": "Austria",
+  "ckey": "austria",
+  "cports": [
+    {
+      "name": "Enns",
+      "t": true,
+      "ckey": "enns_at",
+      "lat": "48.22513",
+      "lng": "14.50092"
+    },
+    {
+      "name": "Linz",
+      "t": true,
+      "ckey": "linz_at",
+      "lat": "48.31307",
+      "lng": "14.31385"
+    },
+    {
+      "name": "Salzburg",
+      "t": true,
+      "ckey": "salzburg_at",
+      "lat": "47.811195",
+      "lng": "13.033229"
+    },
+    {
+      "name": "Vienna",
+      "t": true,
+      "ckey": "vienna_at",
+      "lat": "48.213692646648",
+      "lng": "16.364135742188"
+    },
+    {
+      "name": "Wels",
+      "t": true,
+      "ckey": "wels_at",
+      "lat": "48.16667",
+      "lng": "14.03333"
+    },
+    {
+      "name": "Wien",
+      "t": true,
+      "ckey": "wien_at",
+      "lat": "48.22401",
+      "lng": "16.40831"
+    }
+  ],
+  "ccountries": [
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "link": "/maritime/czech_republic"
+    },
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Italy", "code": "IT", "link": "/maritime/italy" },
+    { "name": "Slovakia", "code": "SK", "link": "/maritime/slovakia" },
+    { "name": "Slovenia", "code": "SI", "link": "/maritime/slovenia" },
+    { "name": "Switzerland", "code": "CH", "link": "/maritime/switzerland" }
+  ]
+}

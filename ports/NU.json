@@ -1,0 +1,14 @@
+{
+  "title": "Niue",
+  "ckey": "niue",
+  "cports": [
+    {
+      "name": "Alofi",
+      "t": true,
+      "ckey": "alofi_nu",
+      "lat": "-19.048802",
+      "lng": "-169.916624"
+    }
+  ],
+  "ccountries": []
+}

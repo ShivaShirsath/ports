@@ -1,0 +1,49 @@
+{
+  "title": "New Caledonia",
+  "ckey": "new_caledonia",
+  "cports": [
+    {
+      "name": "Babouillat",
+      "t": null,
+      "ckey": "babouillat_nc",
+      "lat": "-20.3833333333",
+      "lng": "164.133333333"
+    },
+    {
+      "name": "Kouaoua",
+      "t": null,
+      "ckey": "kouaoua_nc",
+      "lat": "-21.4",
+      "lng": "165.816666667"
+    },
+    {
+      "name": "Nepoui",
+      "t": null,
+      "ckey": "nepoui_nc",
+      "lat": "-21.344809024247994",
+      "lng": "164.9531255881749"
+    },
+    {
+      "name": "Noumea",
+      "t": true,
+      "ckey": "noumea_nc",
+      "lat": "-22.3045576539983",
+      "lng": "166.431884765625"
+    },
+    {
+      "name": "Poro",
+      "t": null,
+      "ckey": "poro_nc",
+      "lat": "-21.3166666667",
+      "lng": "165.733333333"
+    },
+    {
+      "name": "Thio",
+      "t": null,
+      "ckey": "thio_nc",
+      "lat": "-21.6166666667",
+      "lng": "166.25"
+    }
+  ],
+  "ccountries": []
+}

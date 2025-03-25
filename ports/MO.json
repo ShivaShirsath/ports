@@ -1,0 +1,21 @@
+{
+  "title": "Macao",
+  "ckey": "macao",
+  "cports": [
+    {
+      "name": "Macao",
+      "t": true,
+      "ckey": "macao_mo",
+      "lat": "22.2",
+      "lng": "113.55"
+    },
+    {
+      "name": "Macau",
+      "t": true,
+      "ckey": "macau_mo",
+      "lat": "22.2",
+      "lng": "113.55"
+    }
+  ],
+  "ccountries": []
+}

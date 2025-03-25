@@ -1,0 +1,14 @@
+{
+  "title": "Samoa",
+  "ckey": "samoa",
+  "cports": [
+    {
+      "name": "Apia",
+      "t": true,
+      "ckey": "apia_ws",
+      "lat": "-13.845339862749448",
+      "lng": "-171.76255098311083"
+    }
+  ],
+  "ccountries": []
+}

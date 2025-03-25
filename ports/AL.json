@@ -1,0 +1,47 @@
+{
+  "title": "Albania",
+  "ckey": "albania",
+  "cports": [
+    {
+      "name": "Durres",
+      "t": true,
+      "ckey": "durres_al",
+      "lat": "41.318730780182726",
+      "lng": "19.44881339744957"
+    },
+    {
+      "name": "Sarande",
+      "t": null,
+      "ckey": "sarande_al",
+      "lat": "39.8833333333",
+      "lng": "20"
+    },
+    {
+      "name": "Shengjin",
+      "t": null,
+      "ckey": "shengjin_al",
+      "lat": "41.8166666667",
+      "lng": "19.6"
+    },
+    {
+      "name": "Valona",
+      "t": null,
+      "ckey": "valona_al",
+      "lat": "40.44999901964881",
+      "lng": "19.498436429317003"
+    },
+    {
+      "name": "Vlore",
+      "t": null,
+      "ckey": "vlore_al",
+      "lat": "40.49691217396304",
+      "lng": "19.458614718908535"
+    }
+  ],
+  "ccountries": [
+    { "name": "Greece", "code": "GR", "link": "/maritime/greece" },
+    { "name": "Macedonia", "code": "MK", "link": "/maritime/macedonia" },
+    { "name": "Montenegro", "code": "ME", "link": "/maritime/montenegro" },
+    { "name": "Serbia", "code": "RS", "link": "/maritime/serbia" }
+  ]
+}

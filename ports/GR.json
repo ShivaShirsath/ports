@@ -1,0 +1,390 @@
+{
+  "title": "Greece",
+  "ckey": "greece",
+  "cports": [
+    {
+      "name": "Achladi",
+      "t": null,
+      "ckey": "achladi_gr",
+      "lat": "38.89402387011195",
+      "lng": "22.81666697906155"
+    },
+    {
+      "name": "Agia Marina",
+      "t": null,
+      "ckey": "agia_marina_gr",
+      "lat": "38.91282396580242",
+      "lng": "22.604120029827214"
+    },
+    {
+      "name": "Agioi Theodoroi",
+      "t": null,
+      "ckey": "agioi_theodoroi_gr",
+      "lat": "37.9166666667",
+      "lng": "23.0833333333"
+    },
+    {
+      "name": "Aspra Spitia Ore Terminal",
+      "t": null,
+      "ckey": "aspra_spitia_ore_terminal_gr",
+      "lat": "38.3666666667",
+      "lng": "22.6333333333"
+    },
+    {
+      "name": "Aspropirgos",
+      "t": null,
+      "ckey": "aspropirgos_gr",
+      "lat": "38.043337469365206",
+      "lng": "23.581960647257507"
+    },
+    {
+      "name": "Athinai",
+      "t": false,
+      "ckey": "athinai_gr",
+      "lat": "37.932350310447084",
+      "lng": "23.628054178871338"
+    },
+    {
+      "name": "Attiki",
+      "t": false,
+      "ckey": "attiki_gr",
+      "lat": "37.92513080049438",
+      "lng": "23.709644203601727"
+    },
+    {
+      "name": "Ayia Marina",
+      "t": null,
+      "ckey": "ayia_marina_gr",
+      "lat": "37.12104678045463",
+      "lng": "26.819787917639957"
+    },
+    {
+      "name": "Cephalonia",
+      "t": null,
+      "ckey": "cephalonia_gr",
+      "lat": "38.1666666667",
+      "lng": "20.4833333333"
+    },
+    {
+      "name": "Chalkida",
+      "t": null,
+      "ckey": "chalkida_gr",
+      "lat": "38.456452677724",
+      "lng": "23.601872762011"
+    },
+    {
+      "name": "Chios",
+      "t": null,
+      "ckey": "chios_gr",
+      "lat": "38.383334040964684",
+      "lng": "26.136610198740478"
+    },
+    {
+      "name": "Corfu",
+      "t": null,
+      "ckey": "corfu_gr",
+      "lat": "39.6166666667",
+      "lng": "19.9166666667"
+    },
+    {
+      "name": "Corinth",
+      "t": null,
+      "ckey": "corinth_gr",
+      "lat": "37.9333333333",
+      "lng": "22.9166666667"
+    },
+    {
+      "name": "Drepano",
+      "t": null,
+      "ckey": "drepano_gr",
+      "lat": "38.80046052376653",
+      "lng": "20.738826103348"
+    },
+    {
+      "name": "Gythion",
+      "t": null,
+      "ckey": "gythion_gr",
+      "lat": "36.7930645116052",
+      "lng": "22.583334056635575"
+    },
+    {
+      "name": "Heraklion",
+      "t": false,
+      "ckey": "heraklion_gr",
+      "lat": "35.3333333",
+      "lng": "25.15"
+    },
+    {
+      "name": "Igoumenitsa",
+      "t": null,
+      "ckey": "igoumenitsa_gr",
+      "lat": "39.5333333333",
+      "lng": "20.2166666667"
+    },
+    {
+      "name": "Isthmia",
+      "t": null,
+      "ckey": "isthmia_gr",
+      "lat": "37.91473525257762",
+      "lng": "23.008410879631317"
+    },
+    {
+      "name": "Kalamaki",
+      "t": null,
+      "ckey": "kalamaki_gr",
+      "lat": "37.923167121108",
+      "lng": "23.0249057864769"
+    },
+    {
+      "name": "Kalymnos",
+      "t": null,
+      "ckey": "kalymnos_gr",
+      "lat": "36.93353759717027",
+      "lng": "26.977840202581344"
+    },
+    {
+      "name": "Karlovassi",
+      "t": null,
+      "ckey": "karlovassi_gr",
+      "lat": "37.8",
+      "lng": "26.6833333333"
+    },
+    {
+      "name": "Katakolon",
+      "t": null,
+      "ckey": "katakolon_gr",
+      "lat": "37.67174444266525",
+      "lng": "21.336080042488717"
+    },
+    {
+      "name": "Kavonisi-Kissamos",
+      "t": null,
+      "ckey": "kavonisi_kissamos_gr",
+      "lat": "35.5166666667",
+      "lng": "23.6333333333"
+    },
+    {
+      "name": "Kymassi",
+      "t": null,
+      "ckey": "kymassi_gr",
+      "lat": "38.8333333333",
+      "lng": "23.4666666667"
+    },
+    {
+      "name": "Lavrion",
+      "t": null,
+      "ckey": "lavrion_gr",
+      "lat": "37.704344935573715",
+      "lng": "24.0598006815916"
+    },
+    {
+      "name": "Marathoupolis",
+      "t": null,
+      "ckey": "marathoupolis_gr",
+      "lat": "37.066668229377576",
+      "lng": "21.583146767788296"
+    },
+    {
+      "name": "Mesolongi",
+      "t": null,
+      "ckey": "mesolongi_gr",
+      "lat": "38.374287455409004",
+      "lng": "21.427092313179138"
+    },
+    {
+      "name": "Methoni",
+      "t": null,
+      "ckey": "methoni_gr",
+      "lat": "36.49",
+      "lng": "21.43"
+    },
+    {
+      "name": "Milos Island",
+      "t": null,
+      "ckey": "milos_island_gr",
+      "lat": "36.713212770018586",
+      "lng": "24.378589515818188"
+    },
+    {
+      "name": "Mykonos Island",
+      "t": null,
+      "ckey": "mykonos_island_gr",
+      "lat": "37.447820105820966",
+      "lng": "25.34157276425641"
+    },
+    {
+      "name": "Nauplia",
+      "t": null,
+      "ckey": "nauplia_gr",
+      "lat": "37.56884422772442",
+      "lng": "22.816479148859376"
+    },
+    {
+      "name": "Navarino",
+      "t": null,
+      "ckey": "navarino_gr",
+      "lat": "36.9528909381835",
+      "lng": "21.695006483372886"
+    },
+    {
+      "name": "Pachi",
+      "t": null,
+      "ckey": "pachi_gr",
+      "lat": "37.974243275721356",
+      "lng": "23.373720132294867"
+    },
+    {
+      "name": "Paroikia",
+      "t": null,
+      "ckey": "paroikia_gr",
+      "lat": "37.09647859001009",
+      "lng": "25.169226600929477"
+    },
+    {
+      "name": "Patmos",
+      "t": null,
+      "ckey": "patmos_gr",
+      "lat": "37.305461888044974",
+      "lng": "26.55998801218018"
+    },
+    {
+      "name": "Piraeus",
+      "t": true,
+      "ckey": "piraeus_gr",
+      "lat": "37.950269311734615",
+      "lng": "23.638140660728155"
+    },
+    {
+      "name": "Poseidonia",
+      "t": null,
+      "ckey": "poseidonia_gr",
+      "lat": "37.96624170910869",
+      "lng": "22.976778566037698"
+    },
+    {
+      "name": "Preveza/Lefkas",
+      "t": null,
+      "ckey": "prevezalefkas_gr",
+      "lat": "38.95",
+      "lng": "20.75"
+    },
+    {
+      "name": "Pyli",
+      "t": null,
+      "ckey": "pyli_gr",
+      "lat": "40.46",
+      "lng": "21.02"
+    },
+    {
+      "name": "Pylos",
+      "t": null,
+      "ckey": "pylos_gr",
+      "lat": "36.9166666667",
+      "lng": "21.7"
+    },
+    {
+      "name": "Rafina",
+      "t": null,
+      "ckey": "rafina_gr",
+      "lat": "38.013421240800554",
+      "lng": "24.00980028177252"
+    },
+    {
+      "name": "Rethimnon",
+      "t": null,
+      "ckey": "rethimnon_gr",
+      "lat": "35.3666666667",
+      "lng": "24.4666666667"
+    },
+    {
+      "name": "Rhodes",
+      "t": null,
+      "ckey": "rhodes_gr",
+      "lat": "36.44116292028239",
+      "lng": "28.21685359349458"
+    },
+    {
+      "name": "Rio",
+      "t": false,
+      "ckey": "rio_gr",
+      "lat": "38.2972222222",
+      "lng": "21.7861111111"
+    },
+    {
+      "name": "Seriphos Island",
+      "t": null,
+      "ckey": "seriphos_island_gr",
+      "lat": "37.12761742243618",
+      "lng": "24.494882024174117"
+    },
+    {
+      "name": "Stratoni",
+      "t": null,
+      "ckey": "stratoni_gr",
+      "lat": "40.519015623748",
+      "lng": "23.829900105761"
+    },
+    {
+      "name": "Stylis",
+      "t": null,
+      "ckey": "stylis_gr",
+      "lat": "38.90534490866125",
+      "lng": "22.649626165172425"
+    },
+    {
+      "name": "Syros Island",
+      "t": false,
+      "ckey": "syros_island_gr",
+      "lat": "37.426789953366495",
+      "lng": "24.890450722408115"
+    },
+    {
+      "name": "Thessaloniki",
+      "t": true,
+      "ckey": "thessaloniki_gr",
+      "lat": "40.638542976592",
+      "lng": "22.908427155466"
+    },
+    {
+      "name": "Vathi",
+      "t": null,
+      "ckey": "vathi_gr",
+      "lat": "38.3333333333",
+      "lng": "20.7"
+    },
+    {
+      "name": "Volos",
+      "t": false,
+      "ckey": "volos_gr",
+      "lat": "39.345752077511",
+      "lng": "22.923533121778"
+    },
+    {
+      "name": "Yali Island",
+      "t": null,
+      "ckey": "yali_island_gr",
+      "lat": "36.60467423391791",
+      "lng": "27.150999158419506"
+    },
+    {
+      "name": "Yerakini",
+      "t": null,
+      "ckey": "yerakini_gr",
+      "lat": "40.28552464934031",
+      "lng": "23.433334023370737"
+    },
+    {
+      "name": "Zante",
+      "t": null,
+      "ckey": "zante_gr",
+      "lat": "37.7833333333",
+      "lng": "20.9"
+    }
+  ],
+  "ccountries": [
+    { "name": "Albania", "code": "AL", "link": "/maritime/albania" },
+    { "name": "Bulgaria", "code": "BG", "link": "/maritime/bulgaria" },
+    { "name": "Macedonia", "code": "MK", "link": "/maritime/macedonia" },
+    { "name": "Turkey", "code": "TR", "link": "/maritime/turkey" }
+  ]
+}

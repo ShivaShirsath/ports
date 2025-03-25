@@ -1,0 +1,190 @@
+{
+  "title": "Ukraine",
+  "ckey": "ukraine",
+  "cports": [
+    {
+      "name": "Belgorod-Dnestrovskiy",
+      "t": null,
+      "ckey": "belgorod_dnestrovskiy_ua",
+      "lat": "46.186691979015436",
+      "lng": "30.35037587886937"
+    },
+    {
+      "name": "Berdyansk",
+      "t": null,
+      "ckey": "berdyansk_ua",
+      "lat": "46.75",
+      "lng": "36.8"
+    },
+    {
+      "name": "Chernihiv",
+      "t": false,
+      "ckey": "chernihiv_ua",
+      "lat": "51.493889",
+      "lng": "31.294722"
+    },
+    {
+      "name": "Chornomorsk",
+      "t": true,
+      "ckey": "chornomorsk_ua",
+      "lat": "46.337529876646",
+      "lng": "30.677839053342"
+    },
+    {
+      "name": "Dnipro",
+      "t": false,
+      "ckey": "dnipro_ua",
+      "lat": "48.5",
+      "lng": "35.016666666667"
+    },
+    {
+      "name": "Evpatoria",
+      "t": null,
+      "ckey": "evpatoria_ua",
+      "lat": "45.173324132617324",
+      "lng": "33.33801331995425"
+    },
+    {
+      "name": "Feodosiya",
+      "t": null,
+      "ckey": "feodosiya_ua",
+      "lat": "45.05048659548923",
+      "lng": "35.357864182067104"
+    },
+    {
+      "name": "Izmail",
+      "t": true,
+      "ckey": "izmail_ua",
+      "lat": "45.329472502328",
+      "lng": "28.830774901757"
+    },
+    {
+      "name": "Kerch",
+      "t": null,
+      "ckey": "kerch_ua",
+      "lat": "45.36035861775437",
+      "lng": "36.46666684664322"
+    },
+    {
+      "name": "Kharkiv",
+      "t": false,
+      "ckey": "kharkiv_ua",
+      "lat": "49.99",
+      "lng": "36.23"
+    },
+    {
+      "name": "Kherson",
+      "t": false,
+      "ckey": "kherson_ua",
+      "lat": "46.629635633932",
+      "lng": "32.612228393554"
+    },
+    {
+      "name": "Kiliya",
+      "t": null,
+      "ckey": "kiliya_ua",
+      "lat": "45.428725396251615",
+      "lng": "29.282458726664952"
+    },
+    {
+      "name": "Kyiv",
+      "t": false,
+      "ckey": "kyiv_ua",
+      "lat": "50.440014664",
+      "lng": "30.5310058594"
+    },
+    {
+      "name": "Mariupol",
+      "t": false,
+      "ckey": "mariupol_ua",
+      "lat": "47.1",
+      "lng": "37.5666666667"
+    },
+    {
+      "name": "Nikolaev",
+      "t": null,
+      "ckey": "nikolaev_ua",
+      "lat": "46.94833661864732",
+      "lng": "31.955494239484462"
+    },
+    {
+      "name": "Ochakov",
+      "t": null,
+      "ckey": "ochakov_ua",
+      "lat": "46.61867070816748",
+      "lng": "31.54462762505693"
+    },
+    {
+      "name": "Odesa",
+      "t": true,
+      "ckey": "odesa_ua",
+      "lat": "46.499999586433",
+      "lng": "30.730773019409"
+    },
+    {
+      "name": "Poltava",
+      "t": null,
+      "ckey": "poltava_ua",
+      "lat": "49.5857874411",
+      "lng": "34.541015625"
+    },
+    {
+      "name": "Reni",
+      "t": true,
+      "ckey": "reni_ua",
+      "lat": "45.4164",
+      "lng": "28.28788"
+    },
+    {
+      "name": "Sevastopol",
+      "t": null,
+      "ckey": "sevastopol_ua",
+      "lat": "44.6",
+      "lng": "33.5"
+    },
+    {
+      "name": "Skadovsk",
+      "t": null,
+      "ckey": "skadovsk_ua",
+      "lat": "46.06",
+      "lng": "32.54"
+    },
+    {
+      "name": "Vinnytsia",
+      "t": true,
+      "ckey": "vinnytsia_ua",
+      "lat": "49.267358461667",
+      "lng": "28.53320269772"
+    },
+    {
+      "name": "Yalta",
+      "t": null,
+      "ckey": "yalta_ua",
+      "lat": "44.50391778263189",
+      "lng": "34.17253266293558"
+    },
+    {
+      "name": "Yuzhny",
+      "t": true,
+      "ckey": "yuzhny_ua",
+      "lat": "46.6",
+      "lng": "31.0166666667"
+    },
+    {
+      "name": "Zaporizhzhia",
+      "t": false,
+      "ckey": "zaporizhzhia_ua",
+      "lat": "47.866389",
+      "lng": "35.100278"
+    }
+  ],
+  "ccountries": [
+    { "name": "Belarus", "code": "BY", "link": "/maritime/belarus" },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Moldova", "code": "MD", "link": "/maritime/moldova" },
+    { "name": "Poland", "code": "PL", "link": "/maritime/poland" },
+    { "name": "Romania", "code": "RO", "link": "/maritime/romania" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Slovakia", "code": "SK", "link": "/maritime/slovakia" }
+  ]
+}

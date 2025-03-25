@@ -1,0 +1,142 @@
+{
+  "title": "Papua New Guinea",
+  "ckey": "papua_new_guinea",
+  "cports": [
+    {
+      "name": "Aitape",
+      "t": null,
+      "ckey": "aitape_pg",
+      "lat": "-3.13333333333",
+      "lng": "142.35"
+    },
+    {
+      "name": "Alotau",
+      "t": false,
+      "ckey": "alotau_pg",
+      "lat": "-10.26261877513262",
+      "lng": "150.44999752721822"
+    },
+    {
+      "name": "Anewa Bay",
+      "t": null,
+      "ckey": "anewa_bay_pg",
+      "lat": "-6.12",
+      "lng": "155.33"
+    },
+    {
+      "name": "Bialla",
+      "t": null,
+      "ckey": "bialla_pg",
+      "lat": "-5.289060717297393",
+      "lng": "151.05474247633117"
+    },
+    {
+      "name": "Buka",
+      "t": null,
+      "ckey": "buka_pg",
+      "lat": "-5.43333333333",
+      "lng": "154.666666667"
+    },
+    {
+      "name": "Daru",
+      "t": null,
+      "ckey": "daru_pg",
+      "lat": "-8.979863999000973",
+      "lng": "143.19999761005982"
+    },
+    {
+      "name": "Kavieng",
+      "t": false,
+      "ckey": "kavieng_pg",
+      "lat": "-2.58333333333",
+      "lng": "150.8"
+    },
+    {
+      "name": "Kieta",
+      "t": null,
+      "ckey": "kieta_pg",
+      "lat": "-6.21666666667",
+      "lng": "155.633333333"
+    },
+    {
+      "name": "Kimbe",
+      "t": false,
+      "ckey": "kimbe_pg",
+      "lat": "-5.55",
+      "lng": "150.15"
+    },
+    {
+      "name": "Kumul Marine Terminal",
+      "t": null,
+      "ckey": "kumul_marine_terminal_pg",
+      "lat": "-7.65381179994697",
+      "lng": "144.37989912880118"
+    },
+    {
+      "name": "Lae",
+      "t": true,
+      "ckey": "lae_pg",
+      "lat": "-6.71666666667",
+      "lng": "146.966666667"
+    },
+    {
+      "name": "Lorengau",
+      "t": null,
+      "ckey": "lorengau_pg",
+      "lat": "-2.043917887427037",
+      "lng": "147.1518767619375"
+    },
+    {
+      "name": "Madang",
+      "t": false,
+      "ckey": "madang_pg",
+      "lat": "-5.207922338825873",
+      "lng": "145.7913167396493"
+    },
+    {
+      "name": "Oro Bay",
+      "t": false,
+      "ckey": "oro_bay_pg",
+      "lat": "-8.89999999999998",
+      "lng": "148.483333333"
+    },
+    {
+      "name": "Port Moresby",
+      "t": true,
+      "ckey": "port_moresby_pg",
+      "lat": "-9.435030366611562",
+      "lng": "147.145388082226"
+    },
+    {
+      "name": "Rabaul",
+      "t": true,
+      "ckey": "rabaul_pg",
+      "lat": "-4.19161272884421",
+      "lng": "152.177124023437"
+    },
+    {
+      "name": "Samarai",
+      "t": null,
+      "ckey": "samarai_pg",
+      "lat": "-10.55929572569494",
+      "lng": "150.59800772653242"
+    },
+    {
+      "name": "Vanimo",
+      "t": null,
+      "ckey": "vanimo_pg",
+      "lat": "-2.68333333333",
+      "lng": "141.3"
+    },
+    {
+      "name": "Wewak",
+      "t": false,
+      "ckey": "wewak_pg",
+      "lat": "-3.5616505013052",
+      "lng": "143.61535542773"
+    }
+  ],
+  "ccountries": [
+    { "name": "Indonesia", "code": "ID", "link": "/maritime/indonesia" }
+  ]
+}

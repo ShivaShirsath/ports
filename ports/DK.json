@@ -1,0 +1,597 @@
+{
+  "title": "Denmark",
+  "ckey": "denmark",
+  "cports": [
+    {
+      "name": "Aabenraa",
+      "t": null,
+      "ckey": "aabenraa_dk",
+      "lat": "55.037759954611126",
+      "lng": "9.427325059454141"
+    },
+    {
+      "name": "Aalborg",
+      "t": true,
+      "ckey": "aalborg_dk",
+      "lat": "57.05",
+      "lng": "9.91666666667003"
+    },
+    {
+      "name": "Aarhus",
+      "t": true,
+      "ckey": "aarhus_dk",
+      "lat": "56.15617952553862",
+      "lng": "10.21350886122658"
+    },
+    {
+      "name": "Aeroskobing",
+      "t": null,
+      "ckey": "aeroskobing_dk",
+      "lat": "54.88965413264857",
+      "lng": "10.408427092213111"
+    },
+    {
+      "name": "Allinge",
+      "t": null,
+      "ckey": "allinge_dk",
+      "lat": "55.27575789624022",
+      "lng": "14.805679827978873"
+    },
+    {
+      "name": "Asnaes",
+      "t": null,
+      "ckey": "asnaes_dk",
+      "lat": "55.272534046951975",
+      "lng": "9.890387125745264"
+    },
+    {
+      "name": "Asnaesvaerkets Havn",
+      "t": null,
+      "ckey": "asnaesvaerkets_havn_dk",
+      "lat": "55.66317988634169",
+      "lng": "11.082647018016118"
+    },
+    {
+      "name": "Bandholm",
+      "t": null,
+      "ckey": "bandholm_dk",
+      "lat": "54.83150531714967",
+      "lng": "11.50017135933712"
+    },
+    {
+      "name": "Bogense",
+      "t": null,
+      "ckey": "bogense_dk",
+      "lat": "55.34",
+      "lng": "10.05"
+    },
+    {
+      "name": "Brabrand",
+      "t": false,
+      "ckey": "brabrand_dk",
+      "lat": "56.141487389973",
+      "lng": "10.148924669648"
+    },
+    {
+      "name": "Brondby",
+      "t": false,
+      "ckey": "brondby_dk",
+      "lat": "55.59007978674963",
+      "lng": "12.348632825961737"
+    },
+    {
+      "name": "Copenhagen",
+      "t": true,
+      "ckey": "copenhagen_dk",
+      "lat": "55.671553698264",
+      "lng": "12.578659083056"
+    },
+    {
+      "name": "Dania",
+      "t": null,
+      "ckey": "dania_dk",
+      "lat": "56.6833333333",
+      "lng": "10.05"
+    },
+    {
+      "name": "Ebeltoft",
+      "t": null,
+      "ckey": "ebeltoft_dk",
+      "lat": "56.19307620743503",
+      "lng": "10.669257502463912"
+    },
+    {
+      "name": "Elsinore",
+      "t": null,
+      "ckey": "elsinore_dk",
+      "lat": "56.0333333333",
+      "lng": "12.6166666667"
+    },
+    {
+      "name": "Ensted",
+      "t": null,
+      "ckey": "ensted_dk",
+      "lat": "55.02296576486888",
+      "lng": "9.445178320170907"
+    },
+    {
+      "name": "Esbjerg",
+      "t": true,
+      "ckey": "esbjerg_dk",
+      "lat": "55.46002615476341",
+      "lng": "8.43269327572302"
+    },
+    {
+      "name": "Faaborg",
+      "t": null,
+      "ckey": "faaborg_dk",
+      "lat": "55.075250862965326",
+      "lng": "10.225994447029365"
+    },
+    {
+      "name": "Fakse Ladeplads",
+      "t": null,
+      "ckey": "fakse_ladeplads_dk",
+      "lat": "55.2166666667",
+      "lng": "12.1666666667"
+    },
+    {
+      "name": "Fredericia",
+      "t": true,
+      "ckey": "fredericia_dk",
+      "lat": "55.54051310394284",
+      "lng": "9.78469848607578"
+    },
+    {
+      "name": "Frederiksberg",
+      "t": false,
+      "ckey": "frederiksberg_dk",
+      "lat": "55.66115473525278",
+      "lng": "12.564926133955824"
+    },
+    {
+      "name": "Frederikshavn",
+      "t": false,
+      "ckey": "frederikshavn_dk",
+      "lat": "57.4329706927512",
+      "lng": "10.531769209566141"
+    },
+    {
+      "name": "Frederikssund",
+      "t": null,
+      "ckey": "frederikssund_dk",
+      "lat": "55.83449127600936",
+      "lng": "12.052247012212788"
+    },
+    {
+      "name": "Frederiksvark",
+      "t": null,
+      "ckey": "frederiksvark_dk",
+      "lat": "55.96604413451839",
+      "lng": "11.999001418764308"
+    },
+    {
+      "name": "Gedser",
+      "t": null,
+      "ckey": "gedser_dk",
+      "lat": "54.57462873265466",
+      "lng": "11.927840239122883"
+    },
+    {
+      "name": "Graasten",
+      "t": null,
+      "ckey": "graasten_dk",
+      "lat": "54.918836115877454",
+      "lng": "9.596223684797508"
+    },
+    {
+      "name": "Grenaa",
+      "t": false,
+      "ckey": "grenaa_dk",
+      "lat": "56.40915607201755",
+      "lng": "10.927104827594711"
+    },
+    {
+      "name": "Gulfhavn",
+      "t": null,
+      "ckey": "gulfhavn_dk",
+      "lat": "55.2",
+      "lng": "11.2666666667"
+    },
+    {
+      "name": "Haderslev",
+      "t": null,
+      "ckey": "haderslev_dk",
+      "lat": "55.25039057366279",
+      "lng": "9.504806725398765"
+    },
+    {
+      "name": "Hadsund",
+      "t": null,
+      "ckey": "hadsund_dk",
+      "lat": "56.70150865906161",
+      "lng": "10.09725306513744"
+    },
+    {
+      "name": "Hammerhavn",
+      "t": null,
+      "ckey": "hammerhavn_dk",
+      "lat": "55.2825505193698",
+      "lng": "14.752745861911274"
+    },
+    {
+      "name": "Hanstholm",
+      "t": null,
+      "ckey": "hanstholm_dk",
+      "lat": "57.119915802332834",
+      "lng": "8.608239382676103"
+    },
+    {
+      "name": "Hasle",
+      "t": null,
+      "ckey": "hasle_dk",
+      "lat": "55.18196915365219",
+      "lng": "14.70568073588801"
+    },
+    {
+      "name": "Havdrup",
+      "t": false,
+      "ckey": "havdrup_dk",
+      "lat": "55.54530106655102",
+      "lng": "12.124099748507676"
+    },
+    {
+      "name": "Hirtshals",
+      "t": null,
+      "ckey": "hirtshals_dk",
+      "lat": "57.59345281748982",
+      "lng": "9.967166135979024"
+    },
+    {
+      "name": "Hobro",
+      "t": null,
+      "ckey": "hobro_dk",
+      "lat": "56.637110220472145",
+      "lng": "9.80412012898071"
+    },
+    {
+      "name": "Holbaek",
+      "t": null,
+      "ckey": "holbaek_dk",
+      "lat": "55.72053298480228",
+      "lng": "11.714606855876964"
+    },
+    {
+      "name": "Horsens",
+      "t": null,
+      "ckey": "horsens_dk",
+      "lat": "55.8666666667",
+      "lng": "9.85"
+    },
+    {
+      "name": "Hvide Sande",
+      "t": null,
+      "ckey": "hvide_sande_dk",
+      "lat": "56.00921434516746",
+      "lng": "8.11117321960207"
+    },
+    {
+      "name": "Kalundborg",
+      "t": true,
+      "ckey": "kalundborg_dk",
+      "lat": "55.6806241894819",
+      "lng": "11.064107323287764"
+    },
+    {
+      "name": "Kastrup",
+      "t": false,
+      "ckey": "kastrup_dk",
+      "lat": "55.638758544964304",
+      "lng": "12.654276107356992"
+    },
+    {
+      "name": "Kerteminde",
+      "t": null,
+      "ckey": "kerteminde_dk",
+      "lat": "55.45",
+      "lng": "10.6666666667"
+    },
+    {
+      "name": "Kobenhavn",
+      "t": false,
+      "ckey": "kobenhavn_dk",
+      "lat": "55.70387073832204",
+      "lng": "12.59793985330908"
+    },
+    {
+      "name": "Koge",
+      "t": null,
+      "ckey": "koge_dk",
+      "lat": "55.45502304119638",
+      "lng": "12.188300965384858"
+    },
+    {
+      "name": "Kolding",
+      "t": true,
+      "ckey": "kolding_dk",
+      "lat": "55.5",
+      "lng": "9.5"
+    },
+    {
+      "name": "Korsoer",
+      "t": null,
+      "ckey": "korsoer_dk",
+      "lat": "55.3333333333",
+      "lng": "11.1333333333"
+    },
+    {
+      "name": "Kyndby",
+      "t": null,
+      "ckey": "kyndby_dk",
+      "lat": "55.81512427461779",
+      "lng": "11.888139764572184"
+    },
+    {
+      "name": "Laesohavn",
+      "t": null,
+      "ckey": "laesohavn_dk",
+      "lat": "57.29561900363683",
+      "lng": "10.924484596274365"
+    },
+    {
+      "name": "Lemvig",
+      "t": null,
+      "ckey": "lemvig_dk",
+      "lat": "56.5833333333",
+      "lng": "8.28333333333"
+    },
+    {
+      "name": "Mariager",
+      "t": null,
+      "ckey": "mariager_dk",
+      "lat": "56.39",
+      "lng": "10"
+    },
+    {
+      "name": "Marstal",
+      "t": null,
+      "ckey": "marstal_dk",
+      "lat": "54.86745601784603",
+      "lng": "10.508240061649094"
+    },
+    {
+      "name": "Masnedsund",
+      "t": null,
+      "ckey": "masnedsund_dk",
+      "lat": "55.0017341218339",
+      "lng": "11.884519764312078"
+    },
+    {
+      "name": "Middelfart",
+      "t": null,
+      "ckey": "middelfart_dk",
+      "lat": "55.50544349764941",
+      "lng": "9.73333375596999"
+    },
+    {
+      "name": "Naestved",
+      "t": null,
+      "ckey": "naestved_dk",
+      "lat": "55.22217164710689",
+      "lng": "11.75480678801072"
+    },
+    {
+      "name": "Nakskov",
+      "t": null,
+      "ckey": "nakskov_dk",
+      "lat": "54.8333333333",
+      "lng": "11.1333333333"
+    },
+    {
+      "name": "Nekso",
+      "t": null,
+      "ckey": "nekso_dk",
+      "lat": "55.06273454131128",
+      "lng": "15.13626781399666"
+    },
+    {
+      "name": "Nykobing",
+      "t": null,
+      "ckey": "nykobing_dk",
+      "lat": "55.3166666667",
+      "lng": "10.8"
+    },
+    {
+      "name": "Odense",
+      "t": false,
+      "ckey": "odense_dk",
+      "lat": "55.41926017070219",
+      "lng": "10.38002033545503"
+    },
+    {
+      "name": "Orehoved",
+      "t": null,
+      "ckey": "orehoved_dk",
+      "lat": "54.95887126969748",
+      "lng": "11.853433012078412"
+    },
+    {
+      "name": "Randers",
+      "t": null,
+      "ckey": "randers_dk",
+      "lat": "56.4666666667",
+      "lng": "10.05"
+    },
+    {
+      "name": "Ringkobing",
+      "t": null,
+      "ckey": "ringkobing_dk",
+      "lat": "56.0833333333",
+      "lng": "8.23333333333"
+    },
+    {
+      "name": "Rodbyhavn",
+      "t": null,
+      "ckey": "rodbyhavn_dk",
+      "lat": "54.65476734218642",
+      "lng": "11.347065838902115"
+    },
+    {
+      "name": "Ronne",
+      "t": null,
+      "ckey": "ronne_dk",
+      "lat": "55.09355235484637",
+      "lng": "14.691572980157346"
+    },
+    {
+      "name": "Rudkobing",
+      "t": null,
+      "ckey": "rudkobing_dk",
+      "lat": "54.9333333333",
+      "lng": "10.7"
+    },
+    {
+      "name": "Sakskobing",
+      "t": null,
+      "ckey": "sakskobing_dk",
+      "lat": "54.8",
+      "lng": "11.6333333333"
+    },
+    {
+      "name": "Samso Island",
+      "t": null,
+      "ckey": "samso_island_dk",
+      "lat": "55.86340005167144",
+      "lng": "10.554837319714213"
+    },
+    {
+      "name": "Skaelskor",
+      "t": null,
+      "ckey": "skaelskor_dk",
+      "lat": "55.25",
+      "lng": "11.3"
+    },
+    {
+      "name": "Skaerbaek",
+      "t": null,
+      "ckey": "skaerbaek_dk",
+      "lat": "55.51122525278183",
+      "lng": "9.615293572960184"
+    },
+    {
+      "name": "Skagen",
+      "t": null,
+      "ckey": "skagen_dk",
+      "lat": "57.7166666667",
+      "lng": "10.5833333333"
+    },
+    {
+      "name": "Skaw",
+      "t": null,
+      "ckey": "skaw_dk",
+      "lat": "57.73223543123531",
+      "lng": "10.622846367053675"
+    },
+    {
+      "name": "Skive",
+      "t": null,
+      "ckey": "skive_dk",
+      "lat": "56.5666666667",
+      "lng": "9.05"
+    },
+    {
+      "name": "Sonderborg",
+      "t": null,
+      "ckey": "sonderborg_dk",
+      "lat": "54.90493668091648",
+      "lng": "9.785393457823828"
+    },
+    {
+      "name": "Stigsnaesvaerkets Havn",
+      "t": null,
+      "ckey": "stigsnaesvaerkets_havn_dk",
+      "lat": "55.2",
+      "lng": "11.3333333333"
+    },
+    {
+      "name": "Stockholm ",
+      "t": true,
+      "ckey": "stockholm__dk",
+      "lat": "59.32705",
+      "lng": "18.10615"
+    },
+    {
+      "name": "Struer",
+      "t": null,
+      "ckey": "struer_dk",
+      "lat": "56.5",
+      "lng": "8.58333333333"
+    },
+    {
+      "name": "Stubbekobing",
+      "t": null,
+      "ckey": "stubbekobing_dk",
+      "lat": "54.891628057318705",
+      "lng": "12.043664025747022"
+    },
+    {
+      "name": "Studstrup",
+      "t": null,
+      "ckey": "studstrup_dk",
+      "lat": "56.24961992847898",
+      "lng": "10.347939790697126"
+    },
+    {
+      "name": "Svaneke",
+      "t": null,
+      "ckey": "svaneke_dk",
+      "lat": "55.13568779183618",
+      "lng": "15.154306343594664"
+    },
+    {
+      "name": "Svendborg",
+      "t": null,
+      "ckey": "svendborg_dk",
+      "lat": "55.05",
+      "lng": "10.6166666667"
+    },
+    {
+      "name": "Tisted",
+      "t": null,
+      "ckey": "tisted_dk",
+      "lat": "56.95",
+      "lng": "8.7"
+    },
+    {
+      "name": "Tuborg Havn",
+      "t": null,
+      "ckey": "tuborg_havn_dk",
+      "lat": "55.734879797153894",
+      "lng": "12.582647059757422"
+    },
+    {
+      "name": "Vejle",
+      "t": null,
+      "ckey": "vejle_dk",
+      "lat": "55.706964814016054",
+      "lng": "9.544850416955258"
+    },
+    {
+      "name": "Vesterohavn",
+      "t": null,
+      "ckey": "vesterohavn_dk",
+      "lat": "57.29826570194021",
+      "lng": "10.929763478729138"
+    },
+    {
+      "name": "Vordingborg",
+      "t": null,
+      "ckey": "vordingborg_dk",
+      "lat": "54.99554597044586",
+      "lng": "11.918009035586296"
+    }
+  ],
+  "ccountries": [
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" }
+  ]
+}

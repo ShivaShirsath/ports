@@ -1,0 +1,139 @@
+{
+  "title": "Colombia",
+  "ckey": "colombia",
+  "cports": [
+    {
+      "name": "Barranquilla",
+      "t": true,
+      "ckey": "barranquilla_co",
+      "lat": "10.9750182526022",
+      "lng": "-74.7647094726565"
+    },
+    {
+      "name": "Bogota",
+      "t": true,
+      "ckey": "bogota_co",
+      "lat": "4.7036947177427",
+      "lng": "-74.070694576534"
+    },
+    {
+      "name": "Buenaventura",
+      "t": true,
+      "ckey": "buenaventura_co",
+      "lat": "3.88838328160015",
+      "lng": "-77.0443725585938"
+    },
+    {
+      "name": "CALI",
+      "t": true,
+      "ckey": "cali_co",
+      "lat": "3.4469921430832",
+      "lng": "-76.530101809028"
+    },
+    {
+      "name": "Cartagena",
+      "t": true,
+      "ckey": "cartagena_co",
+      "lat": "10.4025285764627",
+      "lng": "-75.5200195312502"
+    },
+    {
+      "name": "Covenas",
+      "t": null,
+      "ckey": "covenas_co",
+      "lat": "9.39975585464303",
+      "lng": "-75.72509155425911"
+    },
+    {
+      "name": "Mamonal",
+      "t": null,
+      "ckey": "mamonal_co",
+      "lat": "10.297750706902226",
+      "lng": "-75.50430568933845"
+    },
+    {
+      "name": "Medellin",
+      "t": true,
+      "ckey": "medellin_co",
+      "lat": "6.257503023354",
+      "lng": "-75.592884476016"
+    },
+    {
+      "name": "Muelles El Bosque",
+      "t": null,
+      "ckey": "muelles_el_bosque_co",
+      "lat": "10.37433505674464",
+      "lng": "-75.50586980265838"
+    },
+    {
+      "name": "Pozos Colorados",
+      "t": null,
+      "ckey": "pozos_colorados_co",
+      "lat": "11.131136238481332",
+      "lng": "-74.21978616308"
+    },
+    {
+      "name": "Puerto Bolivar",
+      "t": null,
+      "ckey": "puerto_bolivar_co",
+      "lat": "12.21298356149799",
+      "lng": "-72.17540809165763"
+    },
+    {
+      "name": "Puerto Colombia",
+      "t": null,
+      "ckey": "puerto_colombia_co",
+      "lat": "11",
+      "lng": "-74.57"
+    },
+    {
+      "name": "Puerto Prodeco",
+      "t": null,
+      "ckey": "puerto_prodeco_co",
+      "lat": "11.023319994885387",
+      "lng": "-74.25511873165648"
+    },
+    {
+      "name": "San Andres Island",
+      "t": null,
+      "ckey": "san_andres_island_co",
+      "lat": "12.40787020285961",
+      "lng": "-71.52421785618861"
+    },
+    {
+      "name": "Santa Marta",
+      "t": true,
+      "ckey": "santa_marta_co",
+      "lat": "11.2365887024024",
+      "lng": "-74.2153930664063"
+    },
+    {
+      "name": "Tolu",
+      "t": null,
+      "ckey": "tolu_co",
+      "lat": "9.524379486239082",
+      "lng": "-75.5650397314382"
+    },
+    {
+      "name": "Tumaco",
+      "t": null,
+      "ckey": "tumaco_co",
+      "lat": "1.85",
+      "lng": "-78.8166666667"
+    },
+    {
+      "name": "Turbo",
+      "t": true,
+      "ckey": "turbo_co",
+      "lat": "8.07342959424858",
+      "lng": "-76.87727616534856"
+    }
+  ],
+  "ccountries": [
+    { "name": "Brazil", "code": "BR", "link": "/maritime/brazil" },
+    { "name": "Ecuador", "code": "EC", "link": "/maritime/ecuador" },
+    { "name": "Panama", "code": "PA", "link": "/maritime/panama" },
+    { "name": "Peru", "code": "PE", "link": "/maritime/peru" },
+    { "name": "Venezuela", "code": "VE", "link": "/maritime/venezuela" }
+  ]
+}

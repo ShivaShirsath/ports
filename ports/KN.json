@@ -1,0 +1,21 @@
+{
+  "title": "Saint Kitts and Nevis",
+  "ckey": "saint_kitts_and_nevis",
+  "cports": [
+    {
+      "name": "Basseterre",
+      "t": true,
+      "ckey": "basseterre_kn",
+      "lat": "17.3",
+      "lng": "-62.6999999999997"
+    },
+    {
+      "name": "Charlestown",
+      "t": true,
+      "ckey": "charlestown_kn",
+      "lat": "17.1340780566528",
+      "lng": "-62.6165771484377"
+    }
+  ],
+  "ccountries": []
+}

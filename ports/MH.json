@@ -1,0 +1,21 @@
+{
+  "title": "Marshall Islands",
+  "ckey": "marshall_islands",
+  "cports": [
+    {
+      "name": "Kwajalein",
+      "t": true,
+      "ckey": "kwajalein_mh",
+      "lat": "9.16666666667",
+      "lng": "167.5"
+    },
+    {
+      "name": "Majuro",
+      "t": true,
+      "ckey": "majuro_mh",
+      "lat": "7.11666666666998",
+      "lng": "171.166666667"
+    }
+  ],
+  "ccountries": []
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Mauritania",
+  "ckey": "mauritania",
+  "cports": [
+    {
+      "name": "Nouadhibou",
+      "t": true,
+      "ckey": "nouadhibou_mr",
+      "lat": "20.9",
+      "lng": "-17.05"
+    },
+    {
+      "name": "Nouakchott",
+      "t": true,
+      "ckey": "nouakchott_mr",
+      "lat": "18.043780305928124",
+      "lng": "-16.00037382891519"
+    }
+  ],
+  "ccountries": [
+    { "name": "Algeria", "code": "DZ", "link": "/maritime/algeria" },
+    { "name": "Mali", "code": "ML", "link": "/maritime/mali" },
+    { "name": "Senegal", "code": "SN", "link": "/maritime/senegal" }
+  ]
+}

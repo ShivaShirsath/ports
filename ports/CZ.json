@@ -1,0 +1,33 @@
+{
+  "title": "Czech Republic",
+  "ckey": "czech_republic",
+  "cports": [
+    {
+      "name": "Brno",
+      "t": false,
+      "ckey": "brno_cz",
+      "lat": "49.2022097",
+      "lng": "16.437877"
+    },
+    {
+      "name": "Prague",
+      "t": false,
+      "ckey": "prague_cz",
+      "lat": "50.1333333333",
+      "lng": "14.7"
+    },
+    {
+      "name": "Rudna",
+      "t": false,
+      "ckey": "rudna_cz",
+      "lat": "50.0664",
+      "lng": "14.1485"
+    }
+  ],
+  "ccountries": [
+    { "name": "Austria", "code": "AT", "link": "/maritime/austria" },
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" },
+    { "name": "Poland", "code": "PL", "link": "/maritime/poland" },
+    { "name": "Slovakia", "code": "SK", "link": "/maritime/slovakia" }
+  ]
+}

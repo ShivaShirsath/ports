@@ -1,0 +1,21 @@
+{
+  "title": "Guam",
+  "ckey": "guam",
+  "cports": [
+    {
+      "name": "Apra Harbour",
+      "t": null,
+      "ckey": "apra_harbour_gu",
+      "lat": "13.4096497966322",
+      "lng": "144.66796875"
+    },
+    {
+      "name": "Guam",
+      "t": true,
+      "ckey": "guam_gu",
+      "lat": "13.44447",
+      "lng": "144.6515"
+    }
+  ],
+  "ccountries": []
+}

@@ -1,0 +1,198 @@
+{
+  "title": "South Korea",
+  "ckey": "south_korea",
+  "cports": [
+    {
+      "name": "Daepori",
+      "t": null,
+      "ckey": "daepori_kr",
+      "lat": "38.16990428978013",
+      "lng": "128.601369844128"
+    },
+    {
+      "name": "Daesan",
+      "t": false,
+      "ckey": "daesan_kr",
+      "lat": "36.99157371454787",
+      "lng": "126.35274862595475"
+    },
+    {
+      "name": "Donghae",
+      "t": false,
+      "ckey": "donghae_kr",
+      "lat": "37.29",
+      "lng": "129.07"
+    },
+    {
+      "name": "Gwangyang",
+      "t": false,
+      "ckey": "gwangyang_kr",
+      "lat": "34.56",
+      "lng": "127.42"
+    },
+    {
+      "name": "Incheon",
+      "t": true,
+      "ckey": "incheon_kr",
+      "lat": "37.480608879947",
+      "lng": "126.62078587305"
+    },
+    {
+      "name": "Koje",
+      "t": false,
+      "ckey": "koje_kr",
+      "lat": "34.810473389308",
+      "lng": "128.71719360351"
+    },
+    {
+      "name": "Ko Jung",
+      "t": null,
+      "ckey": "ko_jung_kr",
+      "lat": "36.31106830716116",
+      "lng": "126.52965052545807"
+    },
+    {
+      "name": "Kunsan",
+      "t": false,
+      "ckey": "kunsan_kr",
+      "lat": "35.977449685144",
+      "lng": "126.69982910156"
+    },
+    {
+      "name": "Kwangyang",
+      "t": true,
+      "ckey": "kwangyang_kr",
+      "lat": "34.9454528498966",
+      "lng": "127.592468261719"
+    },
+    {
+      "name": "Masan",
+      "t": false,
+      "ckey": "masan_kr",
+      "lat": "35.199106141445",
+      "lng": "128.57299804687"
+    },
+    {
+      "name": "Mogpo",
+      "t": null,
+      "ckey": "mogpo_kr",
+      "lat": "34.762154012906",
+      "lng": "126.39431966112"
+    },
+    {
+      "name": "Mukho",
+      "t": null,
+      "ckey": "mukho_kr",
+      "lat": "37.57245056760619",
+      "lng": "129.10704972951908"
+    },
+    {
+      "name": "Okkye",
+      "t": null,
+      "ckey": "okkye_kr",
+      "lat": "37.594559579861",
+      "lng": "129.07684122754"
+    },
+    {
+      "name": "Okpo",
+      "t": null,
+      "ckey": "okpo_kr",
+      "lat": "34.875447204991",
+      "lng": "128.72353312208"
+    },
+    {
+      "name": "Onsan",
+      "t": false,
+      "ckey": "onsan_kr",
+      "lat": "35.4333333333333",
+      "lng": "129.35"
+    },
+    {
+      "name": "Pohang",
+      "t": false,
+      "ckey": "pohang_kr",
+      "lat": "36.0333333333",
+      "lng": "129.37215983072"
+    },
+    {
+      "name": "Pusan",
+      "t": true,
+      "ckey": "pusan_kr",
+      "lat": "35.098203098396",
+      "lng": "129.03579703711"
+    },
+    {
+      "name": "Pyeong Taek",
+      "t": false,
+      "ckey": "pyeong_taek_kr",
+      "lat": "36.94341405071011",
+      "lng": "127.0017668612677"
+    },
+    {
+      "name": "Pyungtaek",
+      "t": false,
+      "ckey": "pyungtaek_kr",
+      "lat": "36.90878499161814",
+      "lng": "126.97639953869027"
+    },
+    {
+      "name": "Samcheon Po",
+      "t": null,
+      "ckey": "samcheon_po_kr",
+      "lat": "34.868921675237154",
+      "lng": "128.0531242198294"
+    },
+    {
+      "name": "Samchok",
+      "t": null,
+      "ckey": "samchok_kr",
+      "lat": "37.43987659581624",
+      "lng": "129.18901199955923"
+    },
+    {
+      "name": "Seoul",
+      "t": false,
+      "ckey": "seoul_kr",
+      "lat": "37.552424698698",
+      "lng": "126.90307617188"
+    },
+    {
+      "name": "Sokcho",
+      "t": null,
+      "ckey": "sokcho_kr",
+      "lat": "38.22961380350438",
+      "lng": "128.57940395575724"
+    },
+    {
+      "name": "Tonghae",
+      "t": false,
+      "ckey": "tonghae_kr",
+      "lat": "37.49999933598528",
+      "lng": "129.12803207064934"
+    },
+    {
+      "name": "Ulsan",
+      "t": false,
+      "ckey": "ulsan_kr",
+      "lat": "35.4966259985056",
+      "lng": "129.429931640625"
+    },
+    {
+      "name": "Yeosu",
+      "t": false,
+      "ckey": "yeosu_kr",
+      "lat": "34.7383546325786",
+      "lng": "127.7490234375"
+    },
+    {
+      "name": "Yosu",
+      "t": false,
+      "ckey": "yosu_kr",
+      "lat": "34.724302664845894",
+      "lng": "127.70586374204763"
+    }
+  ],
+  "ccountries": [
+    { "name": "North Korea", "code": "KP", "link": "/maritime/north_korea" }
+  ]
+}

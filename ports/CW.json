@@ -1,0 +1,14 @@
+{
+  "title": "Curacao",
+  "ckey": "curacao",
+  "cports": [
+    {
+      "name": "Willemstad",
+      "t": true,
+      "ckey": "willemstad_cw",
+      "lat": "12.096659499001",
+      "lng": "-68.907643574219"
+    }
+  ],
+  "ccountries": []
+}

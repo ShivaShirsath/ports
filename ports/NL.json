@@ -1,0 +1,263 @@
+{
+  "title": "Netherlands",
+  "ckey": "netherlands",
+  "cports": [
+    {
+      "name": "Alkmaar",
+      "t": null,
+      "ckey": "alkmaar_nl",
+      "lat": "52.633331876186126",
+      "lng": "4.7166665323014065"
+    },
+    {
+      "name": "Amsterdam",
+      "t": true,
+      "ckey": "amsterdam_nl",
+      "lat": "52.375471744450635",
+      "lng": "4.904119793411938"
+    },
+    {
+      "name": "Born",
+      "t": null,
+      "ckey": "born_nl",
+      "lat": "51.02",
+      "lng": "5.49"
+    },
+    {
+      "name": "Breskens",
+      "t": null,
+      "ckey": "breskens_nl",
+      "lat": "51.395715258958155",
+      "lng": "3.5584269585127393"
+    },
+    {
+      "name": "Brouwershaven",
+      "t": null,
+      "ckey": "brouwershaven_nl",
+      "lat": "51.7350356418298",
+      "lng": "3.9001869995785516"
+    },
+    {
+      "name": "Den Helder",
+      "t": true,
+      "ckey": "den_helder_nl",
+      "lat": "52.96087701292867",
+      "lng": "4.759300573100626"
+    },
+    {
+      "name": "Dordrecht",
+      "t": null,
+      "ckey": "dordrecht_nl",
+      "lat": "51.78014904129773",
+      "lng": "4.636267094920717"
+    },
+    {
+      "name": "Eemshaven",
+      "t": null,
+      "ckey": "eemshaven_nl",
+      "lat": "53.439365915233914",
+      "lng": "6.834706486375068"
+    },
+    {
+      "name": "Europoort",
+      "t": false,
+      "ckey": "europoort_nl",
+      "lat": "51.934081014622315",
+      "lng": "4.17434481644734"
+    },
+    {
+      "name": "Flushing",
+      "t": true,
+      "ckey": "flushing_nl",
+      "lat": "51.46198175428562",
+      "lng": "3.5392008297727995"
+    },
+    {
+      "name": "Groningen",
+      "t": null,
+      "ckey": "groningen_nl",
+      "lat": "53.21666759734565",
+      "lng": "6.566666811455319"
+    },
+    {
+      "name": "Groot-Ammers",
+      "t": null,
+      "ckey": "groot_ammers_nl",
+      "lat": "51.55",
+      "lng": "4.49"
+    },
+    {
+      "name": "Hansweert",
+      "t": null,
+      "ckey": "hansweert_nl",
+      "lat": "51.45",
+      "lng": "4"
+    },
+    {
+      "name": "Harlingen",
+      "t": true,
+      "ckey": "harlingen_nl",
+      "lat": "53.189917161461295",
+      "lng": "5.4523722478996905"
+    },
+    {
+      "name": "Hellevoetsluis",
+      "t": null,
+      "ckey": "hellevoetsluis_nl",
+      "lat": "51.82175855372145",
+      "lng": "4.134706667372817"
+    },
+    {
+      "name": "Hengelo",
+      "t": null,
+      "ckey": "hengelo_nl",
+      "lat": "52.03",
+      "lng": "6.19"
+    },
+    {
+      "name": "Hook of Holland",
+      "t": false,
+      "ckey": "hook_of_holland_nl",
+      "lat": "51.98154741425932",
+      "lng": "4.117813048234437"
+    },
+    {
+      "name": "Ijmuiden",
+      "t": null,
+      "ckey": "ijmuiden_nl",
+      "lat": "52.46122818457473",
+      "lng": "4.611298484636089"
+    },
+    {
+      "name": "Middelburg",
+      "t": null,
+      "ckey": "middelburg_nl",
+      "lat": "51.49999858720591",
+      "lng": "3.6166667009049687"
+    },
+    {
+      "name": "Moerdijk",
+      "t": false,
+      "ckey": "moerdijk_nl",
+      "lat": "51.68891137436471",
+      "lng": "4.5826723080509195"
+    },
+    {
+      "name": "MOERDIJK",
+      "t": true,
+      "ckey": "moerdijk_nl",
+      "lat": "51.6865",
+      "lng": "4.592"
+    },
+    {
+      "name": "Nijmegen",
+      "t": null,
+      "ckey": "nijmegen_nl",
+      "lat": "51.8333333333",
+      "lng": "5.86666666667"
+    },
+    {
+      "name": "Rotterdam",
+      "t": true,
+      "ckey": "rotterdam_nl",
+      "lat": "51.9043833521111",
+      "lng": "4.442446816843265"
+    },
+    {
+      "name": "Rozenburg",
+      "t": null,
+      "ckey": "rozenburg_nl",
+      "lat": "52.17",
+      "lng": "4.44"
+    },
+    {
+      "name": "Scheveningen",
+      "t": true,
+      "ckey": "scheveningen_nl",
+      "lat": "52.10506114011524",
+      "lng": "4.273533250461088"
+    },
+    {
+      "name": "SCHEVENINGEN",
+      "t": false,
+      "ckey": "scheveningen_nl",
+      "lat": "52.102",
+      "lng": "4.258"
+    },
+    {
+      "name": "Schiedam",
+      "t": null,
+      "ckey": "schiedam_nl",
+      "lat": "51.9038130313154",
+      "lng": "4.406367196326319"
+    },
+    {
+      "name": "Sluiskil",
+      "t": null,
+      "ckey": "sluiskil_nl",
+      "lat": "51.17",
+      "lng": "3.5"
+    },
+    { "name": "Son", "t": null, "ckey": "son_nl", "lat": "51.3", "lng": "5.3" },
+    {
+      "name": "Texel",
+      "t": null,
+      "ckey": "texel_nl",
+      "lat": "53.15699223456725",
+      "lng": "4.8333334204012175"
+    },
+    {
+      "name": "Vlaardingen",
+      "t": null,
+      "ckey": "vlaardingen_nl",
+      "lat": "51.9",
+      "lng": "4.31666666667"
+    },
+    {
+      "name": "Vlissingen",
+      "t": true,
+      "ckey": "vlissingen_nl",
+      "lat": "51.442129809463",
+      "lng": "3.5733033239684"
+    },
+    {
+      "name": "Vlissingen",
+      "t": false,
+      "ckey": "vlissingen_nl",
+      "lat": "51.46079",
+      "lng": "3.687185"
+    },
+    {
+      "name": "Willemstad",
+      "t": true,
+      "ckey": "willemstad_nl",
+      "lat": "51.69309",
+      "lng": "4.438286"
+    },
+    {
+      "name": "Zaanstad",
+      "t": null,
+      "ckey": "zaanstad_nl",
+      "lat": "52.42579657825529",
+      "lng": "4.80362038996437"
+    },
+    {
+      "name": "Zierikzee",
+      "t": null,
+      "ckey": "zierikzee_nl",
+      "lat": "51.63503825728623",
+      "lng": "3.898439324924675"
+    },
+    {
+      "name": "Zwolle",
+      "t": null,
+      "ckey": "zwolle_nl",
+      "lat": "52.5166666667",
+      "lng": "6.11666666667"
+    }
+  ],
+  "ccountries": [
+    { "name": "Belgium", "code": "BE", "link": "/maritime/belgium" },
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" }
+  ]
+}

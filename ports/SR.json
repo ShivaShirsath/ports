@@ -1,0 +1,50 @@
+{
+  "title": "Suriname",
+  "ckey": "suriname",
+  "cports": [
+    {
+      "name": "Moengo",
+      "t": null,
+      "ckey": "moengo_sr",
+      "lat": "5.581665167567094",
+      "lng": "-54.04587646824729"
+    },
+    {
+      "name": "Nieuw Nickerie",
+      "t": null,
+      "ckey": "nieuw_nickerie_sr",
+      "lat": "5.95",
+      "lng": "-56.9833333333"
+    },
+    {
+      "name": "Paramaribo",
+      "t": true,
+      "ckey": "paramaribo_sr",
+      "lat": "5.880577724422123",
+      "lng": "-55.21459355222276"
+    },
+    {
+      "name": "Paranam",
+      "t": true,
+      "ckey": "paranam_sr",
+      "lat": "5.698929270332457",
+      "lng": "-55.10255795926704"
+    },
+    {
+      "name": "Wageningen",
+      "t": null,
+      "ckey": "wageningen_sr",
+      "lat": "5.95519028402852",
+      "lng": "-56.66960143035389"
+    }
+  ],
+  "ccountries": [
+    { "name": "Brazil", "code": "BR", "link": "/maritime/brazil" },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "link": "/maritime/french_guiana"
+    },
+    { "name": "Guyana", "code": "GY", "link": "/maritime/guyana" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Zambia",
+  "ckey": "zambia",
+  "cports": [
+    {
+      "name": "Lusaka",
+      "t": true,
+      "ckey": "lusaka_zm",
+      "lat": "-15.42655",
+      "lng": "28.300588"
+    }
+  ],
+  "ccountries": [
+    { "name": "Angola", "code": "AO", "link": "/maritime/angola" },
+    {
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "link": "/maritime/democratic_republic_of_the_congo"
+    },
+    { "name": "Malawi", "code": "MW", "link": "/maritime/malawi" },
+    { "name": "Mozambique", "code": "MZ", "link": "/maritime/mozambique" },
+    { "name": "Namibia", "code": "NA", "link": "/maritime/namibia" },
+    { "name": "Tanzania", "code": "TZ", "link": "/maritime/tanzania" },
+    { "name": "Zimbabwe", "code": "ZW", "link": "/maritime/zimbabwe" }
+  ]
+}

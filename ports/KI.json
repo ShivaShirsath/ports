@@ -1,0 +1,42 @@
+{
+  "title": "Kiribati",
+  "ckey": "kiribati",
+  "cports": [
+    {
+      "name": "Banaba",
+      "t": null,
+      "ckey": "banaba_ki",
+      "lat": "-0.85",
+      "lng": "169.566666667"
+    },
+    {
+      "name": "Betio",
+      "t": null,
+      "ckey": "betio_ki",
+      "lat": "1.41666666667",
+      "lng": "172.9"
+    },
+    {
+      "name": "English Harbour",
+      "t": null,
+      "ckey": "english_harbour_ki",
+      "lat": "3.85",
+      "lng": "-159.366666667"
+    },
+    {
+      "name": "Tarawa Island",
+      "t": true,
+      "ckey": "tarawa_island_ki",
+      "lat": "1.4063996119646",
+      "lng": "172.847900390625"
+    },
+    {
+      "name": "Teraina Harbour",
+      "t": null,
+      "ckey": "teraina_harbour_ki",
+      "lat": "3.85",
+      "lng": "-159.366666667"
+    }
+  ],
+  "ccountries": []
+}

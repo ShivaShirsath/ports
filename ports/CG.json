@@ -1,0 +1,44 @@
+{
+  "title": "Republic of the Congo",
+  "ckey": "republic_of_the_congo",
+  "cports": [
+    {
+      "name": "Djeno",
+      "t": null,
+      "ckey": "djeno_cg",
+      "lat": "-4.891790448186418",
+      "lng": "11.913920313594398"
+    },
+    {
+      "name": "N'Kossa Terminal",
+      "t": null,
+      "ckey": "nkossa_terminal_cg",
+      "lat": "-5.26666666667",
+      "lng": "11.5666666667"
+    },
+    {
+      "name": "Pointe Noire",
+      "t": true,
+      "ckey": "pointe_noire_cg",
+      "lat": "-4.701217925059307",
+      "lng": "11.81941354736987"
+    },
+    {
+      "name": "Yombo",
+      "t": null,
+      "ckey": "yombo_cg",
+      "lat": "-4.121569225391121",
+      "lng": "11.374658095601674"
+    }
+  ],
+  "ccountries": [
+    { "name": "Angola", "code": "AO", "link": "/maritime/angola" },
+    { "name": "Cameroon", "code": "CM", "link": "/maritime/cameroon" },
+    {
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "link": "/maritime/democratic_republic_of_the_congo"
+    },
+    { "name": "Gabon", "code": "GA", "link": "/maritime/gabon" }
+  ]
+}

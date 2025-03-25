@@ -1,0 +1,21 @@
+{
+  "title": "Saint Pierre and Miquelon",
+  "ckey": "saint_pierre_and_miquelon",
+  "cports": [
+    {
+      "name": "Miquelon",
+      "t": null,
+      "ckey": "miquelon_pm",
+      "lat": "46.9333333333",
+      "lng": "-56.3333333333"
+    },
+    {
+      "name": "St. Pierre",
+      "t": null,
+      "ckey": "st_pierre_pm",
+      "lat": "46.8166666667",
+      "lng": "-56.1666666667"
+    }
+  ],
+  "ccountries": []
+}

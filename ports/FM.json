@@ -1,0 +1,28 @@
+{
+  "title": "Micronesia",
+  "ckey": "micronesia",
+  "cports": [
+    {
+      "name": "Chuuk",
+      "t": true,
+      "ckey": "chuuk_fm",
+      "lat": "7.4459896794714",
+      "lng": "151.83959296815"
+    },
+    {
+      "name": "Pohnpei",
+      "t": true,
+      "ckey": "pohnpei_fm",
+      "lat": "6.9796599317638",
+      "lng": "158.20127909958"
+    },
+    {
+      "name": "Yap",
+      "t": true,
+      "ckey": "yap_fm",
+      "lat": "9.5156056393527",
+      "lng": "138.12466981676"
+    }
+  ],
+  "ccountries": []
+}

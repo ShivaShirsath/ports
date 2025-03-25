@@ -1,0 +1,33 @@
+{
+  "title": "Switzerland",
+  "ckey": "switzerland",
+  "cports": [
+    {
+      "name": "BASEL",
+      "t": true,
+      "ckey": "basel_ch",
+      "lat": "47.56791",
+      "lng": "7.607204"
+    },
+    {
+      "name": "Muttenz",
+      "t": true,
+      "ckey": "muttenz_ch",
+      "lat": "47.52271",
+      "lng": "7.64511"
+    },
+    {
+      "name": "Zurich",
+      "t": true,
+      "ckey": "zurich_ch",
+      "lat": "47.3744",
+      "lng": "8.5411"
+    }
+  ],
+  "ccountries": [
+    { "name": "Austria", "code": "AT", "link": "/maritime/austria" },
+    { "name": "France", "code": "FR", "link": "/maritime/france" },
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" },
+    { "name": "Italy", "code": "IT", "link": "/maritime/italy" }
+  ]
+}

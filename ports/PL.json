@@ -1,0 +1,110 @@
+{
+  "title": "Poland",
+  "ckey": "poland",
+  "cports": [
+    {
+      "name": "Darlowo",
+      "t": null,
+      "ckey": "darlowo_pl",
+      "lat": "54.45329725223855",
+      "lng": "16.402246791753107"
+    },
+    {
+      "name": "Elblag",
+      "t": null,
+      "ckey": "elblag_pl",
+      "lat": "54.348952452288266",
+      "lng": "19.194487888609558"
+    },
+    {
+      "name": "Gdansk",
+      "t": true,
+      "ckey": "gdansk_pl",
+      "lat": "54.399195323823",
+      "lng": "18.66754050169"
+    },
+    {
+      "name": "Gdynia",
+      "t": true,
+      "ckey": "gdynia_pl",
+      "lat": "54.5383365224998",
+      "lng": "18.546982540197764"
+    },
+    {
+      "name": "Hel",
+      "t": null,
+      "ckey": "hel_pl",
+      "lat": "54.36",
+      "lng": "18.48"
+    },
+    {
+      "name": "Kolobrzeg",
+      "t": null,
+      "ckey": "kolobrzeg_pl",
+      "lat": "54.1833333333",
+      "lng": "15.55"
+    },
+    {
+      "name": "Police",
+      "t": null,
+      "ckey": "police_pl",
+      "lat": "53.57421092492289",
+      "lng": "14.583833576189566"
+    },
+    {
+      "name": "Poznan",
+      "t": true,
+      "ckey": "poznan_pl",
+      "lat": "52.415822612379",
+      "lng": "16.89697265625"
+    },
+    {
+      "name": "Swinoujscie",
+      "t": false,
+      "ckey": "swinoujscie_pl",
+      "lat": "53.9142245719953",
+      "lng": "14.274845209648298"
+    },
+    {
+      "name": "Szczecin",
+      "t": false,
+      "ckey": "szczecin_pl",
+      "lat": "53.425118140625266",
+      "lng": "14.564780763499815"
+    },
+    {
+      "name": "Ustka",
+      "t": null,
+      "ckey": "ustka_pl",
+      "lat": "54.5833333333",
+      "lng": "16.8666666667"
+    },
+    {
+      "name": "Warszawa",
+      "t": true,
+      "ckey": "warszawa_pl",
+      "lat": "52.2513888889",
+      "lng": "21.0322222222"
+    },
+    {
+      "name": "Wladyslawowo",
+      "t": null,
+      "ckey": "wladyslawowo_pl",
+      "lat": "54.79604297497896",
+      "lng": "18.39744067096221"
+    }
+  ],
+  "ccountries": [
+    { "name": "Belarus", "code": "BY", "link": "/maritime/belarus" },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "link": "/maritime/czech_republic"
+    },
+    { "name": "Germany", "code": "DE", "link": "/maritime/germany" },
+    { "name": "Lithuania", "code": "LT", "link": "/maritime/lithuania" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Slovakia", "code": "SK", "link": "/maritime/slovakia" },
+    { "name": "Ukraine", "code": "UA", "link": "/maritime/ukraine" }
+  ]
+}

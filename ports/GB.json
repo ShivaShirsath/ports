@@ -1,0 +1,1703 @@
+{
+  "title": "United Kingdom",
+  "ckey": "united_kingdom",
+  "cports": [
+    {
+      "name": "Aberdeen",
+      "t": true,
+      "ckey": "aberdeen_gb",
+      "lat": "57.108905537390775",
+      "lng": "-2.066803076571399"
+    },
+    {
+      "name": "Aberdovey",
+      "t": null,
+      "ckey": "aberdovey_gb",
+      "lat": "52.55",
+      "lng": "-4.05"
+    },
+    {
+      "name": "Aboyne",
+      "t": null,
+      "ckey": "aboyne_gb",
+      "lat": "57.05",
+      "lng": "-2.5"
+    },
+    {
+      "name": "Alexandria",
+      "t": null,
+      "ckey": "alexandria_gb",
+      "lat": "55.59",
+      "lng": "-4.36"
+    },
+    {
+      "name": "Annalong",
+      "t": null,
+      "ckey": "annalong_gb",
+      "lat": "54.06",
+      "lng": "-5.54"
+    },
+    {
+      "name": "Annan",
+      "t": null,
+      "ckey": "annan_gb",
+      "lat": "54.59",
+      "lng": "-3.16"
+    },
+    {
+      "name": "Anstruther",
+      "t": null,
+      "ckey": "anstruther_gb",
+      "lat": "56.13",
+      "lng": "-2.42"
+    },
+    {
+      "name": "Appledore",
+      "t": null,
+      "ckey": "appledore_gb",
+      "lat": "51.03",
+      "lng": "-4.12"
+    },
+    {
+      "name": "Arbroath",
+      "t": null,
+      "ckey": "arbroath_gb",
+      "lat": "56.55378532769257",
+      "lng": "-2.5874532425192505"
+    },
+    {
+      "name": "Ardglass",
+      "t": null,
+      "ckey": "ardglass_gb",
+      "lat": "54.16",
+      "lng": "-5.37"
+    },
+    {
+      "name": "Ardrishaig",
+      "t": null,
+      "ckey": "ardrishaig_gb",
+      "lat": "56.00921434516746",
+      "lng": "-5.416853983555155"
+    },
+    {
+      "name": "Avonmouth",
+      "t": null,
+      "ckey": "avonmouth_gb",
+      "lat": "51.5",
+      "lng": "-2.71666666667"
+    },
+    {
+      "name": "Ayr",
+      "t": null,
+      "ckey": "ayr_gb",
+      "lat": "55.465886457071285",
+      "lng": "-4.634207365999135"
+    },
+    {
+      "name": "Banff",
+      "t": null,
+      "ckey": "banff_gb",
+      "lat": "57.6666666667",
+      "lng": "-2.51666666667"
+    },
+    {
+      "name": "Barmouth",
+      "t": null,
+      "ckey": "barmouth_gb",
+      "lat": "52.7166666667",
+      "lng": "-4.05"
+    },
+    {
+      "name": "Barnes",
+      "t": null,
+      "ckey": "barnes_gb",
+      "lat": "51.27",
+      "lng": "-1.14"
+    },
+    {
+      "name": "Bathgate",
+      "t": null,
+      "ckey": "bathgate_gb",
+      "lat": "55.54",
+      "lng": "-3.38"
+    },
+    {
+      "name": "Bedlington",
+      "t": null,
+      "ckey": "bedlington_gb",
+      "lat": "55.07",
+      "lng": "-1.35"
+    },
+    {
+      "name": "Berwick-upon-Tweed",
+      "t": null,
+      "ckey": "berwick_upon_tweed_gb",
+      "lat": "55.7666666667",
+      "lng": "-2"
+    },
+    {
+      "name": "Bideford",
+      "t": null,
+      "ckey": "bideford_gb",
+      "lat": "51.001944608023166",
+      "lng": "-4.19854076158211"
+    },
+    {
+      "name": "Bird Port",
+      "t": null,
+      "ckey": "bird_port_gb",
+      "lat": "51.56570500702143",
+      "lng": "-2.979026280088789"
+    },
+    {
+      "name": "Birmingham",
+      "t": null,
+      "ckey": "birmingham_gb",
+      "lat": "52.28",
+      "lng": "-1.55"
+    },
+    {
+      "name": "Birtley",
+      "t": null,
+      "ckey": "birtley_gb",
+      "lat": "52.18",
+      "lng": "-2.55"
+    },
+    {
+      "name": "Blyth",
+      "t": false,
+      "ckey": "blyth_gb",
+      "lat": "55.11606465835074",
+      "lng": "-1.4941405932070781"
+    },
+    {
+      "name": "Bolton",
+      "t": null,
+      "ckey": "bolton_gb",
+      "lat": "53.35",
+      "lng": "-2.26"
+    },
+    {
+      "name": "Boston",
+      "t": null,
+      "ckey": "boston_gb",
+      "lat": "52.9666666667",
+      "lng": "-0.0166666666667"
+    },
+    {
+      "name": "Braefoot Bay",
+      "t": null,
+      "ckey": "braefoot_bay_gb",
+      "lat": "56.04560900815987",
+      "lng": "-3.308239690536111"
+    },
+    {
+      "name": "Brandon",
+      "t": null,
+      "ckey": "brandon_gb",
+      "lat": "54.45",
+      "lng": "-1.37"
+    },
+    {
+      "name": "Bridgwater",
+      "t": null,
+      "ckey": "bridgwater_gb",
+      "lat": "51.1666666667",
+      "lng": "-3"
+    },
+    {
+      "name": "Bridlington",
+      "t": null,
+      "ckey": "bridlington_gb",
+      "lat": "54.073111847562714",
+      "lng": "-0.19706624543922105"
+    },
+    {
+      "name": "Brierley Hill",
+      "t": null,
+      "ckey": "brierley_hill_gb",
+      "lat": "52.29",
+      "lng": "-2.07"
+    },
+    {
+      "name": "Brightlingsea",
+      "t": null,
+      "ckey": "brightlingsea_gb",
+      "lat": "51.806315496008054",
+      "lng": "1.016510480468258"
+    },
+    {
+      "name": "Bristol",
+      "t": true,
+      "ckey": "bristol_gb",
+      "lat": "51.45427730090184",
+      "lng": "-2.589559715547965"
+    },
+    {
+      "name": "Bryn",
+      "t": null,
+      "ckey": "bryn_gb",
+      "lat": "51.36",
+      "lng": "-3.42"
+    },
+    {
+      "name": "Buckie",
+      "t": null,
+      "ckey": "buckie_gb",
+      "lat": "57.6833333333",
+      "lng": "-2.95"
+    },
+    {
+      "name": "Bude",
+      "t": null,
+      "ckey": "bude_gb",
+      "lat": "50.8333333333",
+      "lng": "-4.55"
+    },
+    {
+      "name": "Burghead",
+      "t": null,
+      "ckey": "burghead_gb",
+      "lat": "57.7",
+      "lng": "-3.48333333333"
+    },
+    {
+      "name": "Burntisland",
+      "t": null,
+      "ckey": "burntisland_gb",
+      "lat": "56.05996948088982",
+      "lng": "-3.2360798091719842"
+    },
+    {
+      "name": "Caernarfon",
+      "t": null,
+      "ckey": "caernarfon_gb",
+      "lat": "53.15",
+      "lng": "-4.26666666667"
+    },
+    {
+      "name": "Caerphilly",
+      "t": null,
+      "ckey": "caerphilly_gb",
+      "lat": "51.35",
+      "lng": "-3.13"
+    },
+    {
+      "name": "Cairnryan",
+      "t": null,
+      "ckey": "cairnryan_gb",
+      "lat": "54.96982006293701",
+      "lng": "-5.011173617141778"
+    },
+    {
+      "name": "Caledonian Canal",
+      "t": null,
+      "ckey": "caledonian_canal_gb",
+      "lat": "57.1666666667",
+      "lng": "-4.66666666667"
+    },
+    {
+      "name": "Cambus",
+      "t": null,
+      "ckey": "cambus_gb",
+      "lat": "56.07",
+      "lng": "-3.5"
+    },
+    {
+      "name": "Cardiff",
+      "t": null,
+      "ckey": "cardiff_gb",
+      "lat": "51.479217736656146",
+      "lng": "-3.184734075529825"
+    },
+    {
+      "name": "Carnlough",
+      "t": null,
+      "ckey": "carnlough_gb",
+      "lat": "54.99409114015265",
+      "lng": "-5.990387102595242"
+    },
+    {
+      "name": "Castle Bay",
+      "t": null,
+      "ckey": "castle_bay_gb",
+      "lat": "56.95",
+      "lng": "-7.5"
+    },
+    {
+      "name": "Charleston",
+      "t": false,
+      "ckey": "charleston_gb",
+      "lat": "50.3333333333",
+      "lng": "-4.75"
+    },
+    {
+      "name": "Charlestown",
+      "t": false,
+      "ckey": "charlestown_gb",
+      "lat": "50.3333333333",
+      "lng": "-4.75"
+    },
+    {
+      "name": "Coatbridge",
+      "t": null,
+      "ckey": "coatbridge_gb",
+      "lat": "55.52",
+      "lng": "-4.02"
+    },
+    {
+      "name": "Colchester",
+      "t": null,
+      "ckey": "colchester_gb",
+      "lat": "51.895975389242814",
+      "lng": "0.8924039688975695"
+    },
+    {
+      "name": "Coleraine",
+      "t": null,
+      "ckey": "coleraine_gb",
+      "lat": "55.1666666667",
+      "lng": "-6.76666666667"
+    },
+    {
+      "name": "Conwy",
+      "t": null,
+      "ckey": "conwy_gb",
+      "lat": "53.2833333333",
+      "lng": "-3.83333333333"
+    },
+    {
+      "name": "Corpach",
+      "t": null,
+      "ckey": "corpach_gb",
+      "lat": "56.8166666667",
+      "lng": "-5.11666666667"
+    },
+    {
+      "name": "Coventry",
+      "t": null,
+      "ckey": "coventry_gb",
+      "lat": "52.25",
+      "lng": "-1.33"
+    },
+    {
+      "name": "Cowes",
+      "t": null,
+      "ckey": "cowes_gb",
+      "lat": "50.75",
+      "lng": "-1.3"
+    },
+    {
+      "name": "Creeksea",
+      "t": null,
+      "ckey": "creeksea_gb",
+      "lat": "51.6166666667",
+      "lng": "0.8"
+    },
+    {
+      "name": "Crinan Canal",
+      "t": null,
+      "ckey": "crinan_canal_gb",
+      "lat": "56.08031661442729",
+      "lng": "-5.533988739613112"
+    },
+    {
+      "name": "Croydon",
+      "t": null,
+      "ckey": "croydon_gb",
+      "lat": "51.23",
+      "lng": "-0.06"
+    },
+    {
+      "name": "Dagenham",
+      "t": null,
+      "ckey": "dagenham_gb",
+      "lat": "51.45",
+      "lng": "-0.366666666667"
+    },
+    {
+      "name": "Dartford",
+      "t": false,
+      "ckey": "dartford_gb",
+      "lat": "51.45",
+      "lng": "0.266666666667"
+    },
+    {
+      "name": "Devonport",
+      "t": null,
+      "ckey": "devonport_gb",
+      "lat": "50.22",
+      "lng": "-4.11"
+    },
+    {
+      "name": "Dewsbury",
+      "t": null,
+      "ckey": "dewsbury_gb",
+      "lat": "53.42",
+      "lng": "-1.37"
+    },
+    {
+      "name": "Dingle",
+      "t": null,
+      "ckey": "dingle_gb",
+      "lat": "53.3666666667",
+      "lng": "-2.46666666667"
+    },
+    {
+      "name": "Dover Strait",
+      "t": null,
+      "ckey": "dover_strait_gb",
+      "lat": "51.1333333333",
+      "lng": "1.33333333333"
+    },
+    {
+      "name": "Dumbarton",
+      "t": null,
+      "ckey": "dumbarton_gb",
+      "lat": "55.57",
+      "lng": "-4.34"
+    },
+    {
+      "name": "Dunbar",
+      "t": null,
+      "ckey": "dunbar_gb",
+      "lat": "56",
+      "lng": "-2.31"
+    },
+    {
+      "name": "Dundee",
+      "t": null,
+      "ckey": "dundee_gb",
+      "lat": "56.462872094745116",
+      "lng": "-2.949999897106939"
+    },
+    {
+      "name": "Dunoon",
+      "t": null,
+      "ckey": "dunoon_gb",
+      "lat": "55.95256134109678",
+      "lng": "-4.926966349298807"
+    },
+    {
+      "name": "Exeter",
+      "t": null,
+      "ckey": "exeter_gb",
+      "lat": "50.42",
+      "lng": "-3.32"
+    },
+    {
+      "name": "Exmouth",
+      "t": null,
+      "ckey": "exmouth_gb",
+      "lat": "50.35",
+      "lng": "-3.24"
+    },
+    {
+      "name": "Falmouth",
+      "t": false,
+      "ckey": "falmouth_gb",
+      "lat": "50.150438584576015",
+      "lng": "-5.055680410434051"
+    },
+    {
+      "name": "Fawley",
+      "t": null,
+      "ckey": "fawley_gb",
+      "lat": "50.837859558497364",
+      "lng": "-1.355493195862814"
+    },
+    {
+      "name": "Felixstowe",
+      "t": true,
+      "ckey": "felixstowe_gb",
+      "lat": "51.95792520501483",
+      "lng": "1.3444518749043712"
+    },
+    {
+      "name": "Fishguard",
+      "t": false,
+      "ckey": "fishguard_gb",
+      "lat": "52.00033043447685",
+      "lng": "-4.965820307279247"
+    },
+    {
+      "name": "Fleetwood",
+      "t": false,
+      "ckey": "fleetwood_gb",
+      "lat": "53.8888946826222",
+      "lng": "-3.00201416015629"
+    },
+    {
+      "name": "Folkestone",
+      "t": null,
+      "ckey": "folkestone_gb",
+      "lat": "51.0833333333",
+      "lng": "1.16666666667"
+    },
+    {
+      "name": "Forth Ports",
+      "t": null,
+      "ckey": "forth_ports_gb",
+      "lat": "56.08065129369662",
+      "lng": "-3.1621092873475694"
+    },
+    {
+      "name": "Fosdyke",
+      "t": null,
+      "ckey": "fosdyke_gb",
+      "lat": "52.8666666667",
+      "lng": "-0.0333333333333"
+    },
+    {
+      "name": "Fraserburgh",
+      "t": null,
+      "ckey": "fraserburgh_gb",
+      "lat": "57.6833333333",
+      "lng": "-2"
+    },
+    {
+      "name": "Garieston",
+      "t": null,
+      "ckey": "garieston_gb",
+      "lat": "54.805540353019865",
+      "lng": "-4.348813887945676"
+    },
+    {
+      "name": "Garlieston",
+      "t": null,
+      "ckey": "garlieston_gb",
+      "lat": "54.47",
+      "lng": "-4.22"
+    },
+    {
+      "name": "Girvan",
+      "t": null,
+      "ckey": "girvan_gb",
+      "lat": "55.245302082731136",
+      "lng": "-4.850187339065047"
+    },
+    {
+      "name": "Glasgow Apt",
+      "t": true,
+      "ckey": "glasgow_apt_gb",
+      "lat": "55.856262503989",
+      "lng": "-4.2589187800714"
+    },
+    {
+      "name": "Glensanda",
+      "t": null,
+      "ckey": "glensanda_gb",
+      "lat": "56.5666666667",
+      "lng": "-5.53333333333"
+    },
+    {
+      "name": "Goole",
+      "t": false,
+      "ckey": "goole_gb",
+      "lat": "53.69806274514273",
+      "lng": "-0.8675766047905434"
+    },
+    {
+      "name": "Gourock",
+      "t": null,
+      "ckey": "gourock_gb",
+      "lat": "56.1166666667",
+      "lng": "-4.83333333333"
+    },
+    {
+      "name": "Grangemouth",
+      "t": true,
+      "ckey": "grangemouth_gb",
+      "lat": "56.01384862851931",
+      "lng": "-3.6735536389547123"
+    },
+    {
+      "name": "Greenock",
+      "t": true,
+      "ckey": "greenock_gb",
+      "lat": "55.95615060550563",
+      "lng": "-4.777652864513628"
+    },
+    {
+      "name": "Grimsby",
+      "t": null,
+      "ckey": "grimsby_gb",
+      "lat": "53.5833333333",
+      "lng": "-0.0666666666667"
+    },
+    {
+      "name": "Halifax",
+      "t": null,
+      "ckey": "halifax_gb",
+      "lat": "53.43",
+      "lng": "-1.51"
+    },
+    {
+      "name": "Hampton",
+      "t": false,
+      "ckey": "hampton_gb",
+      "lat": "51.505070002664645",
+      "lng": "-0.061107327946150446"
+    },
+    {
+      "name": "Harwich",
+      "t": false,
+      "ckey": "harwich_gb",
+      "lat": "51.9333333",
+      "lng": "1.23333333"
+    },
+    {
+      "name": "Holyhead",
+      "t": false,
+      "ckey": "holyhead_gb",
+      "lat": "53.2714574149121",
+      "lng": "-4.61700439453127"
+    },
+    {
+      "name": "Hound Point",
+      "t": null,
+      "ckey": "hound_point_gb",
+      "lat": "56",
+      "lng": "-3.35"
+    },
+    {
+      "name": "Howdendyke",
+      "t": null,
+      "ckey": "howdendyke_gb",
+      "lat": "53.72644559623872",
+      "lng": "-0.8814295624486516"
+    },
+    {
+      "name": "Hull",
+      "t": true,
+      "ckey": "hull_gb",
+      "lat": "53.707478160913595",
+      "lng": "-0.3405761771835788"
+    },
+    {
+      "name": "Hunterston",
+      "t": null,
+      "ckey": "hunterston_gb",
+      "lat": "55.75270659088763",
+      "lng": "-4.854494200223563"
+    },
+    {
+      "name": "Hyde",
+      "t": null,
+      "ckey": "hyde_gb",
+      "lat": "53.27",
+      "lng": "-2.05"
+    },
+    {
+      "name": "Ilford",
+      "t": null,
+      "ckey": "ilford_gb",
+      "lat": "51.33",
+      "lng": "0.3"
+    },
+    {
+      "name": "Immingham",
+      "t": true,
+      "ckey": "immingham_gb",
+      "lat": "53.62241498499026",
+      "lng": "-0.1737213125265654"
+    },
+    {
+      "name": "Inverness",
+      "t": null,
+      "ckey": "inverness_gb",
+      "lat": "57.49514590476583",
+      "lng": "-4.226466843777353"
+    },
+    {
+      "name": "Ipswich",
+      "t": false,
+      "ckey": "ipswich_gb",
+      "lat": "52.0333333333",
+      "lng": "1.15"
+    },
+    {
+      "name": "Irvine",
+      "t": null,
+      "ckey": "irvine_gb",
+      "lat": "55.599611315736375",
+      "lng": "-4.685393230526034"
+    },
+    {
+      "name": "Isle Of Grain",
+      "t": false,
+      "ckey": "isle_of_grain_gb",
+      "lat": "51.442034186814595",
+      "lng": "0.7211494618990762"
+    },
+    {
+      "name": "Isle of Whithorn",
+      "t": null,
+      "ckey": "isle_of_whithorn_gb",
+      "lat": "54.71904283737082",
+      "lng": "-4.370786606505607"
+    },
+    {
+      "name": "Kilkeel",
+      "t": null,
+      "ckey": "kilkeel_gb",
+      "lat": "53.101152023007806",
+      "lng": "-6.041011610949729"
+    },
+    {
+      "name": "Kilroot",
+      "t": null,
+      "ckey": "kilroot_gb",
+      "lat": "54.72241695082081",
+      "lng": "-5.760471409188388"
+    },
+    {
+      "name": "Kirkcudbright",
+      "t": null,
+      "ckey": "kirkcudbright_gb",
+      "lat": "54.82220942968928",
+      "lng": "-4.044565245801574"
+    },
+    {
+      "name": "Kirkwall",
+      "t": null,
+      "ckey": "kirkwall_gb",
+      "lat": "58.9833333333",
+      "lng": "-2.96666666667"
+    },
+    {
+      "name": "Knowsley",
+      "t": null,
+      "ckey": "knowsley_gb",
+      "lat": "53.27",
+      "lng": "-2.51"
+    },
+    {
+      "name": "Kyle of Lochalsh",
+      "t": null,
+      "ckey": "kyle_of_lochalsh_gb",
+      "lat": "57.2666666667",
+      "lng": "-5.71666666667"
+    },
+    {
+      "name": "Lancaster",
+      "t": null,
+      "ckey": "lancaster_gb",
+      "lat": "54.05312329895668",
+      "lng": "-2.804962751072422"
+    },
+    {
+      "name": "Largs",
+      "t": null,
+      "ckey": "largs_gb",
+      "lat": "55.8",
+      "lng": "-4.86666666667"
+    },
+    {
+      "name": "Larne",
+      "t": false,
+      "ckey": "larne_gb",
+      "lat": "54.85",
+      "lng": "-5.7833333"
+    },
+    {
+      "name": "Leith",
+      "t": null,
+      "ckey": "leith_gb",
+      "lat": "55.9833333333",
+      "lng": "-3.16666666667"
+    },
+    {
+      "name": "Lerwick",
+      "t": null,
+      "ckey": "lerwick_gb",
+      "lat": "60.125192768968",
+      "lng": "-1.1769104003906"
+    },
+    {
+      "name": "Linton",
+      "t": null,
+      "ckey": "linton_gb",
+      "lat": "52.06",
+      "lng": "0.16"
+    },
+    {
+      "name": "Littlehampton",
+      "t": null,
+      "ckey": "littlehampton_gb",
+      "lat": "50.80781014124389",
+      "lng": "-0.5333333469888887"
+    },
+    {
+      "name": "Liverpool",
+      "t": true,
+      "ckey": "liverpool_gb",
+      "lat": "53.40996878104618",
+      "lng": "-2.992401071144143"
+    },
+    {
+      "name": "Llanarmon",
+      "t": null,
+      "ckey": "llanarmon_gb",
+      "lat": "52.55",
+      "lng": "-4.21"
+    },
+    {
+      "name": "Llanddulas",
+      "t": null,
+      "ckey": "llanddulas_gb",
+      "lat": "53.29096981023163",
+      "lng": "-3.659613222858716"
+    },
+    {
+      "name": "Lochaline",
+      "t": null,
+      "ckey": "lochaline_gb",
+      "lat": "56.5333333333",
+      "lng": "-5.76666666667"
+    },
+    {
+      "name": "Lochboisdale",
+      "t": null,
+      "ckey": "lochboisdale_gb",
+      "lat": "57.15",
+      "lng": "-7.3"
+    },
+    {
+      "name": "Loch Gairloch",
+      "t": null,
+      "ckey": "loch_gairloch_gb",
+      "lat": "57.732064676506056",
+      "lng": "-5.739700377035556"
+    },
+    {
+      "name": "Lochmaddy",
+      "t": null,
+      "ckey": "lochmaddy_gb",
+      "lat": "57.6",
+      "lng": "-7.16666666667"
+    },
+    {
+      "name": "London",
+      "t": true,
+      "ckey": "london_gb",
+      "lat": "51.507586927373794",
+      "lng": "-0.12226944414800645"
+    },
+    {
+      "name": "Londonderry",
+      "t": null,
+      "ckey": "londonderry_gb",
+      "lat": "55.03196453910037",
+      "lng": "-7.263795191734548"
+    },
+    {
+      "name": "London Gateway",
+      "t": true,
+      "ckey": "london_gateway_gb",
+      "lat": "51.512941264199",
+      "lng": "0.48163896819094"
+    },
+    {
+      "name": "Looe",
+      "t": null,
+      "ckey": "looe_gb",
+      "lat": "50.21",
+      "lng": "-4.27"
+    },
+    {
+      "name": "Lossiemouth",
+      "t": null,
+      "ckey": "lossiemouth_gb",
+      "lat": "57.7166666667",
+      "lng": "-3.28333333333"
+    },
+    {
+      "name": "Lowestoft",
+      "t": null,
+      "ckey": "lowestoft_gb",
+      "lat": "52.48166069547682",
+      "lng": "1.7549626791648278"
+    },
+    {
+      "name": "Lybster",
+      "t": null,
+      "ckey": "lybster_gb",
+      "lat": "58.18",
+      "lng": "-3.17"
+    },
+    {
+      "name": "Lydney",
+      "t": null,
+      "ckey": "lydney_gb",
+      "lat": "51.43",
+      "lng": "-2.31"
+    },
+    {
+      "name": "Macduff",
+      "t": null,
+      "ckey": "macduff_gb",
+      "lat": "57.6666666667",
+      "lng": "-2.48333333333"
+    },
+    {
+      "name": "Machrihanish",
+      "t": null,
+      "ckey": "machrihanish_gb",
+      "lat": "55.26",
+      "lng": "-5.45"
+    },
+    {
+      "name": "Maldon",
+      "t": null,
+      "ckey": "maldon_gb",
+      "lat": "51.73418528327814",
+      "lng": "0.6784254547018829"
+    },
+    {
+      "name": "Mallaig",
+      "t": null,
+      "ckey": "mallaig_gb",
+      "lat": "57.04752945750904",
+      "lng": "-5.778214533104788"
+    },
+    {
+      "name": "Manchester",
+      "t": true,
+      "ckey": "manchester_gb",
+      "lat": "53.46862303054366",
+      "lng": "-2.2886710995886856"
+    },
+    {
+      "name": "Medway Ports",
+      "t": null,
+      "ckey": "medway_ports_gb",
+      "lat": "51.395892843876574",
+      "lng": "0.597143802340351"
+    },
+    {
+      "name": "Mevagissey",
+      "t": null,
+      "ckey": "mevagissey_gb",
+      "lat": "50.16",
+      "lng": "-4.47"
+    },
+    {
+      "name": "Middlesborough",
+      "t": null,
+      "ckey": "middlesborough_gb",
+      "lat": "54.584525676762006",
+      "lng": "-1.2336766652939308"
+    },
+    {
+      "name": "Minworth",
+      "t": null,
+      "ckey": "minworth_gb",
+      "lat": "52.32",
+      "lng": "-1.46"
+    },
+    {
+      "name": "Mistley",
+      "t": null,
+      "ckey": "mistley_gb",
+      "lat": "51.9333333333",
+      "lng": "1.15"
+    },
+    {
+      "name": "Montrose",
+      "t": null,
+      "ckey": "montrose_gb",
+      "lat": "56.712816037232564",
+      "lng": "-2.4495015639749758"
+    },
+    {
+      "name": "Moston",
+      "t": null,
+      "ckey": "moston_gb",
+      "lat": "53.31",
+      "lng": "-2.1"
+    },
+    {
+      "name": "Mostyn",
+      "t": null,
+      "ckey": "mostyn_gb",
+      "lat": "53.3166666667",
+      "lng": "-3.26666666667"
+    },
+    {
+      "name": "Nailsea",
+      "t": null,
+      "ckey": "nailsea_gb",
+      "lat": "51.26",
+      "lng": "-2.45"
+    },
+    {
+      "name": "Nairn",
+      "t": null,
+      "ckey": "nairn_gb",
+      "lat": "57.35",
+      "lng": "-3.53"
+    },
+    {
+      "name": "Neath Abbey",
+      "t": null,
+      "ckey": "neath_abbey_gb",
+      "lat": "51.64611682411999",
+      "lng": "-3.8388262876224495"
+    },
+    {
+      "name": "New Holland",
+      "t": null,
+      "ckey": "new_holland_gb",
+      "lat": "53.704066481423176",
+      "lng": "-0.36735332017480554"
+    },
+    {
+      "name": "Newlyn",
+      "t": null,
+      "ckey": "newlyn_gb",
+      "lat": "50.1",
+      "lng": "-5.55"
+    },
+    {
+      "name": "Norwich",
+      "t": null,
+      "ckey": "norwich_gb",
+      "lat": "52.6333333333",
+      "lng": "1.31666666667"
+    },
+    {
+      "name": "Padstow",
+      "t": null,
+      "ckey": "padstow_gb",
+      "lat": "50.560469982516",
+      "lng": "-4.9182271321581"
+    },
+    {
+      "name": "Par",
+      "t": null,
+      "ckey": "par_gb",
+      "lat": "50.35",
+      "lng": "-4.7"
+    },
+    {
+      "name": "Peebles",
+      "t": null,
+      "ckey": "peebles_gb",
+      "lat": "55.38",
+      "lng": "-3.11"
+    },
+    {
+      "name": "Pembroke",
+      "t": null,
+      "ckey": "pembroke_gb",
+      "lat": "51.6811837647236",
+      "lng": "-4.94796752929689"
+    },
+    {
+      "name": "Penryn",
+      "t": null,
+      "ckey": "penryn_gb",
+      "lat": "50.163147854894",
+      "lng": "-5.0584269205763"
+    },
+    {
+      "name": "Penzance",
+      "t": null,
+      "ckey": "penzance_gb",
+      "lat": "50.118207675303",
+      "lng": "-5.5357365926073"
+    },
+    {
+      "name": "Perth",
+      "t": null,
+      "ckey": "perth_gb",
+      "lat": "56.393405655791504",
+      "lng": "-3.425780202519449"
+    },
+    {
+      "name": "Peterhead",
+      "t": null,
+      "ckey": "peterhead_gb",
+      "lat": "57.51106707572112",
+      "lng": "-1.7742818692322089"
+    },
+    {
+      "name": "Plymouth",
+      "t": null,
+      "ckey": "plymouth_gb",
+      "lat": "50.36577054344442",
+      "lng": "-4.14184549571595"
+    },
+    {
+      "name": "Point Of Ayre",
+      "t": null,
+      "ckey": "point_of_ayre_gb",
+      "lat": "54.40387741849892",
+      "lng": "-4.374906491235595"
+    },
+    {
+      "name": "Pontefract",
+      "t": null,
+      "ckey": "pontefract_gb",
+      "lat": "53.41",
+      "lng": "-1.18"
+    },
+    {
+      "name": "Poole",
+      "t": null,
+      "ckey": "poole_gb",
+      "lat": "50.71449284855",
+      "lng": "-1.9833333333299"
+    },
+    {
+      "name": "Poplar",
+      "t": null,
+      "ckey": "poplar_gb",
+      "lat": "51.3",
+      "lng": "-0.1"
+    },
+    {
+      "name": "Port Askaig",
+      "t": null,
+      "ckey": "port_askaig_gb",
+      "lat": "55.834105370321254",
+      "lng": "-6.110986472109687"
+    },
+    {
+      "name": "Portavogie",
+      "t": null,
+      "ckey": "portavogie_gb",
+      "lat": "54.46207404532202",
+      "lng": "-5.438998310617983"
+    },
+    {
+      "name": "Portbury",
+      "t": false,
+      "ckey": "portbury_gb",
+      "lat": "51.47134594363771",
+      "lng": "-2.648734980413074"
+    },
+    {
+      "name": "Port Ellen",
+      "t": null,
+      "ckey": "port_ellen_gb",
+      "lat": "55.640701733783175",
+      "lng": "-6.207209750250003"
+    },
+    {
+      "name": "Porthmadog",
+      "t": null,
+      "ckey": "porthmadog_gb",
+      "lat": "52.9166666667",
+      "lng": "-4.13333333333"
+    },
+    {
+      "name": "Portishead",
+      "t": null,
+      "ckey": "portishead_gb",
+      "lat": "51.48674119002691",
+      "lng": "-2.7639414886909717"
+    },
+    {
+      "name": "Port Lamont",
+      "t": null,
+      "ckey": "port_lamont_gb",
+      "lat": "55.88140784541818",
+      "lng": "-5.041073624007155"
+    },
+    {
+      "name": "Portland",
+      "t": null,
+      "ckey": "portland_gb",
+      "lat": "50.562305821716954",
+      "lng": "-2.437453110279073"
+    },
+    {
+      "name": "Port Penrhyn",
+      "t": null,
+      "ckey": "port_penrhyn_gb",
+      "lat": "53.2333333333",
+      "lng": "-4.11666666667"
+    },
+    {
+      "name": "Port Sunlight",
+      "t": null,
+      "ckey": "port_sunlight_gb",
+      "lat": "53.35040953148367",
+      "lng": "-2.9737202903207467"
+    },
+    {
+      "name": "Port Sutton Bridge",
+      "t": null,
+      "ckey": "port_sutton_bridge_gb",
+      "lat": "52.77269164091648",
+      "lng": "0.19999999845072666"
+    },
+    {
+      "name": "Port Talbot",
+      "t": null,
+      "ckey": "port_talbot_gb",
+      "lat": "51.58525300842601",
+      "lng": "-3.811860273892416"
+    },
+    {
+      "name": "Port William",
+      "t": null,
+      "ckey": "port_william_gb",
+      "lat": "54.46",
+      "lng": "-4.35"
+    },
+    {
+      "name": "Preston",
+      "t": null,
+      "ckey": "preston_gb",
+      "lat": "53.757307726373",
+      "lng": "-2.7195383707716"
+    },
+    {
+      "name": "Pwllheli",
+      "t": null,
+      "ckey": "pwllheli_gb",
+      "lat": "52.53",
+      "lng": "-4.25"
+    },
+    {
+      "name": "Ramsgate",
+      "t": null,
+      "ckey": "ramsgate_gb",
+      "lat": "51.32743385782554",
+      "lng": "1.415722551015927"
+    },
+    {
+      "name": "Richborough",
+      "t": null,
+      "ckey": "richborough_gb",
+      "lat": "51.30000040302418",
+      "lng": "1.34948497727073"
+    },
+    {
+      "name": "Rotherham",
+      "t": null,
+      "ckey": "rotherham_gb",
+      "lat": "53.26",
+      "lng": "-1.21"
+    },
+    {
+      "name": "Rothes",
+      "t": null,
+      "ckey": "rothes_gb",
+      "lat": "57.31",
+      "lng": "-3.13"
+    },
+    {
+      "name": "Royston",
+      "t": null,
+      "ckey": "royston_gb",
+      "lat": "53.36",
+      "lng": "-1.27"
+    },
+    {
+      "name": "Runcorn",
+      "t": null,
+      "ckey": "runcorn_gb",
+      "lat": "53.34344273853026",
+      "lng": "-2.731959981676033"
+    },
+    {
+      "name": "Rye",
+      "t": null,
+      "ckey": "rye_gb",
+      "lat": "50.93181905581464",
+      "lng": "0.7743914268095603"
+    },
+    {
+      "name": "Salt End",
+      "t": null,
+      "ckey": "salt_end_gb",
+      "lat": "53.44",
+      "lng": "-0.14"
+    },
+    {
+      "name": "Saundersfoot",
+      "t": null,
+      "ckey": "saundersfoot_gb",
+      "lat": "51.42",
+      "lng": "-4.43"
+    },
+    {
+      "name": "Scalloway",
+      "t": null,
+      "ckey": "scalloway_gb",
+      "lat": "60.136068723638",
+      "lng": "-1.2956929524706"
+    },
+    {
+      "name": "Scarborough",
+      "t": null,
+      "ckey": "scarborough_gb",
+      "lat": "54.284133957064846",
+      "lng": "-0.395692948979952"
+    },
+    {
+      "name": "Scrabster",
+      "t": null,
+      "ckey": "scrabster_gb",
+      "lat": "58.6166666667",
+      "lng": "-3.55"
+    },
+    {
+      "name": "Seaham",
+      "t": null,
+      "ckey": "seaham_gb",
+      "lat": "54.83452084566823",
+      "lng": "-1.3283396720957226"
+    },
+    {
+      "name": "Selby",
+      "t": null,
+      "ckey": "selby_gb",
+      "lat": "53.78323178899821",
+      "lng": "-1.0610017991131924"
+    },
+    {
+      "name": "Sheerness",
+      "t": false,
+      "ckey": "sheerness_gb",
+      "lat": "51.44120431883044",
+      "lng": "0.7637214440263839"
+    },
+    {
+      "name": "Sheffield",
+      "t": null,
+      "ckey": "sheffield_gb",
+      "lat": "53.38297",
+      "lng": "-1.4659"
+    },
+    {
+      "name": "Shoreham",
+      "t": null,
+      "ckey": "shoreham_gb",
+      "lat": "50.8333333333",
+      "lng": "-0.25"
+    },
+    {
+      "name": "Shotton",
+      "t": null,
+      "ckey": "shotton_gb",
+      "lat": "53.241932467085526",
+      "lng": "-3.104744449499336"
+    },
+    {
+      "name": "Silloth",
+      "t": null,
+      "ckey": "silloth_gb",
+      "lat": "54.86745601784603",
+      "lng": "-3.3931336058340804"
+    },
+    {
+      "name": "Southampton",
+      "t": true,
+      "ckey": "southampton_gb",
+      "lat": "50.893935411583165",
+      "lng": "-1.37528078749687"
+    },
+    {
+      "name": "South Shields",
+      "t": true,
+      "ckey": "south_shields_gb",
+      "lat": "55.00601665044349",
+      "lng": "-1.4302825933356902"
+    },
+    {
+      "name": "Stockton-on-Tees",
+      "t": null,
+      "ckey": "stockton_on_tees_gb",
+      "lat": "54.57",
+      "lng": "-1.32"
+    },
+    {
+      "name": "Stornoway",
+      "t": null,
+      "ckey": "stornoway_gb",
+      "lat": "58.2",
+      "lng": "-6.36666666667"
+    },
+    {
+      "name": "Strangford",
+      "t": null,
+      "ckey": "strangford_gb",
+      "lat": "54.365266359120845",
+      "lng": "-5.578066511648143"
+    },
+    {
+      "name": "Stranraer",
+      "t": false,
+      "ckey": "stranraer_gb",
+      "lat": "54.90582460550858",
+      "lng": "-5.028991873139049"
+    },
+    {
+      "name": "Stretford",
+      "t": null,
+      "ckey": "stretford_gb",
+      "lat": "53.27",
+      "lng": "-2.19"
+    },
+    {
+      "name": "Stromness",
+      "t": null,
+      "ckey": "stromness_gb",
+      "lat": "58.9042002296447",
+      "lng": "-3.30139160156255"
+    },
+    {
+      "name": "Sunderland",
+      "t": null,
+      "ckey": "sunderland_gb",
+      "lat": "54.91074575680557",
+      "lng": "-1.3568664907728099"
+    },
+    {
+      "name": "Sutton Bridge",
+      "t": null,
+      "ckey": "sutton_bridge_gb",
+      "lat": "52.46",
+      "lng": "0.11"
+    },
+    {
+      "name": "Swansea",
+      "t": null,
+      "ckey": "swansea_gb",
+      "lat": "51.6166666667",
+      "lng": "-3.93333333333"
+    },
+    {
+      "name": "Teesport",
+      "t": true,
+      "ckey": "teesport_gb",
+      "lat": "54.59999947032667",
+      "lng": "-1.16597999238729"
+    },
+    {
+      "name": "Teignmouth",
+      "t": null,
+      "ckey": "teignmouth_gb",
+      "lat": "50.55078670768172",
+      "lng": "-3.496879056684697"
+    },
+    {
+      "name": "Tetney Terminal",
+      "t": null,
+      "ckey": "tetney_terminal_gb",
+      "lat": "53.51700467552945",
+      "lng": "0.0828338595411635"
+    },
+    {
+      "name": "Thamesport",
+      "t": false,
+      "ckey": "thamesport_gb",
+      "lat": "51.4333333333",
+      "lng": "0.7"
+    },
+    {
+      "name": "Thurso",
+      "t": null,
+      "ckey": "thurso_gb",
+      "lat": "58.59500443662381",
+      "lng": "-3.514251642838624"
+    },
+    {
+      "name": "Tilbury",
+      "t": true,
+      "ckey": "tilbury_gb",
+      "lat": "51.45252877247432",
+      "lng": "0.3676656145663485"
+    },
+    {
+      "name": "Tobermory",
+      "t": null,
+      "ckey": "tobermory_gb",
+      "lat": "56.38",
+      "lng": "-6.05"
+    },
+    {
+      "name": "Torquay",
+      "t": null,
+      "ckey": "torquay_gb",
+      "lat": "50.460054474747274",
+      "lng": "-3.512546870310471"
+    },
+    {
+      "name": "Tranent",
+      "t": null,
+      "ckey": "tranent_gb",
+      "lat": "55.56",
+      "lng": "-2.57"
+    },
+    {
+      "name": "Trent Wharves",
+      "t": null,
+      "ckey": "trent_wharves_gb",
+      "lat": "53.636618363369294",
+      "lng": "-0.7101125165305703"
+    },
+    {
+      "name": "Troon",
+      "t": null,
+      "ckey": "troon_gb",
+      "lat": "55.54028770770023",
+      "lng": "-4.664107372864512"
+    },
+    {
+      "name": "Truro",
+      "t": null,
+      "ckey": "truro_gb",
+      "lat": "50.25",
+      "lng": "-5.03333333333"
+    },
+    {
+      "name": "Ullapool",
+      "t": null,
+      "ckey": "ullapool_gb",
+      "lat": "57.9",
+      "lng": "-5.16666666667"
+    },
+    {
+      "name": "Warrenpoint",
+      "t": false,
+      "ckey": "warrenpoint_gb",
+      "lat": "54.09991009477126",
+      "lng": "-6.250534067042218"
+    },
+    {
+      "name": "Warrington",
+      "t": null,
+      "ckey": "warrington_gb",
+      "lat": "53.3833",
+      "lng": "-2.6166"
+    },
+    {
+      "name": "Washington",
+      "t": null,
+      "ckey": "washington_gb",
+      "lat": "54.54",
+      "lng": "-1.31"
+    },
+    {
+      "name": "Watchet",
+      "t": null,
+      "ckey": "watchet_gb",
+      "lat": "51.1833333333",
+      "lng": "-3.33333333333"
+    },
+    {
+      "name": "Wembley",
+      "t": null,
+      "ckey": "wembley_gb",
+      "lat": "51.33",
+      "lng": "-0.17"
+    },
+    {
+      "name": "Wemyss Bay",
+      "t": null,
+      "ckey": "wemyss_bay_gb",
+      "lat": "55.8833333333",
+      "lng": "-4.88333333333"
+    },
+    {
+      "name": "Weston",
+      "t": null,
+      "ckey": "weston_gb",
+      "lat": "52.06",
+      "lng": "-1.08"
+    },
+    {
+      "name": "Weymouth",
+      "t": null,
+      "ckey": "weymouth_gb",
+      "lat": "50.617102345176",
+      "lng": "-2.4527465820313"
+    },
+    {
+      "name": "Whitby",
+      "t": null,
+      "ckey": "whitby_gb",
+      "lat": "54.490429575661324",
+      "lng": "-0.6070536064132461"
+    },
+    {
+      "name": "Whitland",
+      "t": null,
+      "ckey": "whitland_gb",
+      "lat": "51.49",
+      "lng": "-4.37"
+    },
+    {
+      "name": "Whitstable",
+      "t": null,
+      "ckey": "whitstable_gb",
+      "lat": "51.35257236906577",
+      "lng": "1.030243429568215"
+    },
+    {
+      "name": "Wick",
+      "t": null,
+      "ckey": "wick_gb",
+      "lat": "58.4333333333",
+      "lng": "-3.08333333333"
+    },
+    {
+      "name": "Widnes",
+      "t": null,
+      "ckey": "widnes_gb",
+      "lat": "53.21",
+      "lng": "-2.44"
+    },
+    {
+      "name": "Wigan",
+      "t": null,
+      "ckey": "wigan_gb",
+      "lat": "53.32",
+      "lng": "-2.37"
+    },
+    {
+      "name": "Wisbech",
+      "t": null,
+      "ckey": "wisbech_gb",
+      "lat": "52.5",
+      "lng": "0.15"
+    },
+    {
+      "name": "Workington",
+      "t": null,
+      "ckey": "workington_gb",
+      "lat": "54.64999987014575",
+      "lng": "-3.541947419592791"
+    },
+    {
+      "name": "Wrexham",
+      "t": null,
+      "ckey": "wrexham_gb",
+      "lat": "53.03",
+      "lng": "-3"
+    },
+    {
+      "name": "Yarmouth",
+      "t": false,
+      "ckey": "yarmouth_gb",
+      "lat": "50.42",
+      "lng": "-1.3"
+    },
+    {
+      "name": "York",
+      "t": null,
+      "ckey": "york_gb",
+      "lat": "53.975",
+      "lng": "-1.1058333"
+    }
+  ],
+  "ccountries": [
+    { "name": "Ireland", "code": "IE", "link": "/maritime/ireland" }
+  ]
+}

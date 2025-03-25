@@ -1,0 +1,209 @@
+{
+  "title": "Romania",
+  "ckey": "romania",
+  "cports": [
+    {
+      "name": "Basarabi",
+      "t": null,
+      "ckey": "basarabi_ro",
+      "lat": "44.16358653176308",
+      "lng": "28.418226353246776"
+    },
+    {
+      "name": "Braila",
+      "t": null,
+      "ckey": "braila_ro",
+      "lat": "45.25700761032832",
+      "lng": "27.976123576197484"
+    },
+    {
+      "name": "Bucharest",
+      "t": true,
+      "ckey": "bucharest_ro",
+      "lat": "44.418502157539",
+      "lng": "26.057592538721"
+    },
+    {
+      "name": "Calafat",
+      "t": null,
+      "ckey": "calafat_ro",
+      "lat": "43.99592929330136",
+      "lng": "22.932146694906248"
+    },
+    {
+      "name": "Calarasi",
+      "t": null,
+      "ckey": "calarasi_ro",
+      "lat": "44.190647741254665",
+      "lng": "27.332333850694177"
+    },
+    {
+      "name": "Cernavoda",
+      "t": null,
+      "ckey": "cernavoda_ro",
+      "lat": "44.33407146854118",
+      "lng": "28.033521070887684"
+    },
+    {
+      "name": "Chilia",
+      "t": null,
+      "ckey": "chilia_ro",
+      "lat": "45.2",
+      "lng": "29.25"
+    },
+    {
+      "name": "Constanta",
+      "t": true,
+      "ckey": "constanta_ro",
+      "lat": "44.17156419271365",
+      "lng": "28.66426171998168"
+    },
+    {
+      "name": "Danube - Black Sea Canal",
+      "t": null,
+      "ckey": "danube___black_sea_canal_ro",
+      "lat": "44.23156740457222",
+      "lng": "28.357304480944848"
+    },
+    {
+      "name": "Danube River",
+      "t": null,
+      "ckey": "danube_river_ro",
+      "lat": "45",
+      "lng": "29.5"
+    },
+    {
+      "name": "Drencova",
+      "t": null,
+      "ckey": "drencova_ro",
+      "lat": "44.638219792281845",
+      "lng": "21.97443976760186"
+    },
+    {
+      "name": "Drobeta Turnu Severin",
+      "t": null,
+      "ckey": "drobeta_turnu_severin_ro",
+      "lat": "44.61014429969851",
+      "lng": "22.640559089049233"
+    },
+    {
+      "name": "Giurgiu",
+      "t": null,
+      "ckey": "giurgiu_ro",
+      "lat": "43.8870458326476",
+      "lng": "25.98726640499086"
+    },
+    {
+      "name": "Harsova",
+      "t": null,
+      "ckey": "harsova_ro",
+      "lat": "44.6833333333",
+      "lng": "27.9333333333"
+    },
+    {
+      "name": "Isaccea",
+      "t": null,
+      "ckey": "isaccea_ro",
+      "lat": "45.27681174382678",
+      "lng": "28.47047559285008"
+    },
+    {
+      "name": "Macin",
+      "t": null,
+      "ckey": "macin_ro",
+      "lat": "45.24395853391901",
+      "lng": "28.124938030286426"
+    },
+    {
+      "name": "Mahmudia",
+      "t": null,
+      "ckey": "mahmudia_ro",
+      "lat": "45.0833333333",
+      "lng": "29.0833333333"
+    },
+    {
+      "name": "Mangalia",
+      "t": null,
+      "ckey": "mangalia_ro",
+      "lat": "43.8166666667",
+      "lng": "28.5833333333"
+    },
+    {
+      "name": "Medgidia",
+      "t": null,
+      "ckey": "medgidia_ro",
+      "lat": "44.2512281040981",
+      "lng": "28.26683862538803"
+    },
+    {
+      "name": "Midia Navodari",
+      "t": null,
+      "ckey": "midia_navodari_ro",
+      "lat": "44.345611073143914",
+      "lng": "28.68745362730846"
+    },
+    {
+      "name": "Moldova Noua",
+      "t": null,
+      "ckey": "moldova_noua_ro",
+      "lat": "44.71780515649084",
+      "lng": "21.623221195196052"
+    },
+    {
+      "name": "Oltenitza",
+      "t": null,
+      "ckey": "oltenitza_ro",
+      "lat": "44.062120656547954",
+      "lng": "26.62306480916525"
+    },
+    {
+      "name": "Orsova",
+      "t": null,
+      "ckey": "orsova_ro",
+      "lat": "44.720250364213705",
+      "lng": "22.39808054332461"
+    },
+    {
+      "name": "Sulina",
+      "t": null,
+      "ckey": "sulina_ro",
+      "lat": "45.1666666667",
+      "lng": "29.6666666667"
+    },
+    {
+      "name": "Tulcea",
+      "t": null,
+      "ckey": "tulcea_ro",
+      "lat": "45.17864826507535",
+      "lng": "28.80516510746446"
+    },
+    {
+      "name": "Turcoaia",
+      "t": null,
+      "ckey": "turcoaia_ro",
+      "lat": "44.75",
+      "lng": "28.1666666667"
+    },
+    {
+      "name": "Turnu Magurele",
+      "t": null,
+      "ckey": "turnu_magurele_ro",
+      "lat": "43.71472357498276",
+      "lng": "24.89054292996191"
+    },
+    {
+      "name": "Zimnicea",
+      "t": null,
+      "ckey": "zimnicea_ro",
+      "lat": "43.643044154738064",
+      "lng": "25.33832671685336"
+    }
+  ],
+  "ccountries": [
+    { "name": "Bulgaria", "code": "BG", "link": "/maritime/bulgaria" },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Moldova", "code": "MD", "link": "/maritime/moldova" },
+    { "name": "Serbia", "code": "RS", "link": "/maritime/serbia" },
+    { "name": "Ukraine", "code": "UA", "link": "/maritime/ukraine" }
+  ]
+}

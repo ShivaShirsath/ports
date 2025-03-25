@@ -1,0 +1,91 @@
+{
+  "title": "Faroe Islands",
+  "ckey": "faroe_islands",
+  "cports": [
+    {
+      "name": "Fuglafjordur",
+      "t": null,
+      "ckey": "fuglafjordur_fo",
+      "lat": "62.2333333333",
+      "lng": "-6.81666666667"
+    },
+    {
+      "name": "Klaksvik",
+      "t": true,
+      "ckey": "klaksvik_fo",
+      "lat": "62.2333333333",
+      "lng": "-6.58333333333"
+    },
+    {
+      "name": "Kollafjordur",
+      "t": null,
+      "ckey": "kollafjordur_fo",
+      "lat": "62.121806765505745",
+      "lng": "-6.8874530491273145"
+    },
+    {
+      "name": "Midvaag",
+      "t": null,
+      "ckey": "midvaag_fo",
+      "lat": "62.05",
+      "lng": "-7.18333333333"
+    },
+    {
+      "name": "Runavik",
+      "t": null,
+      "ckey": "runavik_fo",
+      "lat": "62.1166666667",
+      "lng": "-6.71666666667"
+    },
+    {
+      "name": "Skaala",
+      "t": null,
+      "ckey": "skaala_fo",
+      "lat": "62.14679159748965",
+      "lng": "-6.777653062464306"
+    },
+    {
+      "name": "Soervaag",
+      "t": null,
+      "ckey": "soervaag_fo",
+      "lat": "62.0666666667",
+      "lng": "-7.3"
+    },
+    {
+      "name": "Strendur",
+      "t": null,
+      "ckey": "strendur_fo",
+      "lat": "62.086501517685946",
+      "lng": "-6.732147354005918"
+    },
+    {
+      "name": "Thorshavn",
+      "t": true,
+      "ckey": "thorshavn_fo",
+      "lat": "61.9853388767635",
+      "lng": "-6.76208496093753"
+    },
+    {
+      "name": "Tvoroyri",
+      "t": null,
+      "ckey": "tvoroyri_fo",
+      "lat": "61.33",
+      "lng": "-6.48"
+    },
+    {
+      "name": "Vagur",
+      "t": null,
+      "ckey": "vagur_fo",
+      "lat": "61.4833333333",
+      "lng": "-6.81666666667"
+    },
+    {
+      "name": "Vestmanna",
+      "t": null,
+      "ckey": "vestmanna_fo",
+      "lat": "62.149195824077495",
+      "lng": "-7.189856686421868"
+    }
+  ],
+  "ccountries": []
+}

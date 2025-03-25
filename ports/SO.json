@@ -1,0 +1,32 @@
+{
+  "title": "Somali",
+  "ckey": "somali",
+  "cports": [
+    {
+      "name": "Berbera",
+      "t": true,
+      "ckey": "berbera_so",
+      "lat": "10.418764583521927",
+      "lng": "45.00823846037812"
+    },
+    {
+      "name": "Dante",
+      "t": null,
+      "ckey": "dante_so",
+      "lat": "10.451856850050639",
+      "lng": "51.39249140966991"
+    },
+    {
+      "name": "Mogadiscio",
+      "t": true,
+      "ckey": "mogadiscio_so",
+      "lat": "2.0279",
+      "lng": "45.3327"
+    }
+  ],
+  "ccountries": [
+    { "name": "Djibouti", "code": "DJ", "link": "/maritime/djibouti" },
+    { "name": "Ethiopia", "code": "ET", "link": "/maritime/ethiopia" },
+    { "name": "Kenya", "code": "KE", "link": "/maritime/kenya" }
+  ]
+}

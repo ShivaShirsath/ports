@@ -1,0 +1,428 @@
+☈ ~/Shiva/dump-sea-and-air-ports 》chmod +x *                                                                               ▢  ＠ 卐                                                                                       ▢  ＠ 卐
+☈ ~/Shiva/dump-sea-and-air-ports 》./getAllPorts                                                                            ▢  ＠ 卐
+Getting ports for country: AF
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   773    0   769  100     4   1327      6 --:--:-- --:--:-- --:--:--  1335
+Getting ports for country: DZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   176    0   172  100     4    362      8 --:--:-- --:--:-- --:--:--   370
+Getting ports for country: AO
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   187    0   183  100     4    516     11 --:--:-- --:--:-- --:--:--   528
+Getting ports for country: AR
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   448    0   444  100     4   1110     10 --:--:-- --:--:-- --:--:--  1120
+Getting ports for country: AU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   992    0   988  100     4   2195      8 --:--:-- --:--:-- --:--:--  2209
+Getting ports for country: AZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   580    0   576  100     4   1572     10 --:--:-- --:--:-- --:--:--  1580
+Getting ports for country: BH
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   570    0   566  100     4   1148      8 --:--:-- --:--:-- --:--:--  1158
+Getting ports for country: BB
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   456    0   452  100     4   1074      9 --:--:-- --:--:-- --:--:--  1085
+Getting ports for country: BE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   393    0   389  100     4    468      4  0:00:01 --:--:--  0:00:01   474
+Getting ports for country: BJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   351    0   347  100     4    499      5 --:--:-- --:--:-- --:--:--   505
+Getting ports for country: BO
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   362    0   358  100     4    631      7 --:--:-- --:--:-- --:--:--   638
+Getting ports for country: BW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  6704    0  6700  100     4  11160      6 --:--:-- --:--:-- --:--:-- 11173
+Getting ports for country: VG
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   769    0   765  100     4   1365      7 --:--:-- --:--:-- --:--:--  1373
+Getting ports for country: BG
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   489    0   485  100     4    820      6 --:--:-- --:--:-- --:--:--   826
+Getting ports for country: CM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 20649    0 20645  100     4  35058      6 --:--:-- --:--:-- --:--:-- 35117
+Getting ports for country: CV
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   259    0   255  100     4    404      6 --:--:-- --:--:-- --:--:--   411
+Getting ports for country: CL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 25935    0 25931  100     4  46065      7 --:--:-- --:--:-- --:--:-- 46147
+Getting ports for country: CX
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2226    0  2222  100     4   4342      7 --:--:-- --:--:-- --:--:--  4347
+Getting ports for country: KM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   246    0   242  100     4    407      6 --:--:-- --:--:-- --:--:--   414
+Getting ports for country: CR
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2235    0  2231  100     4   2259      4  0:00:01 --:--:--  0:00:01  2262
+Getting ports for country: CU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   170    0   166  100     4    220      5 --:--:-- --:--:-- --:--:--   226
+Getting ports for country: CY
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   559    0   555  100     4   1317      9 --:--:-- --:--:-- --:--:--  1324
+Getting ports for country: CD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  8393    0  8389  100     4  17723      8 --:--:-- --:--:-- --:--:-- 17744
+Getting ports for country: DJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   260    0   256  100     4    453      7 --:--:-- --:--:-- --:--:--   459
+Getting ports for country: DO
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1083    0  1079  100     4   2061      7 --:--:-- --:--:-- --:--:--  2066
+Getting ports for country: EG
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   489    0   485  100     4    798      6 --:--:-- --:--:-- --:--:--   805
+Getting ports for country: GQ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   426    0   422  100     4    735      6 --:--:-- --:--:-- --:--:--   742
+Getting ports for country: EE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   448    0   444  100     4    683      6 --:--:-- --:--:-- --:--:--   689
+Getting ports for country: FK
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1232    0  1228  100     4   2532      8 --:--:-- --:--:-- --:--:--  2545
+Getting ports for country: FJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  5366    0  5362  100     4   8722      6 --:--:-- --:--:-- --:--:--  8725
+Getting ports for country: FR
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   621    0   617  100     4    876      5 --:--:-- --:--:-- --:--:--   882
+Getting ports for country: PF
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1459    0  1455  100     4   2453      6 --:--:-- --:--:-- --:--:--  2460
+Getting ports for country: GM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   640    0   636  100     4   1048      6 --:--:-- --:--:-- --:--:--  1054
+Getting ports for country: DE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   610    0   606  100     4   1138      7 --:--:-- --:--:-- --:--:--  1146
+Getting ports for country: GI
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  5682    0  5678  100     4   8840      6 --:--:-- --:--:-- --:--:--  8836
+Getting ports for country: GL
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   252    0   248  100     4    278      4  0:00:01 --:--:--  0:00:01   282
+Getting ports for country: GP
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   241    0   237  100     4    389      6 --:--:-- --:--:-- --:--:--   395
+Getting ports for country: GT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   643    0   639  100     4    875      5 --:--:-- --:--:-- --:--:--   882
+Getting ports for country: GW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   835    0   831  100     4   1303      6 --:--:-- --:--:-- --:--:--  1308
+Getting ports for country: HT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1003    0   999  100     4   1576      6 --:--:-- --:--:-- --:--:--  1584
+Getting ports for country: HK
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   677    0   673  100     4   1380      8 --:--:-- --:--:-- --:--:--  1390
+Getting ports for country: IS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  8178    0  8174  100     4  11739      5 --:--:-- --:--:-- --:--:-- 11733
+Getting ports for country: ID
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1818    0  1814  100     4   3059      6 --:--:-- --:--:-- --:--:--  3065
+Getting ports for country: IQ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  4347    0  4343  100     4   4371      4  0:00:01 --:--:--  0:00:01  4373
+Getting ports for country: IM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   889    0   885  100     4   1282      5 --:--:-- --:--:-- --:--:--  1288
+Getting ports for country: IT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   690    0   686  100     4    560      3  0:00:01  0:00:01 --:--:--   564
+Getting ports for country: JM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 17234    0 17230  100     4  27944      6 --:--:-- --:--:-- --:--:-- 27977
+Getting ports for country: JO
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   744    0   740  100     4   1006      5 --:--:-- --:--:-- --:--:--  1010
+Getting ports for country: KE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   540    0   536  100     4    525      3  0:00:01  0:00:01 --:--:--   529
+Getting ports for country: KW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   404    0   400  100     4    499      4  0:00:01 --:--:--  0:00:01   504
+Getting ports for country: LV
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   988    0   984  100     4   1139      4  0:00:01 --:--:--  0:00:01  1143
+Getting ports for country: LR
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2104    0  2100  100     4   3103      5 --:--:-- --:--:-- --:--:--  3107
+Getting ports for country: LT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   207    0   203  100     4    311      6 --:--:-- --:--:-- --:--:--   318
+Getting ports for country: MK
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1353    0  1349  100     4   1290      3  0:00:01  0:00:01 --:--:--  1294
+Getting ports for country: MW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  4997    0  4993  100     4   7262      5 --:--:-- --:--:-- --:--:--  7273
+Getting ports for country: MV
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   451    0   447  100     4    554      4  0:00:01 --:--:--  0:00:01   558
+Getting ports for country: MT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   266    0   262  100     4    446      6 --:--:-- --:--:-- --:--:--   453
+Getting ports for country: MQ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   436    0   432  100     4    739      6 --:--:-- --:--:-- --:--:--   747
+Getting ports for country: MU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   152    0   148  100     4    225      6 --:--:-- --:--:-- --:--:--   231
+Getting ports for country: MX
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   349    0   345  100     4    461      5 --:--:-- --:--:-- --:--:--   466
+Getting ports for country: MD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   203    0   199  100     4    327      6 --:--:-- --:--:-- --:--:--   334
+Getting ports for country: ME
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   285    0   281  100     4    372      5 --:--:-- --:--:-- --:--:--   377
+Getting ports for country: MA
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1389    0  1385  100     4   2637      7 --:--:-- --:--:-- --:--:--  2645
+Getting ports for country: MM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   514    0   510  100     4    798      6 --:--:-- --:--:-- --:--:--   804
+Getting ports for country: NR
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3757    0  3753  100     4   6465      6 --:--:-- --:--:-- --:--:--  6477
+Getting ports for country: AN
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   626    0   622  100     4    841      5 --:--:-- --:--:-- --:--:--   845
+Getting ports for country: NZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   866    0   862  100     4   1539      7 --:--:-- --:--:-- --:--:--  1546
+Getting ports for country: NG
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   144    0   140  100     4    183      5 --:--:-- --:--:-- --:--:--   188
+Getting ports for country: NF
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   195    0   191  100     4    331      6 --:--:-- --:--:-- --:--:--   338
+Getting ports for country: KP
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  9335    0  9331  100     4  14969      6 --:--:-- --:--:-- --:--:-- 14959
+Getting ports for country: OM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1160    0  1156  100     4   2402      8 --:--:-- --:--:-- --:--:--  2411
+Getting ports for country: PA
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1946    0  1942  100     4   2951      6 --:--:-- --:--:-- --:--:--  2957
+Getting ports for country: PY
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3502    0  3498  100     4   5473      6 --:--:-- --:--:-- --:--:--  5480
+Getting ports for country: PH
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1748    0  1744  100     4   3055      7 --:--:-- --:--:-- --:--:--  3066
+Getting ports for country: PT
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1202    0  1198  100     4   1956      6 --:--:-- --:--:-- --:--:--  1960
+Getting ports for country: QA
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   797    0   793  100     4    947      4  0:00:01 --:--:--  0:00:01   952
+Getting ports for country: RE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  3202    0  3198  100     4   6156      7 --:--:-- --:--:-- --:--:--  6169
+Getting ports for country: RU
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   170    0   166  100     4    349      8 --:--:-- --:--:-- --:--:--   357
+Getting ports for country: SH
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   295    0   291  100     4    728     10 --:--:-- --:--:-- --:--:--   739
+Getting ports for country: LC
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   296    0   292  100     4    495      6 --:--:-- --:--:-- --:--:--   501
+Getting ports for country: VC
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   161    0   157  100     4    240      6 --:--:-- --:--:-- --:--:--   246
+Getting ports for country: ST
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1906    0  1902  100     4   2952      6 --:--:-- --:--:-- --:--:--  2959
+Getting ports for country: SN
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1023    0  1019  100     4   1120      4  0:00:01 --:--:--  0:00:01  1124
+Getting ports for country: SC
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   510    0   506  100     4    772      6 --:--:-- --:--:-- --:--:--   778
+Getting ports for country: SG
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   166    0   162  100     4    312      7 --:--:-- --:--:-- --:--:--   319
+Getting ports for country: SK
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   579    0   575  100     4    878      6 --:--:-- --:--:-- --:--:--   885
+Getting ports for country: SB
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   527    0   523  100     4    790      6 --:--:-- --:--:-- --:--:--   796
+Getting ports for country: S0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1121    0  1117  100     4   1416      5 --:--:-- --:--:-- --:--:--  1420
+Getting ports for country: GS
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2724    0  2720  100     4   4392      6 --:--:-- --:--:-- --:--:--  4400
+Getting ports for country: ES
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   597    0   593  100     4    716      4  0:00:01 --:--:--  0:00:01   721
+Getting ports for country: SD
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   767    0   763  100     4    831      4  0:00:01 --:--:--  0:00:01   835
+Getting ports for country: SE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   544    0   540  100     4    709      5 --:--:-- --:--:-- --:--:--   714
+Getting ports for country: SY
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1016    0  1012  100     4   1850      7 --:--:-- --:--:-- --:--:--  1857
+Getting ports for country: TJ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1411    0  1407  100     4   1779      5 --:--:-- --:--:-- --:--:--  1786
+Getting ports for country: TH
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   364    0   360  100     4    571      6 --:--:-- --:--:-- --:--:--   578
+Getting ports for country: TO
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1260    0  1256  100     4   1969      6 --:--:-- --:--:-- --:--:--  1974
+Getting ports for country: TN
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  6067    0  6063  100     4   8046      5 --:--:-- --:--:-- --:--:--  8046
+Getting ports for country: TM
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   443    0   439  100     4    595      5 --:--:-- --:--:-- --:--:--   601
+Getting ports for country: TV
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2805    0  2801  100     4   4297      6 --:--:-- --:--:-- --:--:--  4302
+Getting ports for country: AE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 22753    0 22749  100     4  36304      6 --:--:-- --:--:-- --:--:-- 36288
+Getting ports for country: US
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   235    0   231  100     4    379      6 --:--:-- --:--:-- --:--:--   385
+Getting ports for country: UY
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   735    0   731  100     4   1323      7 --:--:-- --:--:-- --:--:--  1331
+Getting ports for country: UZ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   268    0   264  100     4    594      9 --:--:-- --:--:-- --:--:--   602
+Getting ports for country: VE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  2770    0  2766  100     4   5106      7 --:--:-- --:--:-- --:--:--  5120
+Getting ports for country: YE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   622    0   618  100     4   1008      6 --:--:-- --:--:-- --:--:--  1014
+Getting ports for country: ZW
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    56    0    54  100     2     85      3 --:--:-- --:--:-- --:--:--    89
+Completed fetching ports for all countries
+☈ ~/Shiva/dump-sea-and-air-ports 》                                                                                         ▢  ＠ 卐

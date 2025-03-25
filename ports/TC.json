@@ -1,0 +1,28 @@
+{
+  "title": "Turks and Caicos Islands",
+  "ckey": "turks_and_caicos_islands",
+  "cports": [
+    {
+      "name": "Cockburn Harbour",
+      "t": null,
+      "ckey": "cockburn_harbour_tc",
+      "lat": "21.43205444561115",
+      "lng": "-71.14194582872135"
+    },
+    {
+      "name": "Grand Turk",
+      "t": null,
+      "ckey": "grand_turk_tc",
+      "lat": "21.471678080533685",
+      "lng": "-71.13333296017795"
+    },
+    {
+      "name": "Providenciales",
+      "t": true,
+      "ckey": "providenciales_tc",
+      "lat": "21.63665276219888",
+      "lng": "-72.46429777279249"
+    }
+  ],
+  "ccountries": []
+}

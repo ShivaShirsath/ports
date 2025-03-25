@@ -1,0 +1,84 @@
+{
+  "title": "Puerto Rico",
+  "ckey": "puerto_rico",
+  "cports": [
+    {
+      "name": "Aguadilla",
+      "t": null,
+      "ckey": "aguadilla_pr",
+      "lat": "18.43333331505063",
+      "lng": "-67.13371078600188"
+    },
+    {
+      "name": "Arecibo",
+      "t": null,
+      "ckey": "arecibo_pr",
+      "lat": "18.472914261290853",
+      "lng": "-66.68626509347435"
+    },
+    {
+      "name": "Fajardo",
+      "t": null,
+      "ckey": "fajardo_pr",
+      "lat": "18.3333333333",
+      "lng": "-65.6333333333"
+    },
+    {
+      "name": "Guanica",
+      "t": null,
+      "ckey": "guanica_pr",
+      "lat": "17.965677092769027",
+      "lng": "-66.88901242879702"
+    },
+    {
+      "name": "Guayanilla",
+      "t": null,
+      "ckey": "guayanilla_pr",
+      "lat": "17.992162858823043",
+      "lng": "-66.7419447955883"
+    },
+    {
+      "name": "Jobos Bay",
+      "t": null,
+      "ckey": "jobos_bay_pr",
+      "lat": "17.946398883836665",
+      "lng": "-66.23589607998206"
+    },
+    {
+      "name": "Las Mareas",
+      "t": null,
+      "ckey": "las_mareas_pr",
+      "lat": "17.938559534216783",
+      "lng": "-66.14706946982604"
+    },
+    {
+      "name": "Mayaguez",
+      "t": null,
+      "ckey": "mayaguez_pr",
+      "lat": "18.208840364957943",
+      "lng": "-67.14232365454528"
+    },
+    {
+      "name": "Ponce",
+      "t": false,
+      "ckey": "ponce_pr",
+      "lat": "17.9748160912395",
+      "lng": "-66.6183471679688"
+    },
+    {
+      "name": "San Juan",
+      "t": true,
+      "ckey": "san_juan_pr",
+      "lat": "18.457534382827276",
+      "lng": "-66.20910807805727"
+    },
+    {
+      "name": "Yabucoa",
+      "t": null,
+      "ckey": "yabucoa_pr",
+      "lat": "18.07250466648261",
+      "lng": "-65.8192272198546"
+    }
+  ],
+  "ccountries": []
+}

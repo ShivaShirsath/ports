@@ -1,0 +1,28 @@
+{
+  "title": "Bermuda",
+  "ckey": "bermuda",
+  "cports": [
+    {
+      "name": "Freeport",
+      "t": null,
+      "ckey": "freeport_bm",
+      "lat": "32.3166666667",
+      "lng": "-64.8333333333"
+    },
+    {
+      "name": "Hamilton",
+      "t": true,
+      "ckey": "hamilton_bm",
+      "lat": "32.2833333333",
+      "lng": "-64.7666666667002"
+    },
+    {
+      "name": "St George's",
+      "t": null,
+      "ckey": "st_georges_bm",
+      "lat": "32.3666666667",
+      "lng": "-64.7"
+    }
+  ],
+  "ccountries": []
+}

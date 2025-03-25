@@ -1,0 +1,38 @@
+{
+  "title": "French Guiana",
+  "ckey": "french_guiana",
+  "cports": [
+    {
+      "name": "Cayenne",
+      "t": true,
+      "ckey": "cayenne_gf",
+      "lat": "4.912708329406405",
+      "lng": "-52.3797371975873"
+    },
+    {
+      "name": "Degrad des Cannes",
+      "t": true,
+      "ckey": "degrad_des_cannes_gf",
+      "lat": "4.86666666667",
+      "lng": "-52.2666666667"
+    },
+    {
+      "name": "Kourou",
+      "t": null,
+      "ckey": "kourou_gf",
+      "lat": "5.15",
+      "lng": "-52.6666666667"
+    },
+    {
+      "name": "St Laurent du Maroni",
+      "t": null,
+      "ckey": "st_laurent_du_maroni_gf",
+      "lat": "5.505468004073254",
+      "lng": "-54.005868635183944"
+    }
+  ],
+  "ccountries": [
+    { "name": "Brazil", "code": "BR", "link": "/maritime/brazil" },
+    { "name": "Suriname", "code": "SR", "link": "/maritime/suriname" }
+  ]
+}

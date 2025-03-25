@@ -1,0 +1,87 @@
+{
+  "title": "Tanzania",
+  "ckey": "tanzania",
+  "cports": [
+    {
+      "name": "Chake Chake",
+      "t": null,
+      "ckey": "chake_chake_tz",
+      "lat": "-5.24427388624915",
+      "lng": "39.7529338186194"
+    },
+    {
+      "name": "Dar Es Salaam",
+      "t": true,
+      "ckey": "dar_es_salaam_tz",
+      "lat": "-6.7825759213085925",
+      "lng": "39.284519445339924"
+    },
+    {
+      "name": "Kilwa Kivinje",
+      "t": null,
+      "ckey": "kilwa_kivinje_tz",
+      "lat": "-8.75",
+      "lng": "39.35"
+    },
+    {
+      "name": "Kilwa Masoko",
+      "t": null,
+      "ckey": "kilwa_masoko_tz",
+      "lat": "-8.93333333333",
+      "lng": "39.5166666667"
+    },
+    {
+      "name": "Lindi",
+      "t": null,
+      "ckey": "lindi_tz",
+      "lat": "-10",
+      "lng": "39.7333333333"
+    },
+    {
+      "name": "Mkoani",
+      "t": null,
+      "ckey": "mkoani_tz",
+      "lat": "-5.349316219268423",
+      "lng": "39.64328879187318"
+    },
+    {
+      "name": "Pangani",
+      "t": null,
+      "ckey": "pangani_tz",
+      "lat": "-5.457518795439295",
+      "lng": "38.9986282172507"
+    },
+    {
+      "name": "Tanga",
+      "t": true,
+      "ckey": "tanga_tz",
+      "lat": "-5.058207580426956",
+      "lng": "39.12421832061431"
+    },
+    {
+      "name": "Wete Wete",
+      "t": null,
+      "ckey": "wete_wete_tz",
+      "lat": "-5.22649533072643",
+      "lng": "39.712546910057114"
+    },
+    {
+      "name": "Zanzibar",
+      "t": true,
+      "ckey": "zanzibar_tz",
+      "lat": "-6.162066468704451",
+      "lng": "39.18857577806875"
+    }
+  ],
+  "ccountries": [
+    {
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "link": "/maritime/democratic_republic_of_the_congo"
+    },
+    { "name": "Kenya", "code": "KE", "link": "/maritime/kenya" },
+    { "name": "Malawi", "code": "MW", "link": "/maritime/malawi" },
+    { "name": "Mozambique", "code": "MZ", "link": "/maritime/mozambique" },
+    { "name": "Zambia", "code": "ZM", "link": "/maritime/zambia" }
+  ]
+}

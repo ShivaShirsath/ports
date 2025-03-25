@@ -1,0 +1,39 @@
+{
+  "title": "Georgia",
+  "ckey": "georgia",
+  "cports": [
+    {
+      "name": "Batumi",
+      "t": true,
+      "ckey": "batumi_ge",
+      "lat": "41.645896841426335",
+      "lng": "41.660800314195306"
+    },
+    {
+      "name": "Poti",
+      "t": true,
+      "ckey": "poti_ge",
+      "lat": "42.17812908721582",
+      "lng": "41.67197108858286"
+    },
+    {
+      "name": "Sukhumi",
+      "t": null,
+      "ckey": "sukhumi_ge",
+      "lat": "43.097878945755156",
+      "lng": "40.775529250586196"
+    },
+    {
+      "name": "Supsa",
+      "t": null,
+      "ckey": "supsa_ge",
+      "lat": "42.03706860538214",
+      "lng": "41.76042545342911"
+    }
+  ],
+  "ccountries": [
+    { "name": "Azerbaijan", "code": "AZ", "link": "/maritime/azerbaijan" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Turkey", "code": "TR", "link": "/maritime/turkey" }
+  ]
+}

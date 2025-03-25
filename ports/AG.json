@@ -1,0 +1,14 @@
+{
+  "title": "Antigua and Barbuda",
+  "ckey": "antigua_and_barbuda",
+  "cports": [
+    {
+      "name": "St. Johns",
+      "t": true,
+      "ckey": "st_johns_ag",
+      "lat": "17.1166666667",
+      "lng": "-61.8666666667"
+    }
+  ],
+  "ccountries": []
+}

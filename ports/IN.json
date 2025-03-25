@@ -1,0 +1,579 @@
+{
+  "title": "India",
+  "ckey": "india",
+  "cports": [
+    {
+      "name": "Ahmedabad",
+      "t": true,
+      "ckey": "ahmedabad_in",
+      "lat": "23.0606005311342",
+      "lng": "72.5564575195314"
+    },
+    {
+      "name": "Albert Victor (Beherai)",
+      "t": false,
+      "ckey": "albert_victor_beherai_in",
+      "lat": "20.92819139053931",
+      "lng": "71.50667793040002"
+    },
+    {
+      "name": "Alewadi",
+      "t": null,
+      "ckey": "alewadi_in",
+      "lat": "19.7833333333",
+      "lng": "72.7"
+    },
+    {
+      "name": "Allepey",
+      "t": null,
+      "ckey": "allepey_in",
+      "lat": "9.520919141650825",
+      "lng": "76.36960186471985"
+    },
+    {
+      "name": "Bangalore",
+      "t": true,
+      "ckey": "bangalore_in",
+      "lat": "12.972442",
+      "lng": "77.580643"
+    },
+    {
+      "name": "Bedi Bunder",
+      "t": null,
+      "ckey": "bedi_bunder_in",
+      "lat": "22.539853072379273",
+      "lng": "70.04157503267561"
+    },
+    {
+      "name": "Belekeri",
+      "t": null,
+      "ckey": "belekeri_in",
+      "lat": "14.700996933664673",
+      "lng": "74.26357450584895"
+    },
+    {
+      "name": "Bhavnagar",
+      "t": null,
+      "ckey": "bhavnagar_in",
+      "lat": "21.75",
+      "lng": "72.2333333333"
+    },
+    {
+      "name": "Bhusawal",
+      "t": true,
+      "ckey": "bhusawal_in",
+      "lat": "21.045521",
+      "lng": "75.801094"
+    },
+    {
+      "name": "Bombay",
+      "t": false,
+      "ckey": "bombay_in",
+      "lat": "18.93463163408913",
+      "lng": "72.82559428931866"
+    },
+    {
+      "name": "Calcutta",
+      "t": true,
+      "ckey": "calcutta_in",
+      "lat": "22.567576810220356",
+      "lng": "88.34331963072407"
+    },
+    {
+      "name": "Calicut",
+      "t": null,
+      "ckey": "calicut_in",
+      "lat": "11.252020341506801",
+      "lng": "75.77147536891266"
+    },
+    {
+      "name": "Calingapatnam",
+      "t": null,
+      "ckey": "calingapatnam_in",
+      "lat": "18.3333333333",
+      "lng": "84.1333333333"
+    },
+    {
+      "name": "Chennai",
+      "t": true,
+      "ckey": "chennai_in",
+      "lat": "13.1",
+      "lng": "80.2833333333001"
+    },
+    {
+      "name": "Cochin",
+      "t": true,
+      "ckey": "cochin_in",
+      "lat": "9.957874517386868",
+      "lng": "76.23951408178779"
+    },
+    {
+      "name": "Colochel",
+      "t": null,
+      "ckey": "colochel_in",
+      "lat": "8.172444285325318",
+      "lng": "77.2484423052254"
+    },
+    {
+      "name": "Cuddalore",
+      "t": null,
+      "ckey": "cuddalore_in",
+      "lat": "11.7166666667",
+      "lng": "79.7833333333"
+    },
+    {
+      "name": "Dabhol",
+      "t": null,
+      "ckey": "dabhol_in",
+      "lat": "17.561188167478996",
+      "lng": "73.14082117989308"
+    },
+    {
+      "name": "Dadri",
+      "t": true,
+      "ckey": "dadri_in",
+      "lat": "0.22",
+      "lng": "0.255"
+    },
+    {
+      "name": "Dahej",
+      "t": null,
+      "ckey": "dahej_in",
+      "lat": "21.72432165529058",
+      "lng": "72.52839909815306"
+    },
+    {
+      "name": "Dholera",
+      "t": null,
+      "ckey": "dholera_in",
+      "lat": "22.077613190109492",
+      "lng": "72.26280036208794"
+    },
+    {
+      "name": "Dighi",
+      "t": null,
+      "ckey": "dighi_in",
+      "lat": "18.3166666667",
+      "lng": "72.9666666667"
+    },
+    {
+      "name": "Ennore",
+      "t": true,
+      "ckey": "ennore_in",
+      "lat": "13.32138239113943",
+      "lng": "80.34138418783894"
+    },
+    {
+      "name": "Faridabad",
+      "t": false,
+      "ckey": "faridabad_in",
+      "lat": "28.3822",
+      "lng": "77.3031"
+    },
+    {
+      "name": "Goa",
+      "t": false,
+      "ckey": "goa_in",
+      "lat": "15.518942822624965",
+      "lng": "73.88992217711423"
+    },
+    {
+      "name": "Gopalpur",
+      "t": null,
+      "ckey": "gopalpur_in",
+      "lat": "19.302592707697936",
+      "lng": "84.96941108641286"
+    },
+    {
+      "name": "Haldia",
+      "t": true,
+      "ckey": "haldia_in",
+      "lat": "22.020371082222905",
+      "lng": "88.07234553578215"
+    },
+    {
+      "name": "Hazira",
+      "t": true,
+      "ckey": "hazira_in",
+      "lat": "21.1076",
+      "lng": "72.651155"
+    },
+    {
+      "name": "Honavar",
+      "t": null,
+      "ckey": "honavar_in",
+      "lat": "14.278644502374117",
+      "lng": "74.44725195300893"
+    },
+    {
+      "name": "Hyderabad",
+      "t": true,
+      "ckey": "hyderabad_in",
+      "lat": "17.38714",
+      "lng": "78.491684"
+    },
+    {
+      "name": "Jafarabad",
+      "t": null,
+      "ckey": "jafarabad_in",
+      "lat": "20.8666666667",
+      "lng": "71.3666666667"
+    },
+    {
+      "name": "Jaigad",
+      "t": null,
+      "ckey": "jaigad_in",
+      "lat": "17.33146500002937",
+      "lng": "73.22153352531512"
+    },
+    {
+      "name": "Jakhau",
+      "t": null,
+      "ckey": "jakhau_in",
+      "lat": "23.233334131641715",
+      "lng": "68.59706515529878"
+    },
+    {
+      "name": "Jawaharlal Nehru Port",
+      "t": true,
+      "ckey": "jawaharlal_nehru_port_in",
+      "lat": "18.97",
+      "lng": "72.9299999999998"
+    },
+    {
+      "name": "Kakinada",
+      "t": null,
+      "ckey": "kakinada_in",
+      "lat": "16.939902207743586",
+      "lng": "82.2635428542531"
+    },
+    {
+      "name": "Kandla",
+      "t": true,
+      "ckey": "kandla_in",
+      "lat": "23.007584426741747",
+      "lng": "70.22178274373722"
+    },
+    {
+      "name": "Kanpur",
+      "t": false,
+      "ckey": "kanpur_in",
+      "lat": "26.3619",
+      "lng": "80.3992"
+    },
+    {
+      "name": "Kanyakumari Port",
+      "t": null,
+      "ckey": "kanyakumari_port_in",
+      "lat": "8.078366113471207",
+      "lng": "77.54044655262177"
+    },
+    {
+      "name": "Karwar",
+      "t": null,
+      "ckey": "karwar_in",
+      "lat": "14.814936441851533",
+      "lng": "74.12574811858727"
+    },
+    {
+      "name": "Kattupalli",
+      "t": true,
+      "ckey": "kattupalli_in",
+      "lat": "13.30473",
+      "lng": "80.35606"
+    },
+    {
+      "name": "Krishnapatnam",
+      "t": true,
+      "ckey": "krishnapatnam_in",
+      "lat": "14.297338730132441",
+      "lng": "80.14925096648649"
+    },
+    {
+      "name": "Kundapur",
+      "t": null,
+      "ckey": "kundapur_in",
+      "lat": "13.623339931703816",
+      "lng": "74.67141193137958"
+    },
+    {
+      "name": "Ludhiana",
+      "t": true,
+      "ckey": "ludhiana_in",
+      "lat": "30.9061",
+      "lng": "75.8468"
+    },
+    {
+      "name": "Madras",
+      "t": true,
+      "ckey": "madras_in",
+      "lat": "13.236493385039926",
+      "lng": "80.3293220737647"
+    },
+    {
+      "name": "Magdalla",
+      "t": null,
+      "ckey": "magdalla_in",
+      "lat": "21.10638248824848",
+      "lng": "72.63295563396761"
+    },
+    {
+      "name": "Mahe",
+      "t": false,
+      "ckey": "mahe_in",
+      "lat": "33.2739",
+      "lng": "78.5113"
+    },
+    {
+      "name": "Malpe",
+      "t": null,
+      "ckey": "malpe_in",
+      "lat": "13.35",
+      "lng": "74.7"
+    },
+    {
+      "name": "Mandvi",
+      "t": null,
+      "ckey": "mandvi_in",
+      "lat": "22.824262149418605",
+      "lng": "69.3637333990652"
+    },
+    {
+      "name": "Mangalore",
+      "t": true,
+      "ckey": "mangalore_in",
+      "lat": "12.900559068449311",
+      "lng": "74.82375930081672"
+    },
+    {
+      "name": "Marmagoa",
+      "t": true,
+      "ckey": "marmagoa_in",
+      "lat": "15.404987946512472",
+      "lng": "73.80473605778583"
+    },
+    {
+      "name": "Moradabad",
+      "t": null,
+      "ckey": "moradabad_in",
+      "lat": "28.5",
+      "lng": "78.47"
+    },
+    {
+      "name": "Mulgund",
+      "t": null,
+      "ckey": "mulgund_in",
+      "lat": "15.15",
+      "lng": "75.32"
+    },
+    {
+      "name": "Mumbai",
+      "t": true,
+      "ckey": "mumbai_in",
+      "lat": "19.046656981761096",
+      "lng": "72.83729440336688"
+    },
+    {
+      "name": "Mundra",
+      "t": true,
+      "ckey": "mundra_in",
+      "lat": "22.795047722791168",
+      "lng": "69.74670210582782"
+    },
+    {
+      "name": "Nagapattinam",
+      "t": null,
+      "ckey": "nagapattinam_in",
+      "lat": "10.7666666667",
+      "lng": "79.85"
+    },
+    {
+      "name": "Navlakhi",
+      "t": null,
+      "ckey": "navlakhi_in",
+      "lat": "22.956550960810706",
+      "lng": "70.46373536489575"
+    },
+    {
+      "name": "Neendakara",
+      "t": null,
+      "ckey": "neendakara_in",
+      "lat": "8.88333333333",
+      "lng": "76.5666666667"
+    },
+    {
+      "name": "New Delhi",
+      "t": true,
+      "ckey": "new_delhi_in",
+      "lat": "28.6377",
+      "lng": "77.2058"
+    },
+    {
+      "name": "New Mangalore",
+      "t": null,
+      "ckey": "new_mangalore_in",
+      "lat": "12.932728405666424",
+      "lng": "74.80686824299927"
+    },
+    {
+      "name": "New Tuticorin",
+      "t": null,
+      "ckey": "new_tuticorin_in",
+      "lat": "8.45",
+      "lng": "78.13"
+    },
+    {
+      "name": "Nhava Sheva",
+      "t": true,
+      "ckey": "nhava_sheva_in",
+      "lat": "18.95",
+      "lng": "72.9666666666598"
+    },
+    {
+      "name": "Okha",
+      "t": null,
+      "ckey": "okha_in",
+      "lat": "22.466665887875294",
+      "lng": "69.06959813264777"
+    },
+    {
+      "name": "Panaji",
+      "t": null,
+      "ckey": "panaji_in",
+      "lat": "15.500205906184327",
+      "lng": "73.82353273838172"
+    },
+    {
+      "name": "Paradip",
+      "t": null,
+      "ckey": "paradip_in",
+      "lat": "20.25",
+      "lng": "86.6666666667"
+    },
+    {
+      "name": "Pindhara",
+      "t": null,
+      "ckey": "pindhara_in",
+      "lat": "22.443064169198315",
+      "lng": "69.84057622578047"
+    },
+    {
+      "name": "Pipavav",
+      "t": true,
+      "ckey": "pipavav_in",
+      "lat": "20.966665846134",
+      "lng": "71.555493292398"
+    },
+    {
+      "name": "Pondicherry",
+      "t": null,
+      "ckey": "pondicherry_in",
+      "lat": "11.9333333333",
+      "lng": "79.8333333333"
+    },
+    {
+      "name": "Porbandar",
+      "t": false,
+      "ckey": "porbandar_in",
+      "lat": "21.63843885666684",
+      "lng": "69.60102783120979"
+    },
+    {
+      "name": "Port Blair",
+      "t": null,
+      "ckey": "port_blair_in",
+      "lat": "11.65105536074458",
+      "lng": "92.75293074001932"
+    },
+    {
+      "name": "Ratnagiri",
+      "t": null,
+      "ckey": "ratnagiri_in",
+      "lat": "16.9833333333",
+      "lng": "73.3"
+    },
+    {
+      "name": "Redi",
+      "t": null,
+      "ckey": "redi_in",
+      "lat": "15.761235245694705",
+      "lng": "73.66529091569085"
+    },
+    {
+      "name": "Sikka",
+      "t": null,
+      "ckey": "sikka_in",
+      "lat": "22.476065935720523",
+      "lng": "69.90711592867474"
+    },
+    {
+      "name": "Tadri",
+      "t": null,
+      "ckey": "tadri_in",
+      "lat": "14.520654326366948",
+      "lng": "74.34931387050013"
+    },
+    {
+      "name": "Trivandrum",
+      "t": null,
+      "ckey": "trivandrum_in",
+      "lat": "8.451157838370504",
+      "lng": "76.95815243531068"
+    },
+    {
+      "name": "Tuticorin",
+      "t": true,
+      "ckey": "tuticorin_in",
+      "lat": "8.769463436713314",
+      "lng": "78.1678540694008"
+    },
+    {
+      "name": "Vadinar Terminal",
+      "t": null,
+      "ckey": "vadinar_terminal_in",
+      "lat": "22.459393443956525",
+      "lng": "69.71373278270417"
+    },
+    {
+      "name": "Valinokkam",
+      "t": null,
+      "ckey": "valinokkam_in",
+      "lat": "9.158134497659244",
+      "lng": "78.6433240280929"
+    },
+    {
+      "name": "Vengurla",
+      "t": null,
+      "ckey": "vengurla_in",
+      "lat": "15.857114026168759",
+      "lng": "73.616605327287"
+    },
+    {
+      "name": "Veraval",
+      "t": null,
+      "ckey": "veraval_in",
+      "lat": "20.91539503112929",
+      "lng": "70.36666471641153"
+    },
+    {
+      "name": "Visakhapatnam",
+      "t": true,
+      "ckey": "visakhapatnam_in",
+      "lat": "17.687258091632",
+      "lng": "83.295693720869"
+    },
+    {
+      "name": "Vishakhapatnam",
+      "t": false,
+      "ckey": "vishakhapatnam_in",
+      "lat": "17.716667178650578",
+      "lng": "83.33039791204159"
+    }
+  ],
+  "ccountries": [
+    { "name": "Bangladesh", "code": "BD", "link": "/maritime/bangladesh" },
+    { "name": "China", "code": "CN", "link": "/maritime/china" },
+    { "name": "Myanmar", "code": "MM", "link": "/maritime/myanmar" },
+    { "name": "Pakistan", "code": "PK", "link": "/maritime/pakistan" }
+  ]
+}

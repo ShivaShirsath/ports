@@ -1,0 +1,60 @@
+{
+  "title": "Honduras",
+  "ckey": "honduras",
+  "cports": [
+    {
+      "name": "Coxen Hole",
+      "t": null,
+      "ckey": "coxen_hole_hn",
+      "lat": "16.32635997497968",
+      "lng": "-86.52784168895633"
+    },
+    {
+      "name": "La Ceiba",
+      "t": null,
+      "ckey": "la_ceiba_hn",
+      "lat": "15.758737104005771",
+      "lng": "-86.8333355599635"
+    },
+    {
+      "name": "Puerto Castilla",
+      "t": false,
+      "ckey": "puerto_castilla_hn",
+      "lat": "15.890916632371152",
+      "lng": "-86.01471006718079"
+    },
+    {
+      "name": "Puerto Cortes",
+      "t": true,
+      "ckey": "puerto_cortes_hn",
+      "lat": "15.860488139618745",
+      "lng": "-87.94830247026555"
+    },
+    {
+      "name": "San Lorenzo",
+      "t": true,
+      "ckey": "san_lorenzo_hn",
+      "lat": "13.4002725865147",
+      "lng": "-87.4209594726564"
+    },
+    {
+      "name": "San Pedro Sula",
+      "t": false,
+      "ckey": "san_pedro_sula_hn",
+      "lat": "15.506",
+      "lng": "-88.0266"
+    },
+    {
+      "name": "Tela",
+      "t": null,
+      "ckey": "tela_hn",
+      "lat": "15.7727611899191",
+      "lng": "-87.46922617169169"
+    }
+  ],
+  "ccountries": [
+    { "name": "El Salvador", "code": "SV", "link": "/maritime/el_salvador" },
+    { "name": "Guatemala", "code": "GT", "link": "/maritime/guatemala" },
+    { "name": "Nicaragua", "code": "NI", "link": "/maritime/nicaragua" }
+  ]
+}

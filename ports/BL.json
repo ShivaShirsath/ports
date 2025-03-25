@@ -1,0 +1,14 @@
+{
+  "title": "Saint Barthelemy",
+  "ckey": "saint_barthelemy",
+  "cports": [
+    {
+      "name": "Gustavia",
+      "t": true,
+      "ckey": "gustavia_bl",
+      "lat": "17.89959",
+      "lng": "-62.85172"
+    }
+  ],
+  "ccountries": []
+}

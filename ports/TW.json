@@ -1,0 +1,77 @@
+{
+  "title": "Taiwan",
+  "ckey": "taiwan",
+  "cports": [
+    {
+      "name": "An-Ping",
+      "t": null,
+      "ckey": "an_ping_tw",
+      "lat": "22.962873314472",
+      "lng": "120.16853942871"
+    },
+    {
+      "name": "Hualien",
+      "t": false,
+      "ckey": "hualien_tw",
+      "lat": "23.9946004052874",
+      "lng": "121.610412597656"
+    },
+    {
+      "name": "Kaohsiung",
+      "t": true,
+      "ckey": "kaohsiung_tw",
+      "lat": "22.642017334437032",
+      "lng": "120.2719678116758"
+    },
+    {
+      "name": "Keelung",
+      "t": true,
+      "ckey": "keelung_tw",
+      "lat": "25.1481622950363",
+      "lng": "121.739501953125"
+    },
+    {
+      "name": "Mailiao",
+      "t": false,
+      "ckey": "mailiao_tw",
+      "lat": "23.768643377652296",
+      "lng": "120.1849375412715"
+    },
+    {
+      "name": "Ma-Kung",
+      "t": null,
+      "ckey": "ma_kung_tw",
+      "lat": "23.569184778414996",
+      "lng": "119.57471478044421"
+    },
+    {
+      "name": "Su-Ao",
+      "t": null,
+      "ckey": "su_ao_tw",
+      "lat": "24.5833333333",
+      "lng": "121.85"
+    },
+    {
+      "name": "Taichung",
+      "t": true,
+      "ckey": "taichung_tw",
+      "lat": "24.275236516693",
+      "lng": "120.53512573242"
+    },
+    {
+      "name": "Taipei",
+      "t": true,
+      "ckey": "taipei_tw",
+      "lat": "25.02",
+      "lng": "121.31"
+    },
+    {
+      "name": "Taoyuan",
+      "t": true,
+      "ckey": "taoyuan_tw",
+      "lat": "25.11656997236",
+      "lng": "121.24130461337"
+    }
+  ],
+  "ccountries": []
+}

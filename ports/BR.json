@@ -1,0 +1,442 @@
+{
+  "title": "Brazil",
+  "ckey": "brazil",
+  "cports": [
+    {
+      "name": "Alumar",
+      "t": null,
+      "ckey": "alumar_br",
+      "lat": "-2.6970510982715097",
+      "lng": "-44.36941428240141"
+    },
+    {
+      "name": "Angra dos Reis",
+      "t": null,
+      "ckey": "angra_dos_reis_br",
+      "lat": "-23",
+      "lng": "-44.3166666667"
+    },
+    {
+      "name": "Aracaju",
+      "t": null,
+      "ckey": "aracaju_br",
+      "lat": "-10.908576231923758",
+      "lng": "-37.02528069810188"
+    },
+    {
+      "name": "Aracati",
+      "t": null,
+      "ckey": "aracati_br",
+      "lat": "-4.34",
+      "lng": "-37.46"
+    },
+    {
+      "name": "Aratu",
+      "t": false,
+      "ckey": "aratu_br",
+      "lat": "-12.784290465755477",
+      "lng": "-38.50021223804195"
+    },
+    {
+      "name": "Areia Branca",
+      "t": null,
+      "ckey": "areia_branca_br",
+      "lat": "-4.57",
+      "lng": "-37.08"
+    },
+    {
+      "name": "Barao De Teffe",
+      "t": null,
+      "ckey": "barao_de_teffe_br",
+      "lat": "-25.43085358199223",
+      "lng": "-48.70926866970332"
+    },
+    {
+      "name": "Belem",
+      "t": false,
+      "ckey": "belem_br",
+      "lat": "-1.333932209643788",
+      "lng": "-48.46893480337808"
+    },
+    {
+      "name": "Cabedello",
+      "t": null,
+      "ckey": "cabedello_br",
+      "lat": "-6.950000079564884",
+      "lng": "-34.88277329887394"
+    },
+    {
+      "name": "Canoas",
+      "t": true,
+      "ckey": "canoas_br",
+      "lat": "8.53402778",
+      "lng": "82.83833333"
+    },
+    {
+      "name": "Carmopolis",
+      "t": null,
+      "ckey": "carmopolis_br",
+      "lat": "-11.071564182314127",
+      "lng": "-37.11554506307819"
+    },
+    {
+      "name": "Corumba",
+      "t": null,
+      "ckey": "corumba_br",
+      "lat": "-19",
+      "lng": "-57.6166666667"
+    },
+    {
+      "name": "Dow Quimica Terminal",
+      "t": null,
+      "ckey": "dow_quimica_terminal_br",
+      "lat": "-12.778646168180106",
+      "lng": "-38.47284708513229"
+    },
+    {
+      "name": "Forno",
+      "t": null,
+      "ckey": "forno_br",
+      "lat": "-22.95149320573031",
+      "lng": "-42.057678701202654"
+    },
+    {
+      "name": "Fortaleza",
+      "t": true,
+      "ckey": "fortaleza_br",
+      "lat": "-3.73094216279063",
+      "lng": "-38.6141967773438"
+    },
+    {
+      "name": "Gebig",
+      "t": null,
+      "ckey": "gebig_br",
+      "lat": "-23.024724786463892",
+      "lng": "-44.189199741150624"
+    },
+    {
+      "name": "Guamare Oil Terminal",
+      "t": null,
+      "ckey": "guamare_oil_terminal_br",
+      "lat": "-5.104715192259219",
+      "lng": "-36.35824100866385"
+    },
+    {
+      "name": "Ilheus",
+      "t": null,
+      "ckey": "ilheus_br",
+      "lat": "-14.789377873977344",
+      "lng": "-39.0484407868676"
+    },
+    {
+      "name": "Imbituba",
+      "t": true,
+      "ckey": "imbituba_br",
+      "lat": "-28.23562466088107",
+      "lng": "-48.65875259060191"
+    },
+    {
+      "name": "Itajai",
+      "t": true,
+      "ckey": "itajai_br",
+      "lat": "-26.9",
+      "lng": "-48.65"
+    },
+    {
+      "name": "Itapoa",
+      "t": true,
+      "ckey": "itapoa_br",
+      "lat": "-26.184",
+      "lng": "-48.6026"
+    },
+    {
+      "name": "Itaqui",
+      "t": true,
+      "ckey": "itaqui_br",
+      "lat": "-2.569614282511058",
+      "lng": "-44.3419466766542"
+    },
+    {
+      "name": "Joao Pessoa",
+      "t": null,
+      "ckey": "joao_pessoa_br",
+      "lat": "-7.07",
+      "lng": "-34.52"
+    },
+    {
+      "name": "Laguna",
+      "t": null,
+      "ckey": "laguna_br",
+      "lat": "-28.332111328191253",
+      "lng": "-48.839452075283766"
+    },
+    {
+      "name": "Macapa",
+      "t": false,
+      "ckey": "macapa_br",
+      "lat": "0.077502266295786",
+      "lng": "-51.036300659179"
+    },
+    {
+      "name": "Maceio",
+      "t": false,
+      "ckey": "maceio_br",
+      "lat": "-9.680626039918648",
+      "lng": "-35.788265137520874"
+    },
+    {
+      "name": "Manaus",
+      "t": true,
+      "ckey": "manaus_br",
+      "lat": "-3.1439603738182",
+      "lng": "-60.008583068848"
+    },
+    {
+      "name": "Munguba",
+      "t": null,
+      "ckey": "munguba_br",
+      "lat": "-0.916666666667",
+      "lng": "-52.4166666667"
+    },
+    {
+      "name": "Natal",
+      "t": true,
+      "ckey": "natal_br",
+      "lat": "-5.76666666667",
+      "lng": "-35.2"
+    },
+    {
+      "name": "Navegantes",
+      "t": true,
+      "ckey": "navegantes_br",
+      "lat": "-30.001831325523618",
+      "lng": "-51.2067239246239"
+    },
+    {
+      "name": "Niteroi",
+      "t": null,
+      "ckey": "niteroi_br",
+      "lat": "-22.8833333333",
+      "lng": "-43.1166666667"
+    },
+    {
+      "name": "Obidos",
+      "t": null,
+      "ckey": "obidos_br",
+      "lat": "-1.8913726129674",
+      "lng": "-55.5166666667"
+    },
+    {
+      "name": "Paranagua",
+      "t": true,
+      "ckey": "paranagua_br",
+      "lat": "-25.554053119146335",
+      "lng": "-48.507385353310674"
+    },
+    {
+      "name": "Pecem",
+      "t": true,
+      "ckey": "pecem_br",
+      "lat": "-3.5714715526104057",
+      "lng": "-38.84523241377597"
+    },
+    {
+      "name": "Pelotas",
+      "t": null,
+      "ckey": "pelotas_br",
+      "lat": "-31.7833333333",
+      "lng": "-52.3166666667"
+    },
+    {
+      "name": "Ponta Ubu",
+      "t": null,
+      "ckey": "ponta_ubu_br",
+      "lat": "-20.7833333333",
+      "lng": "-40.5833333333"
+    },
+    {
+      "name": "Porto Abc Norte",
+      "t": null,
+      "ckey": "porto_abc_norte_br",
+      "lat": "-2.8",
+      "lng": "-50.5"
+    },
+    {
+      "name": "Porto Alegre",
+      "t": true,
+      "ckey": "porto_alegre_br",
+      "lat": "-30.05202297063946",
+      "lng": "-51.23130919054136"
+    },
+    {
+      "name": "Portocel",
+      "t": null,
+      "ckey": "portocel_br",
+      "lat": "-19.847416407222344",
+      "lng": "-40.063731331517076"
+    },
+    {
+      "name": "Porto-Ilha",
+      "t": null,
+      "ckey": "porto_ilha_br",
+      "lat": "-4.949999881614206",
+      "lng": "-37.16648119881356"
+    },
+    {
+      "name": "Praia Mole",
+      "t": null,
+      "ckey": "praia_mole_br",
+      "lat": "-20.268036531784652",
+      "lng": "-40.28707851737649"
+    },
+    {
+      "name": "Recife",
+      "t": true,
+      "ckey": "recife_br",
+      "lat": "-8.033682162147338",
+      "lng": "-34.87490492095009"
+    },
+    {
+      "name": "Regencia",
+      "t": null,
+      "ckey": "regencia_br",
+      "lat": "-19.649709751507153",
+      "lng": "-39.84844035378369"
+    },
+    {
+      "name": "Rio De Jan Eiro",
+      "t": true,
+      "ckey": "rio_de_jan_eiro_br",
+      "lat": "-22.9",
+      "lng": "-43.2"
+    },
+    {
+      "name": "Rio Grande",
+      "t": true,
+      "ckey": "rio_grande_br",
+      "lat": "-32.0467370341335",
+      "lng": "-52.086181640625"
+    },
+    {
+      "name": "Salvador",
+      "t": true,
+      "ckey": "salvador_br",
+      "lat": "-12.9711315814015",
+      "lng": "-38.5015869140625"
+    },
+    {
+      "name": "Santa Clara",
+      "t": null,
+      "ckey": "santa_clara_br",
+      "lat": "-29.949990189723223",
+      "lng": "-51.35293436909178"
+    },
+    {
+      "name": "Santana",
+      "t": false,
+      "ckey": "santana_br",
+      "lat": "-0.056471566074065",
+      "lng": "-51.164016723633"
+    },
+    {
+      "name": "Santarem",
+      "t": null,
+      "ckey": "santarem_br",
+      "lat": "-2.43333333333",
+      "lng": "-54.7"
+    },
+    {
+      "name": "Santos",
+      "t": true,
+      "ckey": "santos_br",
+      "lat": "-23.973772741447995",
+      "lng": "-46.32078566789571"
+    },
+    {
+      "name": "Sao Francisco",
+      "t": true,
+      "ckey": "sao_francisco_br",
+      "lat": "-26.270282123439504",
+      "lng": "-48.526530373554216"
+    },
+    {
+      "name": "Sao Sebastiao",
+      "t": true,
+      "ckey": "sao_sebastiao_br",
+      "lat": "-23.800000776131824",
+      "lng": "-45.42178592405488"
+    },
+    {
+      "name": "Sepetiba",
+      "t": true,
+      "ckey": "sepetiba_br",
+      "lat": "-22.920685637478968",
+      "lng": "-43.83058748896828"
+    },
+    {
+      "name": "Suape",
+      "t": true,
+      "ckey": "suape_br",
+      "lat": "-8.408151552261518",
+      "lng": "-34.982958513619685"
+    },
+    {
+      "name": "Tramandai",
+      "t": null,
+      "ckey": "tramandai_br",
+      "lat": "-30.021406647684877",
+      "lng": "-50.14706788622061"
+    },
+    {
+      "name": "Trombetas",
+      "t": null,
+      "ckey": "trombetas_br",
+      "lat": "-1.46666666667",
+      "lng": "-56.3833333333"
+    },
+    {
+      "name": "Tubarao",
+      "t": null,
+      "ckey": "tubarao_br",
+      "lat": "-20.27946856090796",
+      "lng": "-40.2445059482798"
+    },
+    {
+      "name": "Usiba",
+      "t": null,
+      "ckey": "usiba_br",
+      "lat": "-12.823361709128887",
+      "lng": "-38.47802778361774"
+    },
+    {
+      "name": "Vila do Conde",
+      "t": true,
+      "ckey": "vila_do_conde_br",
+      "lat": "-1.552552477710733",
+      "lng": "-48.73351925635146"
+    },
+    {
+      "name": "Vitoria",
+      "t": true,
+      "ckey": "vitoria_br",
+      "lat": "-20.343785037227388",
+      "lng": "-40.293509140480054"
+    }
+  ],
+  "ccountries": [
+    { "name": "Argentina", "code": "AR", "link": "/maritime/argentina" },
+    { "name": "Bolivia", "code": "BO", "link": "/maritime/bolivia" },
+    { "name": "Colombia", "code": "CO", "link": "/maritime/colombia" },
+    {
+      "name": "French Guiana",
+      "code": "GF",
+      "link": "/maritime/french_guiana"
+    },
+    { "name": "Guyana", "code": "GY", "link": "/maritime/guyana" },
+    { "name": "Paraguay", "code": "PY", "link": "/maritime/paraguay" },
+    { "name": "Peru", "code": "PE", "link": "/maritime/peru" },
+    { "name": "Suriname", "code": "SR", "link": "/maritime/suriname" },
+    { "name": "Uruguay", "code": "UY", "link": "/maritime/uruguay" },
+    { "name": "Venezuela", "code": "VE", "link": "/maritime/venezuela" }
+  ]
+}

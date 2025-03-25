@@ -1,0 +1,20 @@
+{
+  "title": "Mali",
+  "ckey": "mali",
+  "cports": [
+    {
+      "name": "Tombouctou",
+      "t": null,
+      "ckey": "tombouctou_ml",
+      "lat": "16.43",
+      "lng": "-3"
+    }
+  ],
+  "ccountries": [
+    { "name": "Algeria", "code": "DZ", "link": "/maritime/algeria" },
+    { "name": "Guinea", "code": "GN", "link": "/maritime/guinea" },
+    { "name": "Ivory Coast", "code": "CI", "link": "/maritime/ivory_coast" },
+    { "name": "Mauritania", "code": "MR", "link": "/maritime/mauritania" },
+    { "name": "Senegal", "code": "SN", "link": "/maritime/senegal" }
+  ]
+}

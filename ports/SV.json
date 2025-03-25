@@ -1,0 +1,31 @@
+{
+  "title": "El Salvador",
+  "ckey": "el_salvador",
+  "cports": [
+    {
+      "name": "Acajutla",
+      "t": true,
+      "ckey": "acajutla_sv",
+      "lat": "13.569944074093595",
+      "lng": "-89.83039524700841"
+    },
+    {
+      "name": "Cutuco",
+      "t": null,
+      "ckey": "cutuco_sv",
+      "lat": "13.330660349353245",
+      "lng": "-87.83333672615589"
+    },
+    {
+      "name": "La Libertad",
+      "t": null,
+      "ckey": "la_libertad_sv",
+      "lat": "13.29",
+      "lng": "-89.19"
+    }
+  ],
+  "ccountries": [
+    { "name": "Guatemala", "code": "GT", "link": "/maritime/guatemala" },
+    { "name": "Honduras", "code": "HN", "link": "/maritime/honduras" }
+  ]
+}

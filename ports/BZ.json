@@ -1,0 +1,24 @@
+{
+  "title": "Belize",
+  "ckey": "belize",
+  "cports": [
+    {
+      "name": "Belize",
+      "t": true,
+      "ckey": "belize_bz",
+      "lat": "17.5038602694019",
+      "lng": "-88.1900024414064"
+    },
+    {
+      "name": "Belize City",
+      "t": true,
+      "ckey": "belize_city_bz",
+      "lat": "17.499999917799435",
+      "lng": "-88.20000177136968"
+    }
+  ],
+  "ccountries": [
+    { "name": "Guatemala", "code": "GT", "link": "/maritime/guatemala" },
+    { "name": "Mexico", "code": "MX", "link": "/maritime/mexico" }
+  ]
+}

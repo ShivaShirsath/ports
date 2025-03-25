@@ -1,0 +1,21 @@
+{
+  "title": "Grenada",
+  "ckey": "grenada",
+  "cports": [
+    {
+      "name": "St. George",
+      "t": true,
+      "ckey": "st_george_gd",
+      "lat": "11.8977777778",
+      "lng": "-61.8286111110997"
+    },
+    {
+      "name": "St George's",
+      "t": null,
+      "ckey": "st_georges_gd",
+      "lat": "12.05",
+      "lng": "-61.75"
+    }
+  ],
+  "ccountries": []
+}

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# ready country code from user
+read -p "Enter country code: " country_code
+
+mkdir -p ports
+
+curl 'https://www.searates.com/maritime/ports-map' \
+  -H 'accept: application/json' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://www.searates.com' \
+  -H 'referer: https://www.searates.com/maritime' \
+  -H 'user-agent: Mozilla/5.0' \
+  --data-raw "c=$country_code" > 'ports/'$country_code.json

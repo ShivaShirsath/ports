@@ -1,0 +1,49 @@
+{
+  "title": "U.S. Virgin Islands",
+  "ckey": "us_virgin_islands",
+  "cports": [
+    {
+      "name": "Charlotte Amalie",
+      "t": true,
+      "ckey": "charlotte_amalie_vi",
+      "lat": "18.3414809310923",
+      "lng": "-64.93058545789009"
+    },
+    {
+      "name": "Christiansted, St. Croix",
+      "t": true,
+      "ckey": "christiansted_st_croix_vi",
+      "lat": "17.746795143079506",
+      "lng": "-64.7072997437332"
+    },
+    {
+      "name": "Limetree Bay",
+      "t": null,
+      "ckey": "limetree_bay_vi",
+      "lat": "17.70557495143848",
+      "lng": "-64.73264657574312"
+    },
+    {
+      "name": "Port Alucroix",
+      "t": null,
+      "ckey": "port_alucroix_vi",
+      "lat": "17.42",
+      "lng": "-64.46"
+    },
+    {
+      "name": "Saint John",
+      "t": true,
+      "ckey": "saint_john_vi",
+      "lat": "18.3345",
+      "lng": "-64.8485"
+    },
+    {
+      "name": "Third Port",
+      "t": null,
+      "ckey": "third_port_vi",
+      "lat": "17.693132054318006",
+      "lng": "-64.76563638943428"
+    }
+  ],
+  "ccountries": []
+}

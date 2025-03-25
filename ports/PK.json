@@ -1,0 +1,75 @@
+{
+  "title": "Pakistan",
+  "ckey": "pakistan",
+  "cports": [
+    {
+      "name": "Faisalabad",
+      "t": true,
+      "ckey": "faisalabad_pk",
+      "lat": "31.49046825451",
+      "lng": "73.140958469178"
+    },
+    {
+      "name": "Gwadar",
+      "t": true,
+      "ckey": "gwadar_pk",
+      "lat": "25.199713150289828",
+      "lng": "62.35000338567587"
+    },
+    {
+      "name": "Islamabad",
+      "t": true,
+      "ckey": "islamabad_pk",
+      "lat": "33.664486",
+      "lng": "73.049084"
+    },
+    {
+      "name": "Karachi",
+      "t": true,
+      "ckey": "karachi_pk",
+      "lat": "24.876482985555437",
+      "lng": "66.93370918672558"
+    },
+    {
+      "name": "Keti Bandar",
+      "t": null,
+      "ckey": "keti_bandar_pk",
+      "lat": "24.025089660229593",
+      "lng": "67.44175914775863"
+    },
+    {
+      "name": "Lahore",
+      "t": true,
+      "ckey": "lahore_pk",
+      "lat": "31.579057734786",
+      "lng": "74.286804199219"
+    },
+    {
+      "name": "Port Qasim",
+      "t": true,
+      "ckey": "port_qasim_pk",
+      "lat": "24.817782632281055",
+      "lng": "67.20649328179755"
+    },
+    {
+      "name": "Sialkot",
+      "t": true,
+      "ckey": "sialkot_pk",
+      "lat": "32.477689",
+      "lng": "74.373893"
+    },
+    {
+      "name": "Sialkot",
+      "t": null,
+      "ckey": "sialkot_pk",
+      "lat": "32.3",
+      "lng": "74.31"
+    }
+  ],
+  "ccountries": [
+    { "name": "Afghanistan", "code": "AF", "link": "/maritime/afghanistan" },
+    { "name": "China", "code": "CN", "link": "/maritime/china" },
+    { "name": "India", "code": "IN", "link": "/maritime/india" },
+    { "name": "Iran", "code": "IR", "link": "/maritime/iran" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Northern Mariana Islands",
+  "ckey": "northern_mariana_islands",
+  "cports": [
+    {
+      "name": "Saipan",
+      "t": true,
+      "ckey": "saipan_mp",
+      "lat": "15.225909242194",
+      "lng": "145.73540028658"
+    }
+  ],
+  "ccountries": []
+}

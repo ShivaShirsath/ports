@@ -1,0 +1,14 @@
+{
+  "title": "American Samoa",
+  "ckey": "american_samoa",
+  "cports": [
+    {
+      "name": "Pago Pago",
+      "t": true,
+      "ckey": "pago_pago_as",
+      "lat": "-14.26666666",
+      "lng": "-170.68333333"
+    }
+  ],
+  "ccountries": []
+}

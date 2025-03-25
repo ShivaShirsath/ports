@@ -1,0 +1,25 @@
+{
+  "title": "Eritrea",
+  "ckey": "eritrea",
+  "cports": [
+    {
+      "name": "Assab",
+      "t": null,
+      "ckey": "assab_er",
+      "lat": "13.0166666667",
+      "lng": "42.7333333333"
+    },
+    {
+      "name": "Massawa",
+      "t": true,
+      "ckey": "massawa_er",
+      "lat": "15.6333333333",
+      "lng": "39.4666666667"
+    }
+  ],
+  "ccountries": [
+    { "name": "Djibouti", "code": "DJ", "link": "/maritime/djibouti" },
+    { "name": "Ethiopia", "code": "ET", "link": "/maritime/ethiopia" },
+    { "name": "Sudan", "code": "SD", "link": "/maritime/sudan" }
+  ]
+}

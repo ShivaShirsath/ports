@@ -1,0 +1,230 @@
+{
+  "title": "Peru",
+  "ckey": "peru",
+  "cports": [
+    {
+      "name": "Ancon",
+      "t": null,
+      "ckey": "ancon_pe",
+      "lat": "-11.785487997762417",
+      "lng": "-77.16960143163594"
+    },
+    {
+      "name": "Atico",
+      "t": true,
+      "ckey": "atico_pe",
+      "lat": "-16.4",
+      "lng": "-73.1833333333"
+    },
+    {
+      "name": "Bayovar",
+      "t": null,
+      "ckey": "bayovar_pe",
+      "lat": "-5.829785449546146",
+      "lng": "-81.06373133408115"
+    },
+    {
+      "name": "Cabo Blanco",
+      "t": null,
+      "ckey": "cabo_blanco_pe",
+      "lat": "-4.266666775911109",
+      "lng": "-81.23077727061215"
+    },
+    {
+      "name": "Callao",
+      "t": true,
+      "ckey": "callao_pe",
+      "lat": "-12.053688182127662",
+      "lng": "-77.1212778432581"
+    },
+    {
+      "name": "Cerro Azul",
+      "t": null,
+      "ckey": "cerro_azul_pe",
+      "lat": "-13.01",
+      "lng": "-76.29"
+    },
+    {
+      "name": "Chancay",
+      "t": null,
+      "ckey": "chancay_pe",
+      "lat": "-11.602167427986567",
+      "lng": "-77.26135819294589"
+    },
+    {
+      "name": "Chimbote",
+      "t": null,
+      "ckey": "chimbote_pe",
+      "lat": "-9.067059901492648",
+      "lng": "-78.61117432766966"
+    },
+    {
+      "name": "Coishco",
+      "t": null,
+      "ckey": "coishco_pe",
+      "lat": "-9.000390425004154",
+      "lng": "-78.62802440435208"
+    },
+    {
+      "name": "Conchan",
+      "t": null,
+      "ckey": "conchan_pe",
+      "lat": "-12.190829842925055",
+      "lng": "-77.01648225082259"
+    },
+    {
+      "name": "Eten",
+      "t": null,
+      "ckey": "eten_pe",
+      "lat": "-6.932719274077928",
+      "lng": "-79.85493128496147"
+    },
+    {
+      "name": "General San Martin",
+      "t": null,
+      "ckey": "general_san_martin_pe",
+      "lat": "-13.805334591007036",
+      "lng": "-76.31903797429425"
+    },
+    {
+      "name": "Huacho",
+      "t": null,
+      "ckey": "huacho_pe",
+      "lat": "-11.111276609695873",
+      "lng": "-77.60293595333822"
+    },
+    {
+      "name": "Ilo",
+      "t": true,
+      "ckey": "ilo_pe",
+      "lat": "-17.61803583194101",
+      "lng": "-71.32323953986099"
+    },
+    {
+      "name": "Iquitos",
+      "t": null,
+      "ckey": "iquitos_pe",
+      "lat": "-3.71666666667",
+      "lng": "-73.1833333333"
+    },
+    {
+      "name": "La Pampilla",
+      "t": null,
+      "ckey": "la_pampilla_pe",
+      "lat": "-11.88495860396625",
+      "lng": "-77.13607886318951"
+    },
+    {
+      "name": "Lima",
+      "t": true,
+      "ckey": "lima_pe",
+      "lat": "-12.0635",
+      "lng": "-77.0361"
+    },
+    {
+      "name": "Lobitos",
+      "t": null,
+      "ckey": "lobitos_pe",
+      "lat": "-4.44178514226742",
+      "lng": "-81.26154727282307"
+    },
+    {
+      "name": "Matarani",
+      "t": true,
+      "ckey": "matarani_pe",
+      "lat": "-17.00525345772227",
+      "lng": "-72.0807758207071"
+    },
+    {
+      "name": "Pacasmayo",
+      "t": null,
+      "ckey": "pacasmayo_pe",
+      "lat": "-7.369714350288521",
+      "lng": "-79.55861718819881"
+    },
+    {
+      "name": "Paita",
+      "t": true,
+      "ckey": "paita_pe",
+      "lat": "-5.09567302876743",
+      "lng": "-81.1175537109375"
+    },
+    {
+      "name": "Paramonga",
+      "t": null,
+      "ckey": "paramonga_pe",
+      "lat": "-10.672536847039165",
+      "lng": "-77.81866747827307"
+    },
+    {
+      "name": "Pimentel",
+      "t": null,
+      "ckey": "pimentel_pe",
+      "lat": "-6.81666666667",
+      "lng": "-79.9333333333"
+    },
+    {
+      "name": "Puerto Chicama",
+      "t": null,
+      "ckey": "puerto_chicama_pe",
+      "lat": "-7.710887421972535",
+      "lng": "-79.42253249917547"
+    },
+    {
+      "name": "Salaverry",
+      "t": false,
+      "ckey": "salaverry_pe",
+      "lat": "-8.165013893281989",
+      "lng": "-79.01080186581794"
+    },
+    {
+      "name": "Samanco",
+      "t": null,
+      "ckey": "samanco_pe",
+      "lat": "-9.271285118996968",
+      "lng": "-78.5082365466884"
+    },
+    {
+      "name": "San Juan",
+      "t": false,
+      "ckey": "san_juan_pe",
+      "lat": "-15.364018764323442",
+      "lng": "-75.16429204226604"
+    },
+    {
+      "name": "San Nicolas",
+      "t": null,
+      "ckey": "san_nicolas_pe",
+      "lat": "-15.228799801777408",
+      "lng": "-75.20861313979026"
+    },
+    {
+      "name": "Supe",
+      "t": null,
+      "ckey": "supe_pe",
+      "lat": "-10.775238986494061",
+      "lng": "-77.7335223400797"
+    },
+    {
+      "name": "Talara",
+      "t": null,
+      "ckey": "talara_pe",
+      "lat": "-4.56940466558817",
+      "lng": "-81.2696000658545"
+    },
+    {
+      "name": "Tierra Colorada",
+      "t": null,
+      "ckey": "tierra_colorada_pe",
+      "lat": "-5.061446797640834",
+      "lng": "-81.05405978621641"
+    }
+  ],
+  "ccountries": [
+    { "name": "Bolivia", "code": "BO", "link": "/maritime/bolivia" },
+    { "name": "Brazil", "code": "BR", "link": "/maritime/brazil" },
+    { "name": "Chile", "code": "CL", "link": "/maritime/chile" },
+    { "name": "Colombia", "code": "CO", "link": "/maritime/colombia" },
+    { "name": "Ecuador", "code": "EC", "link": "/maritime/ecuador" }
+  ]
+}

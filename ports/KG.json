@@ -1,0 +1,19 @@
+{
+  "title": "Kyrgyzstan",
+  "ckey": "kyrgyzstan",
+  "cports": [
+    {
+      "name": "Osh",
+      "t": true,
+      "ckey": "osh_kg",
+      "lat": "40.5139985",
+      "lng": "72.8160976"
+    }
+  ],
+  "ccountries": [
+    { "name": "China", "code": "CN", "link": "/maritime/china" },
+    { "name": "Kazakhstan", "code": "KZ", "link": "/maritime/kazakhstan" },
+    { "name": "Tajikistan", "code": "TJ", "link": "/maritime/tajikistan" },
+    { "name": "Uzbekistan", "code": "UZ", "link": "/maritime/uzbekistan" }
+  ]
+}

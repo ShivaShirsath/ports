@@ -1,0 +1,14 @@
+{
+  "title": "Sint Maarten",
+  "ckey": "sint_maarten",
+  "cports": [
+    {
+      "name": "Philipsburg",
+      "t": true,
+      "ckey": "philipsburg_sx",
+      "lat": "18.013",
+      "lng": "-63.04681"
+    }
+  ],
+  "ccountries": []
+}

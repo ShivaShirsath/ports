@@ -1,0 +1,66 @@
+{
+  "title": "Lebanon",
+  "ckey": "lebanon",
+  "cports": [
+    {
+      "name": "Beirut",
+      "t": true,
+      "ckey": "beirut_lb",
+      "lat": "33.89087956722635",
+      "lng": "35.486268323368755"
+    },
+    {
+      "name": "Chekka",
+      "t": null,
+      "ckey": "chekka_lb",
+      "lat": "34.18874753202519",
+      "lng": "35.646692391499435"
+    },
+    {
+      "name": "Jounieh",
+      "t": null,
+      "ckey": "jounieh_lb",
+      "lat": "33.98333300783164",
+      "lng": "35.65823882629134"
+    },
+    {
+      "name": "Selaata",
+      "t": null,
+      "ckey": "selaata_lb",
+      "lat": "34.28333199165153",
+      "lng": "35.674907902960754"
+    },
+    {
+      "name": "Sidon",
+      "t": null,
+      "ckey": "sidon_lb",
+      "lat": "33.568955676170724",
+      "lng": "35.391386750513526"
+    },
+    {
+      "name": "Tripoli",
+      "t": true,
+      "ckey": "tripoli_lb",
+      "lat": "34.43722298384108",
+      "lng": "35.83314631055703"
+    },
+    {
+      "name": "Tyr",
+      "t": null,
+      "ckey": "tyr_lb",
+      "lat": "33.268963522540005",
+      "lng": "35.22197415343511"
+    },
+    {
+      "name": "Zahrani Terminal",
+      "t": null,
+      "ckey": "zahrani_terminal_lb",
+      "lat": "33.49898380321853",
+      "lng": "35.34962697392807"
+    }
+  ],
+  "ccountries": [
+    { "name": "Israel", "code": "IL", "link": "/maritime/israel" },
+    { "name": "Syria", "code": "SY", "link": "/maritime/syria" }
+  ]
+}

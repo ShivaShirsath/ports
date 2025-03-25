@@ -1,0 +1,54 @@
+{
+  "title": "Israel",
+  "ckey": "israel",
+  "cports": [
+    {
+      "name": "Ashdod",
+      "t": true,
+      "ckey": "ashdod_il",
+      "lat": "31.816667229509367",
+      "lng": "34.66629386822497"
+    },
+    {
+      "name": "Ashkelon",
+      "t": null,
+      "ckey": "ashkelon_il",
+      "lat": "31.66878680378942",
+      "lng": "34.54845602956933"
+    },
+    {
+      "name": "Hadera",
+      "t": null,
+      "ckey": "hadera_il",
+      "lat": "32.44826165224961",
+      "lng": "34.883709034790236"
+    },
+    {
+      "name": "Haifa",
+      "t": true,
+      "ckey": "haifa_il",
+      "lat": "32.79691548862209",
+      "lng": "34.9890134763189"
+    },
+    {
+      "name": "Jaffa",
+      "t": null,
+      "ckey": "jaffa_il",
+      "lat": "32.17636889686433",
+      "lng": "34.82215878508466"
+    },
+    {
+      "name": "Tel-Aviv",
+      "t": false,
+      "ckey": "tel_aviv_il",
+      "lat": "32.038337603927545",
+      "lng": "34.76623661125518"
+    }
+  ],
+  "ccountries": [
+    { "name": "Egypt", "code": "EG", "link": "/maritime/egypt" },
+    { "name": "Jordan", "code": "JO", "link": "/maritime/jordan" },
+    { "name": "Lebanon", "code": "LB", "link": "/maritime/lebanon" },
+    { "name": "Syria", "code": "SY", "link": "/maritime/syria" }
+  ]
+}

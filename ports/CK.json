@@ -1,0 +1,21 @@
+{
+  "title": "Cook Islands",
+  "ckey": "cook_islands",
+  "cports": [
+    {
+      "name": "Aitutaki",
+      "t": true,
+      "ckey": "aitutaki_ck",
+      "lat": "-18.86949",
+      "lng": "-159.7882"
+    },
+    {
+      "name": "Avatiu",
+      "t": true,
+      "ckey": "avatiu_ck",
+      "lat": "-21.2",
+      "lng": "-159.783333333"
+    }
+  ],
+  "ccountries": []
+}

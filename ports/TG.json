@@ -1,0 +1,24 @@
+{
+  "title": "Togo",
+  "ckey": "togo",
+  "cports": [
+    {
+      "name": "Kpeme",
+      "t": null,
+      "ckey": "kpeme_tg",
+      "lat": "6.204095610875301",
+      "lng": "1.4809300468569213"
+    },
+    {
+      "name": "Lome",
+      "t": true,
+      "ckey": "lome_tg",
+      "lat": "6.116888182439401",
+      "lng": "1.2100804961456524"
+    }
+  ],
+  "ccountries": [
+    { "name": "Benin", "code": "BJ", "link": "/maritime/benin" },
+    { "name": "Ghana", "code": "GH", "link": "/maritime/ghana" }
+  ]
+}

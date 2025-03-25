@@ -1,0 +1,1253 @@
+{
+  "title": "Japan",
+  "ckey": "japan",
+  "cports": [
+    {
+      "name": "Abashiri",
+      "t": null,
+      "ckey": "abashiri_jp",
+      "lat": "44.0166666667",
+      "lng": "144.283333333"
+    },
+    {
+      "name": "Aboshi",
+      "t": null,
+      "ckey": "aboshi_jp",
+      "lat": "34.758463855979706",
+      "lng": "134.57147427309607"
+    },
+    {
+      "name": "Aburatsu",
+      "t": false,
+      "ckey": "aburatsu_jp",
+      "lat": "31.5833333333",
+      "lng": "131.4"
+    },
+    {
+      "name": "Ainoura",
+      "t": null,
+      "ckey": "ainoura_jp",
+      "lat": "32.74769031527381",
+      "lng": "129.85686789660306"
+    },
+    {
+      "name": "Aioi",
+      "t": null,
+      "ckey": "aioi_jp",
+      "lat": "34.7666666667",
+      "lng": "134.433333333"
+    },
+    {
+      "name": "Akita",
+      "t": true,
+      "ckey": "akita_jp",
+      "lat": "39.75",
+      "lng": "140.05"
+    },
+    {
+      "name": "Amagasaki",
+      "t": null,
+      "ckey": "amagasaki_jp",
+      "lat": "34.68389868081068",
+      "lng": "135.37029221728574"
+    },
+    {
+      "name": "Aokata",
+      "t": null,
+      "ckey": "aokata_jp",
+      "lat": "32.9833333333",
+      "lng": "129.033333333"
+    },
+    {
+      "name": "Atsumi",
+      "t": null,
+      "ckey": "atsumi_jp",
+      "lat": "34.654805490041014",
+      "lng": "137.07215679239948"
+    },
+    {
+      "name": "Chiba",
+      "t": true,
+      "ckey": "chiba_jp",
+      "lat": "35.5833333333",
+      "lng": "140.1"
+    },
+    {
+      "name": "Ena",
+      "t": null,
+      "ckey": "ena_jp",
+      "lat": "35.27",
+      "lng": "137.25"
+    },
+    {
+      "name": "Etajima",
+      "t": null,
+      "ckey": "etajima_jp",
+      "lat": "34.18617255070809",
+      "lng": "132.4709725372637"
+    },
+    {
+      "name": "Fukui",
+      "t": null,
+      "ckey": "fukui_jp",
+      "lat": "36.20751922424918",
+      "lng": "136.13408495141158"
+    },
+    {
+      "name": "Fukuyama",
+      "t": true,
+      "ckey": "fukuyama_jp",
+      "lat": "34.38536818766235",
+      "lng": "133.38183290459827"
+    },
+    {
+      "name": "Funabashi",
+      "t": null,
+      "ckey": "funabashi_jp",
+      "lat": "35.6739175255311",
+      "lng": "139.95274809371733"
+    },
+    {
+      "name": "Furukawa",
+      "t": null,
+      "ckey": "furukawa_jp",
+      "lat": "39.8666666667",
+      "lng": "139.833333333"
+    },
+    {
+      "name": "Gamagori",
+      "t": null,
+      "ckey": "gamagori_jp",
+      "lat": "34.81099484088628",
+      "lng": "137.21255816097826"
+    },
+    {
+      "name": "Hachinohe",
+      "t": true,
+      "ckey": "hachinohe_jp",
+      "lat": "40.50337353291787",
+      "lng": "141.49016903437385"
+    },
+    {
+      "name": "Hakata",
+      "t": true,
+      "ckey": "hakata_jp",
+      "lat": "33.60114294263441",
+      "lng": "130.37578468860562"
+    },
+    {
+      "name": "Hakodate",
+      "t": false,
+      "ckey": "hakodate_jp",
+      "lat": "41.793299153904385",
+      "lng": "140.77056762417797"
+    },
+    {
+      "name": "Hakui",
+      "t": null,
+      "ckey": "hakui_jp",
+      "lat": "36.873681234378864",
+      "lng": "136.77716092214663"
+    },
+    {
+      "name": "Hamanda",
+      "t": true,
+      "ckey": "hamanda_jp",
+      "lat": "34.875195",
+      "lng": "132.0501"
+    },
+    {
+      "name": "Hannan (Kishiwada)",
+      "t": null,
+      "ckey": "hannan_kishiwada_jp",
+      "lat": "34.661861075453636",
+      "lng": "135.40705229539876"
+    },
+    {
+      "name": "Hateruma",
+      "t": null,
+      "ckey": "hateruma_jp",
+      "lat": "24.03",
+      "lng": "123.47"
+    },
+    {
+      "name": "Hibi",
+      "t": false,
+      "ckey": "hibi_jp",
+      "lat": "34.45145026788222",
+      "lng": "133.93302917061828"
+    },
+    {
+      "name": "Hibikinada",
+      "t": false,
+      "ckey": "hibikinada_jp",
+      "lat": "33.934971853413366",
+      "lng": "130.83247845726933"
+    },
+    {
+      "name": "Higashiharima",
+      "t": null,
+      "ckey": "higashiharima_jp",
+      "lat": "34.74939677985652",
+      "lng": "134.7627059094781"
+    },
+    {
+      "name": "Hikari",
+      "t": null,
+      "ckey": "hikari_jp",
+      "lat": "33.95",
+      "lng": "131.933333333"
+    },
+    {
+      "name": "Hiki",
+      "t": null,
+      "ckey": "hiki_jp",
+      "lat": "34.22681559136426",
+      "lng": "135.11202910438922"
+    },
+    {
+      "name": "Himeji",
+      "t": false,
+      "ckey": "himeji_jp",
+      "lat": "34.7833333333",
+      "lng": "134.666666667"
+    },
+    {
+      "name": "Himekawa",
+      "t": null,
+      "ckey": "himekawa_jp",
+      "lat": "37.0333333333",
+      "lng": "137.85"
+    },
+    {
+      "name": "Hirao",
+      "t": null,
+      "ckey": "hirao_jp",
+      "lat": "33.90968649310598",
+      "lng": "132.05823786609818"
+    },
+    {
+      "name": "Hirara",
+      "t": false,
+      "ckey": "hirara_jp",
+      "lat": "24.8070714312877",
+      "lng": "125.305938720703"
+    },
+    {
+      "name": "Hirohata",
+      "t": null,
+      "ckey": "hirohata_jp",
+      "lat": "34.7680773472365",
+      "lng": "134.63402514551504"
+    },
+    {
+      "name": "Hiroshima",
+      "t": true,
+      "ckey": "hiroshima_jp",
+      "lat": "34.3565570040371",
+      "lng": "132.434692382812"
+    },
+    {
+      "name": "Hitachi",
+      "t": null,
+      "ckey": "hitachi_jp",
+      "lat": "36.5",
+      "lng": "140.616666667"
+    },
+    {
+      "name": "Hitachinaka",
+      "t": true,
+      "ckey": "hitachinaka_jp",
+      "lat": "35.86227706736713",
+      "lng": "140.73257811201438"
+    },
+    {
+      "name": "Hofu",
+      "t": null,
+      "ckey": "hofu_jp",
+      "lat": "34.02",
+      "lng": "131.34"
+    },
+    {
+      "name": "Hosojima",
+      "t": true,
+      "ckey": "hosojima_jp",
+      "lat": "32.4421486820086",
+      "lng": "131.668395996094"
+    },
+    {
+      "name": "Imabari",
+      "t": true,
+      "ckey": "imabari_jp",
+      "lat": "34.06592024018085",
+      "lng": "133.01425944422485"
+    },
+    {
+      "name": "Imari",
+      "t": true,
+      "ckey": "imari_jp",
+      "lat": "33.3009902795582",
+      "lng": "129.82475234712567"
+    },
+    {
+      "name": "Innoshima",
+      "t": null,
+      "ckey": "innoshima_jp",
+      "lat": "34.28248163309986",
+      "lng": "133.17852549376366"
+    },
+    {
+      "name": "Ishigaki",
+      "t": false,
+      "ckey": "ishigaki_jp",
+      "lat": "24.333333333333",
+      "lng": "124.15"
+    },
+    {
+      "name": "Ishikari",
+      "t": true,
+      "ckey": "ishikari_jp",
+      "lat": "43.2453674279827",
+      "lng": "141.355590820312"
+    },
+    {
+      "name": "Ishikariwan Shinko",
+      "t": null,
+      "ckey": "ishikariwan_shinko_jp",
+      "lat": "43.192640990299914",
+      "lng": "141.33296540043682"
+    },
+    {
+      "name": "Ishinomaki",
+      "t": null,
+      "ckey": "ishinomaki_jp",
+      "lat": "38.4153334772262",
+      "lng": "141.30533045505496"
+    },
+    {
+      "name": "Itozaki",
+      "t": null,
+      "ckey": "itozaki_jp",
+      "lat": "34.38219897988746",
+      "lng": "133.09019748741707"
+    },
+    {
+      "name": "Iwakuni",
+      "t": true,
+      "ckey": "iwakuni_jp",
+      "lat": "34.1570525021768",
+      "lng": "132.236938476562"
+    },
+    {
+      "name": "Iyomishima",
+      "t": true,
+      "ckey": "iyomishima_jp",
+      "lat": "34.261277310821555",
+      "lng": "132.9660109879279"
+    },
+    {
+      "name": "Kagoshima",
+      "t": null,
+      "ckey": "kagoshima_jp",
+      "lat": "31.562694322166",
+      "lng": "130.556030273437"
+    },
+    {
+      "name": "Kainan",
+      "t": null,
+      "ckey": "kainan_jp",
+      "lat": "34.14963103864853",
+      "lng": "135.18763929850127"
+    },
+    {
+      "name": "Kakogawa",
+      "t": null,
+      "ckey": "kakogawa_jp",
+      "lat": "34.70790338064869",
+      "lng": "134.82647255556932"
+    },
+    {
+      "name": "Kamaishi",
+      "t": null,
+      "ckey": "kamaishi_jp",
+      "lat": "39.28333440751893",
+      "lng": "141.9192278576557"
+    },
+    {
+      "name": "Kanazawa",
+      "t": true,
+      "ckey": "kanazawa_jp",
+      "lat": "36.6117992262371",
+      "lng": "136.601257324219"
+    },
+    {
+      "name": "Kanda",
+      "t": false,
+      "ckey": "kanda_jp",
+      "lat": "33.7833333333",
+      "lng": "131"
+    },
+    {
+      "name": "Kanmon",
+      "t": null,
+      "ckey": "kanmon_jp",
+      "lat": "33.54",
+      "lng": "130.55"
+    },
+    {
+      "name": "Kanmon Ko",
+      "t": null,
+      "ckey": "kanmon_ko_jp",
+      "lat": "33.89131328423864",
+      "lng": "130.8871063102511"
+    },
+    {
+      "name": "Karatsu",
+      "t": null,
+      "ckey": "karatsu_jp",
+      "lat": "33.462657442117816",
+      "lng": "129.9618615645245"
+    },
+    {
+      "name": "Kasaoka",
+      "t": null,
+      "ckey": "kasaoka_jp",
+      "lat": "34.48050247751687",
+      "lng": "133.44208883345613"
+    },
+    {
+      "name": "Kashima",
+      "t": true,
+      "ckey": "kashima_jp",
+      "lat": "35.9",
+      "lng": "140.016666667"
+    },
+    {
+      "name": "Kashiwazaki",
+      "t": null,
+      "ckey": "kashiwazaki_jp",
+      "lat": "37.3666666667",
+      "lng": "138.55"
+    },
+    {
+      "name": "Kawasaki",
+      "t": true,
+      "ckey": "kawasaki_jp",
+      "lat": "35.53892225168038",
+      "lng": "139.75240498498252"
+    },
+    {
+      "name": "Keihin",
+      "t": null,
+      "ckey": "keihin_jp",
+      "lat": "35.408831053653735",
+      "lng": "139.6699782620788"
+    },
+    {
+      "name": "Kesennuma",
+      "t": null,
+      "ckey": "kesennuma_jp",
+      "lat": "38.86265622634867",
+      "lng": "141.60600904269725"
+    },
+    {
+      "name": "Kiire",
+      "t": null,
+      "ckey": "kiire_jp",
+      "lat": "31.3833333333",
+      "lng": "130.533333333"
+    },
+    {
+      "name": "Kikuma",
+      "t": null,
+      "ckey": "kikuma_jp",
+      "lat": "34.043315729122696",
+      "lng": "132.84637339442594"
+    },
+    {
+      "name": "Kinuura",
+      "t": null,
+      "ckey": "kinuura_jp",
+      "lat": "34.870188675328194",
+      "lng": "136.9403887829316"
+    },
+    {
+      "name": "Kinwan",
+      "t": null,
+      "ckey": "kinwan_jp",
+      "lat": "26.36359104523834",
+      "lng": "127.97284217632509"
+    },
+    {
+      "name": "Kisarazu",
+      "t": null,
+      "ckey": "kisarazu_jp",
+      "lat": "35.38557425952985",
+      "lng": "139.91436243058186"
+    },
+    {
+      "name": "Kitakyushu",
+      "t": null,
+      "ckey": "kitakyushu_jp",
+      "lat": "33.92279362612324",
+      "lng": "130.83298389126793"
+    },
+    {
+      "name": "Kitakyushu-Kokura",
+      "t": false,
+      "ckey": "kitakyushu_kokura_jp",
+      "lat": "33.906838304222084",
+      "lng": "130.87627363022747"
+    },
+    {
+      "name": "Kitakyushu-Yawata",
+      "t": null,
+      "ckey": "kitakyushu_yawata_jp",
+      "lat": "33.87607513220035",
+      "lng": "130.80808102155407"
+    },
+    {
+      "name": "Kobe",
+      "t": true,
+      "ckey": "kobe_jp",
+      "lat": "34.6666666667",
+      "lng": "135.183333333"
+    },
+    {
+      "name": "Kochi",
+      "t": true,
+      "ckey": "kochi_jp",
+      "lat": "33.516667162979694",
+      "lng": "133.54802506748302"
+    },
+    {
+      "name": "Komatsujima",
+      "t": null,
+      "ckey": "komatsujima_jp",
+      "lat": "34.00284685829037",
+      "lng": "134.59450567097736"
+    },
+    {
+      "name": "Kudamatsu",
+      "t": null,
+      "ckey": "kudamatsu_jp",
+      "lat": "34.01081427395719",
+      "lng": "131.85137875689517"
+    },
+    {
+      "name": "Kumamoto",
+      "t": true,
+      "ckey": "kumamoto_jp",
+      "lat": "32.784487959427246",
+      "lng": "130.60798379962938"
+    },
+    {
+      "name": "Kushiro",
+      "t": true,
+      "ckey": "kushiro_jp",
+      "lat": "43.00346524085807",
+      "lng": "144.42077098079454"
+    },
+    {
+      "name": "Maizuru",
+      "t": true,
+      "ckey": "maizuru_jp",
+      "lat": "35.4666666667",
+      "lng": "135.35"
+    },
+    {
+      "name": "Marugame",
+      "t": null,
+      "ckey": "marugame_jp",
+      "lat": "34.3015583514517",
+      "lng": "133.78658991481322"
+    },
+    {
+      "name": "Mategata",
+      "t": null,
+      "ckey": "mategata_jp",
+      "lat": "34.10341114853505",
+      "lng": "132.92971536267845"
+    },
+    {
+      "name": "Matsunaga",
+      "t": null,
+      "ckey": "matsunaga_jp",
+      "lat": "34.42459737916032",
+      "lng": "133.252742329285"
+    },
+    {
+      "name": "Matsushima",
+      "t": null,
+      "ckey": "matsushima_jp",
+      "lat": "32.9333333333",
+      "lng": "129.6"
+    },
+    {
+      "name": "Matsuyama",
+      "t": true,
+      "ckey": "matsuyama_jp",
+      "lat": "33.86609622582296",
+      "lng": "132.71217383761353"
+    },
+    {
+      "name": "Minamata",
+      "t": null,
+      "ckey": "minamata_jp",
+      "lat": "32.20000135139258",
+      "lng": "130.38276514193737"
+    },
+    {
+      "name": "Mishima-Kawanoe",
+      "t": null,
+      "ckey": "mishima_kawanoe_jp",
+      "lat": "34.00398408478718",
+      "lng": "133.54394061435934"
+    },
+    {
+      "name": "Misumi",
+      "t": null,
+      "ckey": "misumi_jp",
+      "lat": "32.6166666667",
+      "lng": "130.45"
+    },
+    {
+      "name": "Mitajiri",
+      "t": null,
+      "ckey": "mitajiri_jp",
+      "lat": "34.02861716202883",
+      "lng": "131.58352605840395"
+    },
+    {
+      "name": "Mitsukoshima",
+      "t": null,
+      "ckey": "mitsukoshima_jp",
+      "lat": "34.1833333333",
+      "lng": "132.516666667"
+    },
+    {
+      "name": "Miyako",
+      "t": null,
+      "ckey": "miyako_jp",
+      "lat": "39.65",
+      "lng": "141.966666667"
+    },
+    {
+      "name": "Mizushima",
+      "t": true,
+      "ckey": "mizushima_jp",
+      "lat": "34.5166666667",
+      "lng": "133.733333333"
+    },
+    {
+      "name": "Moji",
+      "t": true,
+      "ckey": "moji_jp",
+      "lat": "33.92108607883073",
+      "lng": "130.94176148398955"
+    },
+    {
+      "name": "Monbetsu",
+      "t": null,
+      "ckey": "monbetsu_jp",
+      "lat": "44.342144752140136",
+      "lng": "143.32272244906662"
+    },
+    {
+      "name": "Mukaishima",
+      "t": null,
+      "ckey": "mukaishima_jp",
+      "lat": "34.38304933843913",
+      "lng": "133.22266217618028"
+    },
+    {
+      "name": "Muroran",
+      "t": true,
+      "ckey": "muroran_jp",
+      "lat": "42.3333333333",
+      "lng": "140.95"
+    },
+    {
+      "name": "Nagasaki",
+      "t": true,
+      "ckey": "nagasaki_jp",
+      "lat": "32.7287842689964",
+      "lng": "129.839172363281"
+    },
+    {
+      "name": "Nagoya",
+      "t": true,
+      "ckey": "nagoya_jp",
+      "lat": "35.074343029619875",
+      "lng": "136.85430107863274"
+    },
+    {
+      "name": "Naha",
+      "t": true,
+      "ckey": "naha_jp",
+      "lat": "26.2",
+      "lng": "127.65"
+    },
+    {
+      "name": "Nakanoseki",
+      "t": true,
+      "ckey": "nakanoseki_jp",
+      "lat": "33.979077799978725",
+      "lng": "131.89021521251587"
+    },
+    {
+      "name": "Namikata",
+      "t": null,
+      "ckey": "namikata_jp",
+      "lat": "34.119083017585645",
+      "lng": "132.8948540771547"
+    },
+    {
+      "name": "Nanao",
+      "t": null,
+      "ckey": "nanao_jp",
+      "lat": "37.0333333333",
+      "lng": "136.966666667"
+    },
+    {
+      "name": "Nanko",
+      "t": false,
+      "ckey": "nanko_jp",
+      "lat": "34.70476832381966",
+      "lng": "135.4791517722774"
+    },
+    {
+      "name": "Naoetsu",
+      "t": true,
+      "ckey": "naoetsu_jp",
+      "lat": "37.16883419898262",
+      "lng": "138.29589446523397"
+    },
+    {
+      "name": "Naze",
+      "t": null,
+      "ckey": "naze_jp",
+      "lat": "28.38333774696635",
+      "lng": "129.50016809738833"
+    },
+    {
+      "name": "Niigata",
+      "t": true,
+      "ckey": "niigata_jp",
+      "lat": "37.910200006968736",
+      "lng": "139.10338674966957"
+    },
+    {
+      "name": "Niigata Higashi",
+      "t": null,
+      "ckey": "niigata_higashi_jp",
+      "lat": "38.01666558065631",
+      "lng": "139.2166722672434"
+    },
+    {
+      "name": "Niigata-Nishi",
+      "t": null,
+      "ckey": "niigata_nishi_jp",
+      "lat": "37.89999911944332",
+      "lng": "139.06666765269156"
+    },
+    {
+      "name": "Niihama",
+      "t": false,
+      "ckey": "niihama_jp",
+      "lat": "33.9666666667",
+      "lng": "133.266666667"
+    },
+    {
+      "name": "Noshiro",
+      "t": null,
+      "ckey": "noshiro_jp",
+      "lat": "40.20827520982747",
+      "lng": "140.00549081448818"
+    },
+    {
+      "name": "Numazu",
+      "t": null,
+      "ckey": "numazu_jp",
+      "lat": "35.07593787879107",
+      "lng": "138.86132484548432"
+    },
+    {
+      "name": "Oita",
+      "t": true,
+      "ckey": "oita_jp",
+      "lat": "33.2666666667",
+      "lng": "131.666666667"
+    },
+    {
+      "name": "Okinawa",
+      "t": true,
+      "ckey": "okinawa_jp",
+      "lat": "26.330179467365934",
+      "lng": "127.75382533039947"
+    },
+    {
+      "name": "Omaezaki",
+      "t": true,
+      "ckey": "omaezaki_jp",
+      "lat": "34.6",
+      "lng": "138.216666667"
+    },
+    {
+      "name": "Omishima",
+      "t": null,
+      "ckey": "omishima_jp",
+      "lat": "34.25248002717058",
+      "lng": "132.99244382001584"
+    },
+    {
+      "name": "Onahama",
+      "t": true,
+      "ckey": "onahama_jp",
+      "lat": "36.93466799347791",
+      "lng": "140.8914209913522"
+    },
+    {
+      "name": "Onoda",
+      "t": null,
+      "ckey": "onoda_jp",
+      "lat": "34",
+      "lng": "131.183333333"
+    },
+    {
+      "name": "Onomichi",
+      "t": null,
+      "ckey": "onomichi_jp",
+      "lat": "34.36496641261152",
+      "lng": "133.18127122981002"
+    },
+    {
+      "name": "Osaka",
+      "t": true,
+      "ckey": "osaka_jp",
+      "lat": "34.65",
+      "lng": "135.45"
+    },
+    {
+      "name": "Otaru",
+      "t": false,
+      "ckey": "otaru_jp",
+      "lat": "43.167956686639485",
+      "lng": "140.99469345160279"
+    },
+    {
+      "name": "Owase",
+      "t": null,
+      "ckey": "owase_jp",
+      "lat": "34.0666666667",
+      "lng": "136.233333333"
+    },
+    {
+      "name": "Reihoku",
+      "t": null,
+      "ckey": "reihoku_jp",
+      "lat": "32.49768490108383",
+      "lng": "130.04669251401606"
+    },
+    {
+      "name": "Rumoi",
+      "t": null,
+      "ckey": "rumoi_jp",
+      "lat": "43.95197702599233",
+      "lng": "141.65256361208006"
+    },
+    {
+      "name": "Saganoseki",
+      "t": false,
+      "ckey": "saganoseki_jp",
+      "lat": "33.2333333333",
+      "lng": "131.866666667"
+    },
+    {
+      "name": "Saiki",
+      "t": null,
+      "ckey": "saiki_jp",
+      "lat": "32.9833333333",
+      "lng": "131.933333333"
+    },
+    {
+      "name": "Sakai",
+      "t": null,
+      "ckey": "sakai_jp",
+      "lat": "34.5666666667",
+      "lng": "135.433333333"
+    },
+    {
+      "name": "Sakaiminato",
+      "t": true,
+      "ckey": "sakaiminato_jp",
+      "lat": "35.545733692673",
+      "lng": "133.253173828125"
+    },
+    {
+      "name": "Sakaisenboku",
+      "t": false,
+      "ckey": "sakaisenboku_jp",
+      "lat": "34.585834239802224",
+      "lng": "135.41668286212845"
+    },
+    {
+      "name": "Sakata",
+      "t": true,
+      "ckey": "sakata_jp",
+      "lat": "38.889949662272045",
+      "lng": "139.83983140635868"
+    },
+    {
+      "name": "Sakito",
+      "t": null,
+      "ckey": "sakito_jp",
+      "lat": "33.019545504618655",
+      "lng": "129.56323806418422"
+    },
+    {
+      "name": "Satsumasendai",
+      "t": false,
+      "ckey": "satsumasendai_jp",
+      "lat": "31.49",
+      "lng": "130.15"
+    },
+    {
+      "name": "Senboku",
+      "t": false,
+      "ckey": "senboku_jp",
+      "lat": "34.53785899107205",
+      "lng": "135.40274927622164"
+    },
+    {
+      "name": "Sendai",
+      "t": true,
+      "ckey": "sendai_jp",
+      "lat": "38.25334529577559",
+      "lng": "141.01502009457275"
+    },
+    {
+      "name": "Shibushi",
+      "t": true,
+      "ckey": "shibushi_jp",
+      "lat": "31.47545146914304",
+      "lng": "131.1146062511259"
+    },
+    {
+      "name": "Shikama",
+      "t": null,
+      "ckey": "shikama_jp",
+      "lat": "34.7833333333",
+      "lng": "134.65"
+    },
+    {
+      "name": "Shimizu",
+      "t": true,
+      "ckey": "shimizu_jp",
+      "lat": "35.0239772146802",
+      "lng": "138.49690693250744"
+    },
+    {
+      "name": "Shimonoseki",
+      "t": true,
+      "ckey": "shimonoseki_jp",
+      "lat": "33.94804142039018",
+      "lng": "130.93433023817258"
+    },
+    {
+      "name": "Shimotsu",
+      "t": null,
+      "ckey": "shimotsu_jp",
+      "lat": "34.12064713090558",
+      "lng": "135.13745106848"
+    },
+    {
+      "name": "Shingu",
+      "t": null,
+      "ckey": "shingu_jp",
+      "lat": "33.663236192378996",
+      "lng": "135.9730290907827"
+    },
+    {
+      "name": "Shiogama",
+      "t": null,
+      "ckey": "shiogama_jp",
+      "lat": "38.3166666667",
+      "lng": "141.066666667"
+    },
+    {
+      "name": "Shirashima",
+      "t": null,
+      "ckey": "shirashima_jp",
+      "lat": "34",
+      "lng": "130.75"
+    },
+    {
+      "name": "Soma",
+      "t": null,
+      "ckey": "soma_jp",
+      "lat": "37.47",
+      "lng": "140.55"
+    },
+    {
+      "name": "Suzaki",
+      "t": null,
+      "ckey": "suzaki_jp",
+      "lat": "33.3833333333",
+      "lng": "133.283333333"
+    },
+    {
+      "name": "Tachibana",
+      "t": null,
+      "ckey": "tachibana_jp",
+      "lat": "33.874647622663815",
+      "lng": "134.65637352447933"
+    },
+    {
+      "name": "Tagonoura",
+      "t": null,
+      "ckey": "tagonoura_jp",
+      "lat": "35.1333333333",
+      "lng": "138.683333333"
+    },
+    {
+      "name": "Takahara",
+      "t": false,
+      "ckey": "takahara_jp",
+      "lat": "34.3333333333",
+      "lng": "133.033333333"
+    },
+    {
+      "name": "Takamatsu",
+      "t": true,
+      "ckey": "takamatsu_jp",
+      "lat": "34.35198563809391",
+      "lng": "134.03865121594336"
+    },
+    {
+      "name": "Takasu",
+      "t": null,
+      "ckey": "takasu_jp",
+      "lat": "36.132639860378326",
+      "lng": "136.0700997392669"
+    },
+    {
+      "name": "Takehara",
+      "t": null,
+      "ckey": "takehara_jp",
+      "lat": "34.32892350436136",
+      "lng": "132.91859581470965"
+    },
+    {
+      "name": "Takuma",
+      "t": null,
+      "ckey": "takuma_jp",
+      "lat": "34.2333333333",
+      "lng": "133.683333333"
+    },
+    {
+      "name": "Tanabe",
+      "t": null,
+      "ckey": "tanabe_jp",
+      "lat": "33.72123474371616",
+      "lng": "135.38005938779887"
+    },
+    {
+      "name": "Taniyama",
+      "t": null,
+      "ckey": "taniyama_jp",
+      "lat": "31.17",
+      "lng": "130.19"
+    },
+    {
+      "name": "Tobata",
+      "t": null,
+      "ckey": "tobata_jp",
+      "lat": "33.92628043769452",
+      "lng": "130.7747496984044"
+    },
+    {
+      "name": "Tokachi",
+      "t": null,
+      "ckey": "tokachi_jp",
+      "lat": "42.25",
+      "lng": "143.3"
+    },
+    {
+      "name": "Tokushima",
+      "t": true,
+      "ckey": "tokushima_jp",
+      "lat": "34.05883391891696",
+      "lng": "134.59899993545122"
+    },
+    {
+      "name": "Tokuyama",
+      "t": true,
+      "ckey": "tokuyama_jp",
+      "lat": "34.05360199401273",
+      "lng": "131.77556365710802"
+    },
+    {
+      "name": "Tokyo",
+      "t": true,
+      "ckey": "tokyo_jp",
+      "lat": "35.64916150488439",
+      "lng": "139.79156928968337"
+    },
+    {
+      "name": "Tomakomai",
+      "t": true,
+      "ckey": "tomakomai_jp",
+      "lat": "42.6194146798475",
+      "lng": "141.627502441406"
+    },
+    {
+      "name": "Tomioka",
+      "t": false,
+      "ckey": "tomioka_jp",
+      "lat": "37.3333333333",
+      "lng": "141.0166666667"
+    },
+    {
+      "name": "Tonda",
+      "t": null,
+      "ckey": "tonda_jp",
+      "lat": "34.034470634147524",
+      "lng": "131.72861293675336"
+    },
+    {
+      "name": "Toyama",
+      "t": true,
+      "ckey": "toyama_jp",
+      "lat": "36.75",
+      "lng": "137.216666667"
+    },
+    {
+      "name": "Toyohashi",
+      "t": false,
+      "ckey": "toyohashi_jp",
+      "lat": "34.7166666667",
+      "lng": "137.333333333"
+    },
+    {
+      "name": "Tsukumi",
+      "t": null,
+      "ckey": "tsukumi_jp",
+      "lat": "33.0833333333",
+      "lng": "131.866666667"
+    },
+    {
+      "name": "Tsuruga",
+      "t": true,
+      "ckey": "tsuruga_jp",
+      "lat": "35.66569056267582",
+      "lng": "136.04193203912976"
+    },
+    {
+      "name": "Ube",
+      "t": false,
+      "ckey": "ube_jp",
+      "lat": "33.94432",
+      "lng": "131.2181"
+    },
+    {
+      "name": "Uchiura",
+      "t": null,
+      "ckey": "uchiura_jp",
+      "lat": "35.5166666667",
+      "lng": "135.5"
+    },
+    {
+      "name": "Uno",
+      "t": null,
+      "ckey": "uno_jp",
+      "lat": "34.48545436466513",
+      "lng": "133.9481102283057"
+    },
+    {
+      "name": "Uwajima",
+      "t": null,
+      "ckey": "uwajima_jp",
+      "lat": "33.2166666667",
+      "lng": "132.55"
+    },
+    {
+      "name": "Wada",
+      "t": null,
+      "ckey": "wada_jp",
+      "lat": "35.03698872504907",
+      "lng": "140.01770319272416"
+    },
+    {
+      "name": "Wakayama",
+      "t": false,
+      "ckey": "wakayama_jp",
+      "lat": "34.2192204210072",
+      "lng": "135.13848925723386"
+    },
+    {
+      "name": "Wakkanai",
+      "t": null,
+      "ckey": "wakkanai_jp",
+      "lat": "45.37809320393431",
+      "lng": "141.70000610605499"
+    },
+    {
+      "name": "Yanai",
+      "t": null,
+      "ckey": "yanai_jp",
+      "lat": "33.95284645847129",
+      "lng": "132.12921719195293"
+    },
+    {
+      "name": "Yatsushiro",
+      "t": true,
+      "ckey": "yatsushiro_jp",
+      "lat": "32.50029061825219",
+      "lng": "130.57989806176226"
+    },
+    {
+      "name": "Yawata",
+      "t": null,
+      "ckey": "yawata_jp",
+      "lat": "35.32",
+      "lng": "140.07"
+    },
+    {
+      "name": "Yawatahama",
+      "t": null,
+      "ckey": "yawatahama_jp",
+      "lat": "33.45",
+      "lng": "132.416666667"
+    },
+    {
+      "name": "Yokkaichi",
+      "t": true,
+      "ckey": "yokkaichi_jp",
+      "lat": "34.95",
+      "lng": "136.616666667"
+    },
+    {
+      "name": "Yokohama",
+      "t": true,
+      "ckey": "yokohama_jp",
+      "lat": "35.45755079300344",
+      "lng": "139.6345159199081"
+    },
+    {
+      "name": "Yokosuka",
+      "t": null,
+      "ckey": "yokosuka_jp",
+      "lat": "35.17",
+      "lng": "139.4"
+    },
+    {
+      "name": "Yura",
+      "t": null,
+      "ckey": "yura_jp",
+      "lat": "33.95",
+      "lng": "135.1"
+    }
+  ],
+  "ccountries": []
+}

@@ -1,0 +1,138 @@
+{
+  "title": "Libya",
+  "ckey": "libya",
+  "cports": [
+    {
+      "name": "Abu Kammash",
+      "t": null,
+      "ckey": "abu_kammash_ly",
+      "lat": "33.06781786657772",
+      "lng": "11.8413862659298"
+    },
+    {
+      "name": "Az Zawiyah",
+      "t": null,
+      "ckey": "az_zawiyah_ly",
+      "lat": "32.45",
+      "lng": "12.43"
+    },
+    {
+      "name": "Benghazi",
+      "t": true,
+      "ckey": "benghazi_ly",
+      "lat": "32.118611621968",
+      "lng": "20.075405883789"
+    },
+    {
+      "name": "Derna",
+      "t": null,
+      "ckey": "derna_ly",
+      "lat": "32.762047446199",
+      "lng": "22.643133544922"
+    },
+    {
+      "name": "Es Sider",
+      "t": null,
+      "ckey": "es_sider_ly",
+      "lat": "30.637468993287",
+      "lng": "18.358239746094"
+    },
+    {
+      "name": "Khoms",
+      "t": true,
+      "ckey": "khoms_ly",
+      "lat": "32.67293047971343",
+      "lng": "14.245880084925567"
+    },
+    {
+      "name": "Marsa al Hariga",
+      "t": null,
+      "ckey": "marsa_al_hariga_ly",
+      "lat": "32.063393507011",
+      "lng": "23.98309135437"
+    },
+    {
+      "name": "Marsa El Brega",
+      "t": false,
+      "ckey": "marsa_el_brega_ly",
+      "lat": "30.410448998262",
+      "lng": "19.575593058301"
+    },
+    {
+      "name": "Misurata",
+      "t": true,
+      "ckey": "misurata_ly",
+      "lat": "32.40047764881621",
+      "lng": "15.126801171807022"
+    },
+    {
+      "name": "Qasr Ahmed",
+      "t": null,
+      "ckey": "qasr_ahmed_ly",
+      "lat": "32.35506713611938",
+      "lng": "15.22371984858221"
+    },
+    {
+      "name": "Rasco Harbour",
+      "t": null,
+      "ckey": "rasco_harbour_ly",
+      "lat": "30.475947597553",
+      "lng": "18.594163513183"
+    },
+    {
+      "name": "Ras el Hilal",
+      "t": null,
+      "ckey": "ras_el_hilal_ly",
+      "lat": "32.921854228891",
+      "lng": "22.167883809374"
+    },
+    {
+      "name": "Ras Lanuf",
+      "t": false,
+      "ckey": "ras_lanuf_ly",
+      "lat": "30.494777504475",
+      "lng": "18.57284647627"
+    },
+    {
+      "name": "Tobruk",
+      "t": true,
+      "ckey": "tobruk_ly",
+      "lat": "32.076339987237",
+      "lng": "23.965581893921"
+    },
+    {
+      "name": "Tripoli",
+      "t": true,
+      "ckey": "tripoli_ly",
+      "lat": "32.89308113704128",
+      "lng": "13.191572938416044"
+    },
+    {
+      "name": "Zawia Terminal",
+      "t": null,
+      "ckey": "zawia_terminal_ly",
+      "lat": "32.7833333333",
+      "lng": "12.702746582031"
+    },
+    {
+      "name": "Zuara",
+      "t": null,
+      "ckey": "zuara_ly",
+      "lat": "32.925888789251",
+      "lng": "12.101560465528"
+    },
+    {
+      "name": "Zuetina",
+      "t": null,
+      "ckey": "zuetina_ly",
+      "lat": "30.862378573209",
+      "lng": "20.067634582519"
+    }
+  ],
+  "ccountries": [
+    { "name": "Algeria", "code": "DZ", "link": "/maritime/algeria" },
+    { "name": "Egypt", "code": "EG", "link": "/maritime/egypt" },
+    { "name": "Sudan", "code": "SD", "link": "/maritime/sudan" },
+    { "name": "Tunisia", "code": "TN", "link": "/maritime/tunisia" }
+  ]
+}

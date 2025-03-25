@@ -1,0 +1,51 @@
+{
+  "title": "Brunei",
+  "ckey": "brunei",
+  "cports": [
+    {
+      "name": "Kuala Belait",
+      "t": true,
+      "ckey": "kuala_belait_bn",
+      "lat": "4.588808806133353",
+      "lng": "114.22709330186359"
+    },
+    {
+      "name": "Lumut",
+      "t": null,
+      "ckey": "lumut_bn",
+      "lat": "4.6701311728256405",
+      "lng": "114.46373203584785"
+    },
+    {
+      "name": "Muara",
+      "t": true,
+      "ckey": "muara_bn",
+      "lat": "5.022822931658058",
+      "lng": "115.06564245645524"
+    },
+    {
+      "name": "Muara Harbour",
+      "t": true,
+      "ckey": "muara_harbour_bn",
+      "lat": "5.009890822238285",
+      "lng": "115.06521898472668"
+    },
+    {
+      "name": "Seria",
+      "t": null,
+      "ckey": "seria_bn",
+      "lat": "4.612642324355289",
+      "lng": "114.31510711950838"
+    },
+    {
+      "name": "Tanjong Salirontanjo",
+      "t": null,
+      "ckey": "tanjong_salirontanjo_bn",
+      "lat": "4.893406214811949",
+      "lng": "115.11080366724735"
+    }
+  ],
+  "ccountries": [
+    { "name": "Malaysia", "code": "MY", "link": "/maritime/malaysia" }
+  ]
+}

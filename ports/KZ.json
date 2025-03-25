@@ -1,0 +1,41 @@
+{
+  "title": "Kazakhstan",
+  "ckey": "kazakhstan",
+  "cports": [
+    {
+      "name": "Aktau",
+      "t": null,
+      "ckey": "aktau_kz",
+      "lat": "43.682324515344",
+      "lng": "51.212927246094"
+    },
+    {
+      "name": "Aktau",
+      "t": true,
+      "ckey": "aktau_kz",
+      "lat": "43.60049",
+      "lng": "51.22873"
+    },
+    {
+      "name": "Almaty",
+      "t": true,
+      "ckey": "almaty_kz",
+      "lat": "43.244546346722",
+      "lng": "76.889438602508"
+    },
+    {
+      "name": "Atyrau",
+      "t": null,
+      "ckey": "atyrau_kz",
+      "lat": "46.980533683791",
+      "lng": "51.5867859375"
+    }
+  ],
+  "ccountries": [
+    { "name": "China", "code": "CN", "link": "/maritime/china" },
+    { "name": "Kyrgyzstan", "code": "KG", "link": "/maritime/kyrgyzstan" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Turkmenistan", "code": "TM", "link": "/maritime/turkmenistan" },
+    { "name": "Uzbekistan", "code": "UZ", "link": "/maritime/uzbekistan" }
+  ]
+}

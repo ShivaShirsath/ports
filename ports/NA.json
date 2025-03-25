@@ -1,0 +1,26 @@
+{
+  "title": "Namibia",
+  "ckey": "namibia",
+  "cports": [
+    {
+      "name": "Luderitz",
+      "t": true,
+      "ckey": "luderitz_na",
+      "lat": "-26.604386072693",
+      "lng": "15.2490234375"
+    },
+    {
+      "name": "Walvis Bay",
+      "t": true,
+      "ckey": "walvis_bay_na",
+      "lat": "-22.950255887413",
+      "lng": "14.500579833984"
+    }
+  ],
+  "ccountries": [
+    { "name": "Angola", "code": "AO", "link": "/maritime/angola" },
+    { "name": "Botswana", "code": "BW", "link": "/maritime/botswana" },
+    { "name": "South Africa", "code": "ZA", "link": "/maritime/south_africa" },
+    { "name": "Zambia", "code": "ZM", "link": "/maritime/zambia" }
+  ]
+}

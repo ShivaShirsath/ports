@@ -1,0 +1,55 @@
+{
+  "title": "Serbia",
+  "ckey": "serbia",
+  "cports": [
+    {
+      "name": "Bar",
+      "t": true,
+      "ckey": "bar_rs",
+      "lat": "42.0833333333",
+      "lng": "19.0833333333"
+    },
+    {
+      "name": "Kotor",
+      "t": null,
+      "ckey": "kotor_rs",
+      "lat": "42.422749439713",
+      "lng": "18.709987386034"
+    },
+    {
+      "name": "Novi Sad",
+      "t": null,
+      "ckey": "novi_sad_rs",
+      "lat": "45.25047",
+      "lng": "19.84938"
+    },
+    {
+      "name": "Risan",
+      "t": null,
+      "ckey": "risan_rs",
+      "lat": "42.5166666667",
+      "lng": "18.7"
+    },
+    {
+      "name": "Zelenika",
+      "t": null,
+      "ckey": "zelenika_rs",
+      "lat": "42.457599330949",
+      "lng": "18.563233439161"
+    }
+  ],
+  "ccountries": [
+    { "name": "Albania", "code": "AL", "link": "/maritime/albania" },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "link": "/maritime/bosnia_and_herzegovina"
+    },
+    { "name": "Bulgaria", "code": "BG", "link": "/maritime/bulgaria" },
+    { "name": "Croatia", "code": "HR", "link": "/maritime/croatia" },
+    { "name": "Hungary", "code": "HU", "link": "/maritime/hungary" },
+    { "name": "Macedonia", "code": "MK", "link": "/maritime/macedonia" },
+    { "name": "Montenegro", "code": "ME", "link": "/maritime/montenegro" },
+    { "name": "Romania", "code": "RO", "link": "/maritime/romania" }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "title": "Malaysia",
+  "ckey": "malaysia",
+  "cports": [
+    {
+      "name": "Bakapit",
+      "t": null,
+      "ckey": "bakapit_my",
+      "lat": "4.955472570686678",
+      "lng": "118.59568912519292"
+    },
+    {
+      "name": "Bintangor",
+      "t": null,
+      "ckey": "bintangor_my",
+      "lat": "2.1676958562264774",
+      "lng": "111.63298745509276"
+    },
+    {
+      "name": "Bintulu, Sarawak",
+      "t": true,
+      "ckey": "bintulu_sarawak_my",
+      "lat": "3.17508874056823",
+      "lng": "113.030090332031"
+    },
+    {
+      "name": "Butterworth",
+      "t": null,
+      "ckey": "butterworth_my",
+      "lat": "5.25",
+      "lng": "100.24"
+    },
+    {
+      "name": "Dulang Marine Terminal",
+      "t": null,
+      "ckey": "dulang_marine_terminal_my",
+      "lat": "5.8",
+      "lng": "104.166666667"
+    },
+    {
+      "name": "Dungun (Kuala Dungun)",
+      "t": null,
+      "ckey": "dungun_kuala_dungun_my",
+      "lat": "4.78333333333",
+      "lng": "103.433333333"
+    },
+    {
+      "name": "Georgetown",
+      "t": false,
+      "ckey": "georgetown_my",
+      "lat": "5.439908006438063",
+      "lng": "100.30468158451973"
+    },
+    {
+      "name": "Johor",
+      "t": true,
+      "ckey": "johor_my",
+      "lat": "1.435221033549021",
+      "lng": "103.89999754096605"
+    },
+    {
+      "name": "Johore Bahru",
+      "t": true,
+      "ckey": "johore_bahru_my",
+      "lat": "1.4544617831626525",
+      "lng": "103.75326458702668"
+    },
+    {
+      "name": "Kemaman",
+      "t": null,
+      "ckey": "kemaman_my",
+      "lat": "4.3",
+      "lng": "103.466666667"
+    },
+    {
+      "name": "Kerteh",
+      "t": null,
+      "ckey": "kerteh_my",
+      "lat": "4.31",
+      "lng": "103.27"
+    },
+    {
+      "name": "Kota Kinabalu",
+      "t": true,
+      "ckey": "kota_kinabalu_my",
+      "lat": "5.96666666666665",
+      "lng": "116.066666666667"
+    },
+    {
+      "name": "Kuah",
+      "t": null,
+      "ckey": "kuah_my",
+      "lat": "6.3000000045587425",
+      "lng": "99.85686706177701"
+    },
+    {
+      "name": "Kuantan (Tanjong Gelang)",
+      "t": false,
+      "ckey": "kuantan_tanjong_gelang_my",
+      "lat": "3.8",
+      "lng": "103.333333333"
+    },
+    {
+      "name": "Kuching",
+      "t": true,
+      "ckey": "kuching_my",
+      "lat": "1.5822588164338",
+      "lng": "110.42907714844"
+    },
+    {
+      "name": "Kudat",
+      "t": null,
+      "ckey": "kudat_my",
+      "lat": "6.88333333333",
+      "lng": "116.85"
+    },
+    {
+      "name": "Kunak",
+      "t": false,
+      "ckey": "kunak_my",
+      "lat": "4.68333333333",
+      "lng": "118.25"
+    },
+    {
+      "name": "Labuan",
+      "t": true,
+      "ckey": "labuan_my",
+      "lat": "5.222905212543942",
+      "lng": "115.89138500635309"
+    },
+    {
+      "name": "Labuan, Sabah",
+      "t": false,
+      "ckey": "labuan_sabah_my",
+      "lat": "5.2830761909239925",
+      "lng": "115.25000292253222"
+    },
+    {
+      "name": "Lahad Datu, Sabah",
+      "t": null,
+      "ckey": "lahad_datu_sabah_my",
+      "lat": "5.03333333333",
+      "lng": "118.333333333"
+    },
+    {
+      "name": "Limbang, Sarawak",
+      "t": null,
+      "ckey": "limbang_sarawak_my",
+      "lat": "4.821895414862385",
+      "lng": "115.07097000400785"
+    },
+    {
+      "name": "Lingga, Sarawak",
+      "t": null,
+      "ckey": "lingga_sarawak_my",
+      "lat": "1.35",
+      "lng": "111.166666667"
+    },
+    {
+      "name": "Lumut",
+      "t": null,
+      "ckey": "lumut_my",
+      "lat": "4.26666666667",
+      "lng": "100.65"
+    },
+    {
+      "name": "Lundu",
+      "t": null,
+      "ckey": "lundu_my",
+      "lat": "1.66666666667",
+      "lng": "109.866666667"
+    },
+    {
+      "name": "Miri",
+      "t": true,
+      "ckey": "miri_my",
+      "lat": "4.338145986235762",
+      "lng": "113.97902766139791"
+    },
+    {
+      "name": "Miri, Sarawak",
+      "t": false,
+      "ckey": "miri_sarawak_my",
+      "lat": "4.446317399668547",
+      "lng": "114.00511898402735"
+    },
+    {
+      "name": "Muar",
+      "t": false,
+      "ckey": "muar_my",
+      "lat": "2.0333333",
+      "lng": "102.55"
+    },
+    {
+      "name": "Pasir Gudang",
+      "t": true,
+      "ckey": "pasir_gudang_my",
+      "lat": "1.4487987025670659",
+      "lng": "103.87990312442788"
+    },
+    {
+      "name": "Penang",
+      "t": true,
+      "ckey": "penang_my",
+      "lat": "5.288140349306734",
+      "lng": "100.4184793662813"
+    },
+    {
+      "name": "Port Dickson",
+      "t": null,
+      "ckey": "port_dickson_my",
+      "lat": "2.5242125209941024",
+      "lng": "101.79138837058889"
+    },
+    {
+      "name": "Port Kelang",
+      "t": true,
+      "ckey": "port_kelang_my",
+      "lat": "3.0034284115591",
+      "lng": "101.38264936009"
+    },
+    {
+      "name": "Pulau Tioman",
+      "t": null,
+      "ckey": "pulau_tioman_my",
+      "lat": "2.78333333333",
+      "lng": "104.166666667"
+    },
+    {
+      "name": "Sandakan, Sabah",
+      "t": true,
+      "ckey": "sandakan_sabah_my",
+      "lat": "5.85466145016476",
+      "lng": "118.108520507812"
+    },
+    {
+      "name": "Sapangar Bay Oil Terminal",
+      "t": null,
+      "ckey": "sapangar_bay_oil_terminal_my",
+      "lat": "6.107912886983182",
+      "lng": "116.11116683346576"
+    },
+    {
+      "name": "Sarikei",
+      "t": null,
+      "ckey": "sarikei_my",
+      "lat": "2.13264716738738",
+      "lng": "111.51666933352743"
+    },
+    {
+      "name": "Semporna, Sabah",
+      "t": null,
+      "ckey": "semporna_sabah_my",
+      "lat": "4.494285818209547",
+      "lng": "118.60156308787913"
+    },
+    {
+      "name": "Sibu, Sarawak",
+      "t": true,
+      "ckey": "sibu_sarawak_my",
+      "lat": "2.2855277956857",
+      "lng": "111.829833984375"
+    },
+    {
+      "name": "Sipitang",
+      "t": false,
+      "ckey": "sipitang_my",
+      "lat": "5.098379764917208",
+      "lng": "115.56236113365524"
+    },
+    {
+      "name": "Sipitang, Sabah",
+      "t": null,
+      "ckey": "sipitang_sabah_my",
+      "lat": "5.0363202392316495",
+      "lng": "115.5249043762469"
+    },
+    {
+      "name": "Sungai Udang",
+      "t": null,
+      "ckey": "sungai_udang_my",
+      "lat": "2.251372290304892",
+      "lng": "102.13436631976109"
+    },
+    {
+      "name": "Tanjung Manis",
+      "t": null,
+      "ckey": "tanjung_manis_my",
+      "lat": "2.155146237400225",
+      "lng": "111.34073049069708"
+    },
+    {
+      "name": "Tanjung Pelepas",
+      "t": true,
+      "ckey": "tanjung_pelepas_my",
+      "lat": "1.3558964971889622",
+      "lng": "103.54836574211546"
+    },
+    {
+      "name": "Tawau",
+      "t": true,
+      "ckey": "tawau_my",
+      "lat": "4.25029055597577",
+      "lng": "117.88330078125"
+    },
+    {
+      "name": "Telok Anson",
+      "t": null,
+      "ckey": "telok_anson_my",
+      "lat": "4.03333333333",
+      "lng": "101"
+    },
+    {
+      "name": "Telok Ramunia",
+      "t": null,
+      "ckey": "telok_ramunia_my",
+      "lat": "1.370679374430397",
+      "lng": "104.24672526399259"
+    },
+    {
+      "name": "Teluk Ewa",
+      "t": null,
+      "ckey": "teluk_ewa_my",
+      "lat": "6.422416204392412",
+      "lng": "99.76666758359782"
+    }
+  ],
+  "ccountries": [
+    { "name": "Brunei", "code": "BN", "link": "/maritime/brunei" },
+    { "name": "Indonesia", "code": "ID", "link": "/maritime/indonesia" },
+    { "name": "Thailand", "code": "TH", "link": "/maritime/thailand" }
+  ]
+}

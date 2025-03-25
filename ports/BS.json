@@ -1,0 +1,42 @@
+{
+  "title": "Bahamas",
+  "ckey": "bahamas",
+  "cports": [
+    {
+      "name": "Freeport",
+      "t": true,
+      "ckey": "freeport_bs",
+      "lat": "26.5087581783105",
+      "lng": "-78.69906520190938"
+    },
+    {
+      "name": "Inagua Islands",
+      "t": null,
+      "ckey": "inagua_islands_bs",
+      "lat": "21.5166666667",
+      "lng": "-73"
+    },
+    {
+      "name": "Nassau",
+      "t": true,
+      "ckey": "nassau_bs",
+      "lat": "25.0833333333",
+      "lng": "-77.3333333333002"
+    },
+    {
+      "name": "Ocean Cay",
+      "t": null,
+      "ckey": "ocean_cay_bs",
+      "lat": "25.4166666667",
+      "lng": "-79.2166666667"
+    },
+    {
+      "name": "South Riding Point",
+      "t": null,
+      "ckey": "south_riding_point_bs",
+      "lat": "26.644197414457267",
+      "lng": "-78.21666943139888"
+    }
+  ],
+  "ccountries": []
+}

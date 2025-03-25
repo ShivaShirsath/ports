@@ -1,0 +1,676 @@
+{
+  "title": "Norway",
+  "ckey": "norway",
+  "cports": [
+    {
+      "name": "Aaheim",
+      "t": null,
+      "ckey": "aaheim_no",
+      "lat": "62.0333333333",
+      "lng": "5.53333333333"
+    },
+    {
+      "name": "Aalesund",
+      "t": true,
+      "ckey": "aalesund_no",
+      "lat": "62.4125658558436",
+      "lng": "6.18255615234371"
+    },
+    {
+      "name": "Aardalstangen",
+      "t": null,
+      "ckey": "aardalstangen_no",
+      "lat": "61.23630689055944",
+      "lng": "7.694506920795552"
+    },
+    {
+      "name": "Agnefest",
+      "t": false,
+      "ckey": "agnefest_no",
+      "lat": "58.07",
+      "lng": "7.02"
+    },
+    {
+      "name": "Agotnes",
+      "t": null,
+      "ckey": "agotnes_no",
+      "lat": "60.41192354830641",
+      "lng": "5.012546912051774"
+    },
+    {
+      "name": "Akrehamn",
+      "t": null,
+      "ckey": "akrehamn_no",
+      "lat": "59.25807237105948",
+      "lng": "5.182334315760889"
+    },
+    {
+      "name": "Alvik",
+      "t": null,
+      "ckey": "alvik_no",
+      "lat": "60.4333333333",
+      "lng": "6.4"
+    },
+    {
+      "name": "Arendal",
+      "t": null,
+      "ckey": "arendal_no",
+      "lat": "58.46200016291615",
+      "lng": "8.77490624370817"
+    },
+    {
+      "name": "Austevoll",
+      "t": true,
+      "ckey": "austevoll_no",
+      "lat": "60.06",
+      "lng": "5.09"
+    },
+    {
+      "name": "Batsfjord",
+      "t": null,
+      "ckey": "batsfjord_no",
+      "lat": "70.66245971879728",
+      "lng": "29.722346814875866"
+    },
+    {
+      "name": "Bergen",
+      "t": true,
+      "ckey": "bergen_no",
+      "lat": "60.39656245286305",
+      "lng": "5.308926322498375"
+    },
+    {
+      "name": "Bodo",
+      "t": false,
+      "ckey": "bodo_no",
+      "lat": "67.27740430576061",
+      "lng": "14.403076034899764"
+    },
+    {
+      "name": "Borg Havn IKS",
+      "t": null,
+      "ckey": "borg_havn_iks_no",
+      "lat": "59.2",
+      "lng": "10.95"
+    },
+    {
+      "name": "Brevik",
+      "t": true,
+      "ckey": "brevik_no",
+      "lat": "59.05221046947529",
+      "lng": "9.69886776764446"
+    },
+    {
+      "name": "Bronnoysund",
+      "t": null,
+      "ckey": "bronnoysund_no",
+      "lat": "65.55233757803634",
+      "lng": "12.260612178127783"
+    },
+    {
+      "name": "Drammen",
+      "t": true,
+      "ckey": "drammen_no",
+      "lat": "59.743746632371575",
+      "lng": "10.207739912698859"
+    },
+    {
+      "name": "Egersund",
+      "t": false,
+      "ckey": "egersund_no",
+      "lat": "58.382524081733884",
+      "lng": "6.04110723359811"
+    },
+    {
+      "name": "Eikefet",
+      "t": null,
+      "ckey": "eikefet_no",
+      "lat": "60.7",
+      "lng": "5.55"
+    },
+    {
+      "name": "Fagerstrand",
+      "t": null,
+      "ckey": "fagerstrand_no",
+      "lat": "59.7333333333",
+      "lng": "10.6"
+    },
+    {
+      "name": "Farsund",
+      "t": null,
+      "ckey": "farsund_no",
+      "lat": "58.09422179686764",
+      "lng": "6.823533150666574"
+    },
+    {
+      "name": "Fiborgtangen",
+      "t": null,
+      "ckey": "fiborgtangen_no",
+      "lat": "63.71179967220384",
+      "lng": "11.161173702903755"
+    },
+    {
+      "name": "Flekkefjord",
+      "t": null,
+      "ckey": "flekkefjord_no",
+      "lat": "58.3",
+      "lng": "6.65"
+    },
+    {
+      "name": "Floroe",
+      "t": true,
+      "ckey": "floroe_no",
+      "lat": "61.6",
+      "lng": "5.03333333"
+    },
+    {
+      "name": "Fredrikstad",
+      "t": true,
+      "ckey": "fredrikstad_no",
+      "lat": "59.1491339931363",
+      "lng": "10.909423828125"
+    },
+    {
+      "name": "Fusa",
+      "t": false,
+      "ckey": "fusa_no",
+      "lat": "60.12",
+      "lng": "5.37"
+    },
+    {
+      "name": "Glomfjord",
+      "t": null,
+      "ckey": "glomfjord_no",
+      "lat": "66.93146205448865",
+      "lng": "13.634142729649836"
+    },
+    {
+      "name": "Grenland Harbour",
+      "t": null,
+      "ckey": "grenland_harbour_no",
+      "lat": "59.133510211165955",
+      "lng": "9.632147064737191"
+    },
+    {
+      "name": "Grimstad",
+      "t": null,
+      "ckey": "grimstad_no",
+      "lat": "58.33739019169844",
+      "lng": "8.605492792856111"
+    },
+    {
+      "name": "Haavik",
+      "t": false,
+      "ckey": "haavik_no",
+      "lat": "59.312112827772616",
+      "lng": "5.32078651910528"
+    },
+    {
+      "name": "Halden",
+      "t": false,
+      "ckey": "halden_no",
+      "lat": "59.10382620903308",
+      "lng": "11.31196976562565"
+    },
+    {
+      "name": "Hammerfest",
+      "t": null,
+      "ckey": "hammerfest_no",
+      "lat": "70.666667115326",
+      "lng": "23.710612382916576"
+    },
+    {
+      "name": "Hareid",
+      "t": false,
+      "ckey": "hareid_no",
+      "lat": "62.22",
+      "lng": "6.02"
+    },
+    {
+      "name": "Harstad",
+      "t": null,
+      "ckey": "harstad_no",
+      "lat": "68.84366230509292",
+      "lng": "16.463045720649976"
+    },
+    {
+      "name": "Haugesund",
+      "t": true,
+      "ckey": "haugesund_no",
+      "lat": "59.40943619325613",
+      "lng": "5.263545691879164"
+    },
+    {
+      "name": "Heroya",
+      "t": false,
+      "ckey": "heroya_no",
+      "lat": "59.057305790596125",
+      "lng": "9.64256310322146"
+    },
+    {
+      "name": "Holmestrand",
+      "t": null,
+      "ckey": "holmestrand_no",
+      "lat": "59.4833333333",
+      "lng": "10.3166666667"
+    },
+    {
+      "name": "Honningsvag",
+      "t": null,
+      "ckey": "honningsvag_no",
+      "lat": "70.99943393168903",
+      "lng": "26.032772540336065"
+    },
+    {
+      "name": "Horten",
+      "t": null,
+      "ckey": "horten_no",
+      "lat": "59.4",
+      "lng": "10.45"
+    },
+    {
+      "name": "Hoyanger",
+      "t": null,
+      "ckey": "hoyanger_no",
+      "lat": "61.1666666667",
+      "lng": "6.06666666667"
+    },
+    {
+      "name": "Husnes",
+      "t": false,
+      "ckey": "husnes_no",
+      "lat": "59.86080924455642",
+      "lng": "5.7369537872155645"
+    },
+    {
+      "name": "Kaarsto",
+      "t": null,
+      "ckey": "kaarsto_no",
+      "lat": "59.27122731540092",
+      "lng": "5.518539278597366"
+    },
+    {
+      "name": "Kirkenes",
+      "t": null,
+      "ckey": "kirkenes_no",
+      "lat": "69.75472074791341",
+      "lng": "29.99488160804313"
+    },
+    {
+      "name": "Kopervik",
+      "t": true,
+      "ckey": "kopervik_no",
+      "lat": "59.28053003305",
+      "lng": "5.3180399292853"
+    },
+    {
+      "name": "Kragero",
+      "t": null,
+      "ckey": "kragero_no",
+      "lat": "58.866668380671896",
+      "lng": "9.419413139074328"
+    },
+    {
+      "name": "Kristiansand S.Chris",
+      "t": true,
+      "ckey": "kristiansand_schris_no",
+      "lat": "58.14572142320954",
+      "lng": "7.997360069914857"
+    },
+    {
+      "name": "Kristiansund N.Chris",
+      "t": false,
+      "ckey": "kristiansund_nchris_no",
+      "lat": "63.1166666667",
+      "lng": "7.72064208984371"
+    },
+    {
+      "name": "Langesund",
+      "t": null,
+      "ckey": "langesund_no",
+      "lat": "59",
+      "lng": "9.44"
+    },
+    {
+      "name": "Larvik",
+      "t": true,
+      "ckey": "larvik_no",
+      "lat": "58.9987211098348",
+      "lng": "10.0167846679687"
+    },
+    {
+      "name": "Leirvik",
+      "t": null,
+      "ckey": "leirvik_no",
+      "lat": "59.77607391771324",
+      "lng": "5.51117334646433"
+    },
+    {
+      "name": "Lillesand",
+      "t": null,
+      "ckey": "lillesand_no",
+      "lat": "58.23590724101039",
+      "lng": "8.391759952027133"
+    },
+    {
+      "name": "Lodingen",
+      "t": null,
+      "ckey": "lodingen_no",
+      "lat": "68.40808748134287",
+      "lng": "15.93408172037834"
+    },
+    {
+      "name": "Maaloy",
+      "t": true,
+      "ckey": "maaloy_no",
+      "lat": "61.8695260892901",
+      "lng": "5.08117675781247"
+    },
+    {
+      "name": "Malm",
+      "t": null,
+      "ckey": "malm_no",
+      "lat": "64.06486581078013",
+      "lng": "11.212733947174534"
+    },
+    {
+      "name": "Mandal",
+      "t": null,
+      "ckey": "mandal_no",
+      "lat": "58.02102948972178",
+      "lng": "7.4493133748758495"
+    },
+    {
+      "name": "Menstad",
+      "t": null,
+      "ckey": "menstad_no",
+      "lat": "59.1",
+      "lng": "9.38"
+    },
+    {
+      "name": "Mo I Rana",
+      "t": null,
+      "ckey": "mo_i_rana_no",
+      "lat": "66.35194782416974",
+      "lng": "14.36129918284138"
+    },
+    {
+      "name": "Molde",
+      "t": null,
+      "ckey": "molde_no",
+      "lat": "62.7333333333",
+      "lng": "7.16666666667"
+    },
+    {
+      "name": "Mongstad",
+      "t": true,
+      "ckey": "mongstad_no",
+      "lat": "60.8166666667",
+      "lng": "5.03333333333"
+    },
+    {
+      "name": "Mosjoen",
+      "t": false,
+      "ckey": "mosjoen_no",
+      "lat": "65.90071137665285",
+      "lng": "13.188639372167524"
+    },
+    {
+      "name": "Moss",
+      "t": true,
+      "ckey": "moss_no",
+      "lat": "59.3756055603082",
+      "lng": "10.6539916992187"
+    },
+    {
+      "name": "Naersnes",
+      "t": null,
+      "ckey": "naersnes_no",
+      "lat": "59.7",
+      "lng": "10.7333333333"
+    },
+    {
+      "name": "Namsos",
+      "t": null,
+      "ckey": "namsos_no",
+      "lat": "64.4666666667",
+      "lng": "11.5"
+    },
+    {
+      "name": "Narvik",
+      "t": null,
+      "ckey": "narvik_no",
+      "lat": "68.40857925496312",
+      "lng": "17.345255151963627"
+    },
+    {
+      "name": "Odda",
+      "t": null,
+      "ckey": "odda_no",
+      "lat": "60.0666666667",
+      "lng": "6.55"
+    },
+    {
+      "name": "Orkanger",
+      "t": true,
+      "ckey": "orkanger_no",
+      "lat": "63.19",
+      "lng": "9.5"
+    },
+    {
+      "name": "Oslo",
+      "t": true,
+      "ckey": "oslo_no",
+      "lat": "59.90447464392032",
+      "lng": "10.739013370683606"
+    },
+    {
+      "name": "Porsgrunn",
+      "t": false,
+      "ckey": "porsgrunn_no",
+      "lat": "59.0845515584879",
+      "lng": "9.64599609374994"
+    },
+    {
+      "name": "Risavika",
+      "t": null,
+      "ckey": "risavika_no",
+      "lat": "58.92198608275983",
+      "lng": "5.597752824383412"
+    },
+    {
+      "name": "Risor",
+      "t": null,
+      "ckey": "risor_no",
+      "lat": "58.71702576614609",
+      "lng": "9.238139918502188"
+    },
+    {
+      "name": "Sandefjord",
+      "t": null,
+      "ckey": "sandefjord_no",
+      "lat": "59.1333333333",
+      "lng": "10.2333333333"
+    },
+    {
+      "name": "Sandnes",
+      "t": true,
+      "ckey": "sandnes_no",
+      "lat": "58.854729210002716",
+      "lng": "5.741042936094287"
+    },
+    {
+      "name": "Sarpsborg",
+      "t": null,
+      "ckey": "sarpsborg_no",
+      "lat": "59.16",
+      "lng": "11.06"
+    },
+    {
+      "name": "Sauda",
+      "t": false,
+      "ckey": "sauda_no",
+      "lat": "59.64724288958846",
+      "lng": "6.348814085896354"
+    },
+    {
+      "name": "Skien",
+      "t": false,
+      "ckey": "skien_no",
+      "lat": "59.12333322930264",
+      "lng": "9.60411084574158"
+    },
+    {
+      "name": "Skudeneshavn",
+      "t": null,
+      "ckey": "skudeneshavn_no",
+      "lat": "59.144957608214895",
+      "lng": "5.254307007253076"
+    },
+    {
+      "name": "Slagen",
+      "t": null,
+      "ckey": "slagen_no",
+      "lat": "58.908865289364236",
+      "lng": "5.583146037956516"
+    },
+    {
+      "name": "Stavanger",
+      "t": true,
+      "ckey": "stavanger_no",
+      "lat": "58.96858163327766",
+      "lng": "5.757522475014235"
+    },
+    {
+      "name": "Steinkjer",
+      "t": null,
+      "ckey": "steinkjer_no",
+      "lat": "64.01426093921951",
+      "lng": "11.490387113351078"
+    },
+    {
+      "name": "Sture",
+      "t": null,
+      "ckey": "sture_no",
+      "lat": "60.6166666667",
+      "lng": "4.85"
+    },
+    {
+      "name": "Sunndalsora",
+      "t": null,
+      "ckey": "sunndalsora_no",
+      "lat": "62.6833333333",
+      "lng": "8.6"
+    },
+    {
+      "name": "Svelgen",
+      "t": true,
+      "ckey": "svelgen_no",
+      "lat": "61.7666666667002",
+      "lng": "5.3"
+    },
+    {
+      "name": "Svelvik",
+      "t": null,
+      "ckey": "svelvik_no",
+      "lat": "59.611801037985266",
+      "lng": "10.405680502393121"
+    },
+    {
+      "name": "Svolvaer",
+      "t": null,
+      "ckey": "svolvaer_no",
+      "lat": "68.24147867691875",
+      "lng": "14.528401468433035"
+    },
+    {
+      "name": "Tau",
+      "t": null,
+      "ckey": "tau_no",
+      "lat": "59.06631481011137",
+      "lng": "5.899500336630821"
+    },
+    {
+      "name": "Thamshamn",
+      "t": null,
+      "ckey": "thamshamn_no",
+      "lat": "63.3333333333",
+      "lng": "9.85"
+    },
+    {
+      "name": "Tjeldbergodden",
+      "t": null,
+      "ckey": "tjeldbergodden_no",
+      "lat": "63.40990531088928",
+      "lng": "8.698626691057466"
+    },
+    {
+      "name": "Tofte",
+      "t": null,
+      "ckey": "tofte_no",
+      "lat": "59.33",
+      "lng": "10.34"
+    },
+    {
+      "name": "Tonsberg",
+      "t": null,
+      "ckey": "tonsberg_no",
+      "lat": "59.26034682405309",
+      "lng": "10.424719654704532"
+    },
+    {
+      "name": "Tromso",
+      "t": true,
+      "ckey": "tromso_no",
+      "lat": "69.65191274052638",
+      "lng": "18.92272149172392"
+    },
+    {
+      "name": "Trondheim",
+      "t": true,
+      "ckey": "trondheim_no",
+      "lat": "63.42220648158447",
+      "lng": "10.36972041018665"
+    },
+    {
+      "name": "Tvedestrand",
+      "t": null,
+      "ckey": "tvedestrand_no",
+      "lat": "58.62274183484323",
+      "lng": "8.942572019906349"
+    },
+    {
+      "name": "Vadso",
+      "t": null,
+      "ckey": "vadso_no",
+      "lat": "70.08538386601207",
+      "lng": "29.738828061343106"
+    },
+    {
+      "name": "Vaksdal",
+      "t": null,
+      "ckey": "vaksdal_no",
+      "lat": "60.4833333333",
+      "lng": "5.73333333333"
+    },
+    {
+      "name": "Vardo",
+      "t": null,
+      "ckey": "vardo_no",
+      "lat": "70.38315962325711",
+      "lng": "31.007364944943728"
+    },
+    {
+      "name": "Volda",
+      "t": null,
+      "ckey": "volda_no",
+      "lat": "62.08",
+      "lng": "6.03"
+    }
+  ],
+  "ccountries": [
+    { "name": "Finland", "code": "FI", "link": "/maritime/finland" },
+    { "name": "Russia", "code": "RU", "link": "/maritime/russia" },
+    { "name": "Sweden", "code": "SE", "link": "/maritime/sweden" }
+  ]
+}

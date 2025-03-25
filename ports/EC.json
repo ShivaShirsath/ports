@@ -1,0 +1,73 @@
+{
+  "title": "Ecuador",
+  "ckey": "ecuador",
+  "cports": [
+    {
+      "name": "Bahia De Caraquez",
+      "t": null,
+      "ckey": "bahia_de_caraquez_ec",
+      "lat": "-0.5170424386839092",
+      "lng": "-80.42122226904722"
+    },
+    {
+      "name": "Esmeraldas",
+      "t": true,
+      "ckey": "esmeraldas_ec",
+      "lat": "0.941982871339664",
+      "lng": "-79.6948248206272"
+    },
+    {
+      "name": "Guayaquil",
+      "t": true,
+      "ckey": "guayaquil_ec",
+      "lat": "-2.2404676319387",
+      "lng": "-79.881591796875"
+    },
+    {
+      "name": "La Libertad",
+      "t": null,
+      "ckey": "la_libertad_ec",
+      "lat": "-2.22175701695054",
+      "lng": "-80.83976260100727"
+    },
+    {
+      "name": "Manta",
+      "t": false,
+      "ckey": "manta_ec",
+      "lat": "-0.949899999999998",
+      "lng": "-80.7163"
+    },
+    {
+      "name": "Posorja",
+      "t": true,
+      "ckey": "posorja_ec",
+      "lat": "-2.7081505",
+      "lng": "-80.24097"
+    },
+    {
+      "name": "Puerto Bolivar",
+      "t": null,
+      "ckey": "puerto_bolivar_ec",
+      "lat": "-3.25",
+      "lng": "-80.0166666667"
+    },
+    {
+      "name": "Salinas",
+      "t": null,
+      "ckey": "salinas_ec",
+      "lat": "-2.13",
+      "lng": "-80.58"
+    },
+    {
+      "name": "San Lorenzo",
+      "t": false,
+      "ckey": "san_lorenzo_ec",
+      "lat": "1.2609836548739362",
+      "lng": "-78.95417959759853"
+    }
+  ],
+  "ccountries": [
+    { "name": "Colombia", "code": "CO", "link": "/maritime/colombia" },
+    { "name": "Peru", "code": "PE", "link": "/maritime/peru" }
+  ]
+}

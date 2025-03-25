@@ -1,0 +1,40 @@
+{
+  "title": "Ivory Coast",
+  "ckey": "ivory_coast",
+  "cports": [
+    {
+      "name": "CIABJ",
+      "t": true,
+      "ckey": "ciabj_ci",
+      "lat": "5.2562412314487",
+      "lng": "-3.9780272504546"
+    },
+    {
+      "name": "Espoir Terminal",
+      "t": null,
+      "ckey": "espoir_terminal_ci",
+      "lat": "5.175589077068679",
+      "lng": "-4.80156236859008"
+    },
+    {
+      "name": "Fresco",
+      "t": null,
+      "ckey": "fresco_ci",
+      "lat": "5.05",
+      "lng": "-5.34"
+    },
+    {
+      "name": "San Pedro",
+      "t": true,
+      "ckey": "san_pedro_ci",
+      "lat": "4.740397571022961",
+      "lng": "-6.6193956546172785"
+    }
+  ],
+  "ccountries": [
+    { "name": "Ghana", "code": "GH", "link": "/maritime/ghana" },
+    { "name": "Guinea", "code": "GN", "link": "/maritime/guinea" },
+    { "name": "Liberia", "code": "LR", "link": "/maritime/liberia" },
+    { "name": "Mali", "code": "ML", "link": "/maritime/mali" }
+  ]
+}

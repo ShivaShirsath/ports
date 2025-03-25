@@ -1,0 +1,29 @@
+{
+  "title": "Hungary",
+  "ckey": "hungary",
+  "cports": [
+    {
+      "name": "Budapest",
+      "t": false,
+      "ckey": "budapest_hu",
+      "lat": "47.498415907729",
+      "lng": "19.039478302002"
+    },
+    {
+      "name": "Papa",
+      "t": null,
+      "ckey": "papa_hu",
+      "lat": "47.327653995607",
+      "lng": "17.462768554688"
+    }
+  ],
+  "ccountries": [
+    { "name": "Austria", "code": "AT", "link": "/maritime/austria" },
+    { "name": "Croatia", "code": "HR", "link": "/maritime/croatia" },
+    { "name": "Romania", "code": "RO", "link": "/maritime/romania" },
+    { "name": "Serbia", "code": "RS", "link": "/maritime/serbia" },
+    { "name": "Slovakia", "code": "SK", "link": "/maritime/slovakia" },
+    { "name": "Slovenia", "code": "SI", "link": "/maritime/slovenia" },
+    { "name": "Ukraine", "code": "UA", "link": "/maritime/ukraine" }
+  ]
+}

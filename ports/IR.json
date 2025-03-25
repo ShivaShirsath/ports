@@ -1,0 +1,105 @@
+{
+  "title": "Iran",
+  "ckey": "iran",
+  "cports": [
+    {
+      "name": "Bandar Abbas",
+      "t": true,
+      "ckey": "bandar_abbas_ir",
+      "lat": "27.1833333333",
+      "lng": "56.2833333333"
+    },
+    {
+      "name": "Bandar Anzali",
+      "t": true,
+      "ckey": "bandar_anzali_ir",
+      "lat": "37.476884635786",
+      "lng": "49.471816508009"
+    },
+    {
+      "name": "Bandar Khomeini",
+      "t": false,
+      "ckey": "bandar_khomeini_ir",
+      "lat": "30.427597997625533",
+      "lng": "49.107803377584396"
+    },
+    {
+      "name": "Bandar Mahshahr",
+      "t": true,
+      "ckey": "bandar_mahshahr_ir",
+      "lat": "30.464300019130597",
+      "lng": "49.17372153326419"
+    },
+    {
+      "name": "Bandar Noshahr",
+      "t": null,
+      "ckey": "bandar_noshahr_ir",
+      "lat": "36.65",
+      "lng": "51.458801269531"
+    },
+    {
+      "name": "Bandar Taheri",
+      "t": null,
+      "ckey": "bandar_taheri_ir",
+      "lat": "27.6666666667",
+      "lng": "52.35"
+    },
+    {
+      "name": "Bushehr",
+      "t": true,
+      "ckey": "bushehr_ir",
+      "lat": "28.924450771084",
+      "lng": "50.820568359375"
+    },
+    {
+      "name": "Chabahar",
+      "t": null,
+      "ckey": "chabahar_ir",
+      "lat": "25.283681788398674",
+      "lng": "60.616706280001736"
+    },
+    {
+      "name": "Cyrus Terminal",
+      "t": null,
+      "ckey": "cyrus_terminal_ir",
+      "lat": "29.71560883325965",
+      "lng": "50.35774507116965"
+    },
+    {
+      "name": "Khorramshahr",
+      "t": true,
+      "ckey": "khorramshahr_ir",
+      "lat": "30.433888601851116",
+      "lng": "48.18309821680222"
+    },
+    {
+      "name": "Kish Island",
+      "t": true,
+      "ckey": "kish_island_ir",
+      "lat": "26.55000056806633",
+      "lng": "54.01136010727663"
+    },
+    {
+      "name": "Lavan Island",
+      "t": null,
+      "ckey": "lavan_island_ir",
+      "lat": "26.8183378",
+      "lng": "53.2451426"
+    },
+    {
+      "name": "Ras Bahrgan",
+      "t": null,
+      "ckey": "ras_bahrgan_ir",
+      "lat": "29.938259339823727",
+      "lng": "50.15842649081034"
+    }
+  ],
+  "ccountries": [
+    { "name": "Afghanistan", "code": "AF", "link": "/maritime/afghanistan" },
+    { "name": "Azerbaijan", "code": "AZ", "link": "/maritime/azerbaijan" },
+    { "name": "Iraq", "code": "IQ", "link": "/maritime/iraq" },
+    { "name": "Pakistan", "code": "PK", "link": "/maritime/pakistan" },
+    { "name": "Turkey", "code": "TR", "link": "/maritime/turkey" },
+    { "name": "Turkmenistan", "code": "TM", "link": "/maritime/turkmenistan" }
+  ]
+}

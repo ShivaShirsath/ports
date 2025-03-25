@@ -1,0 +1,31 @@
+{
+  "title": "Sierra Leone",
+  "ckey": "sierra_leone",
+  "cports": [
+    {
+      "name": "Freetown",
+      "t": true,
+      "ckey": "freetown_sl",
+      "lat": "8.48913454392942",
+      "lng": "-13.204837165784209"
+    },
+    {
+      "name": "Pepel",
+      "t": null,
+      "ckey": "pepel_sl",
+      "lat": "8.577869800305287",
+      "lng": "-13.05411965023777"
+    },
+    {
+      "name": "Sherbro Island",
+      "t": null,
+      "ckey": "sherbro_island_sl",
+      "lat": "7.394444757725845",
+      "lng": "-12.554931859652802"
+    }
+  ],
+  "ccountries": [
+    { "name": "Guinea", "code": "GN", "link": "/maritime/guinea" },
+    { "name": "Liberia", "code": "LR", "link": "/maritime/liberia" }
+  ]
+}

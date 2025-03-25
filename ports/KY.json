@@ -1,0 +1,21 @@
+{
+  "title": "Cayman Islands",
+  "ckey": "cayman_islands",
+  "cports": [
+    {
+      "name": "Cayman Brac",
+      "t": null,
+      "ckey": "cayman_brac_ky",
+      "lat": "19.75",
+      "lng": "-79.75"
+    },
+    {
+      "name": "Georgetown",
+      "t": true,
+      "ckey": "georgetown_ky",
+      "lat": "19.3",
+      "lng": "-81.3833333333002"
+    }
+  ],
+  "ccountries": []
+}
