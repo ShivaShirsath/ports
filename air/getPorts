@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# ready country code from user
+read -p "Enter country code: " country_code
+
+mkdir -p ports
+
+curl "https://ourairports.com/airports.json?country=$country_code" \
+  -H 'Accept: application/json, text/javascript, */*; q=0.01' \
+  -H 'Accept-Language: en-IN,en;q=0.9,mr-IN;q=0.8,mr;q=0.7,hi-IN;q=0.6,hi;q=0.5,en-GB;q=0.4,en-US;q=0.3' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -b 'PHPSESSID=e18f968bfa941d83aba1137faaba5fed' \
+  -H 'DNT: 1' \
+  -H 'Pragma: no-cache' \
+  -H "Referer: https://ourairports.com/countries/$country_code/" \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36' \
+  -H 'X-Requested-With: XMLHttpRequest' \
+  -H 'sec-ch-ua: "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' > "ports/$country_code.json"

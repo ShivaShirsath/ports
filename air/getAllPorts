@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Check if jq is installed
+if ! command -v jq &> /dev/null; then
+    echo "jq is required but not installed. Please install it first."
+    echo "You can install it using:"
+    echo "  brew install jq  # for macOS"
+    echo "  apt-get install jq  # for Ubuntu/Debian"
+    exit 1
+fi
+
+# Create a directory for the results if it doesn't exist
+mkdir -p ports
+
+# Read countries from the JSON file and iterate through them
+jq -r '.countries[] | select(.value != "0") | .value' countries.json | while read -r country_code; do
+    echo "Getting ports for country: $country_code"
+    ./getPorts "$country_code"
+    # Add a small delay to avoid overwhelming the server
+    sleep 1
+done
+
+echo "Completed fetching ports for all countries" 
