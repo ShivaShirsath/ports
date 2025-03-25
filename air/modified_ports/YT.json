@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dzaoudzi Pamandzi International Airport",
+    "code": "2904",
+    "type": "medium_airport",
+    "location": "Dzaoudzi",
+    "country_id": "302609",
+    "country_code": "YT",
+    "IATA": "DZA",
+    "ICAO": "FMCZ",
+    "Latitude": "-12.809319",
+    "Longitude": "45.281815",
+    "Altitude": "23",
+    "EDI": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John A. Osborne Airport",
+    "code": "43074",
+    "type": "medium_airport",
+    "location": "Gerald's Park",
+    "country_id": "302746",
+    "country_code": "MS",
+    "IATA": "MNI",
+    "ICAO": "TRPG",
+    "Latitude": "16.791401",
+    "Longitude": "-62.193298",
+    "Altitude": "550",
+    "EDI": null
+  },
+  {
+    "name": "W H Bramble Airport",
+    "code": "44867",
+    "type": "closed",
+    "location": "Trants",
+    "country_id": "302746",
+    "country_code": "MS",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "16.7589",
+    "Longitude": "-62.156399",
+    "Altitude": "72",
+    "EDI": null
+  }
+]

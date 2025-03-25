@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Pago Pago International Airport",
+    "code": "4978",
+    "type": "medium_airport",
+    "location": "Pago Pago",
+    "country_id": "302763",
+    "country_code": "AS",
+    "IATA": "PPG",
+    "ICAO": "NSTU",
+    "Latitude": "-14.331",
+    "Longitude": "-170.710007",
+    "Altitude": "32",
+    "EDI": null
+  },
+  {
+    "name": "Fitiuta Airport",
+    "code": "4977",
+    "type": "small_airport",
+    "location": "Fitiuta Village",
+    "country_id": "302763",
+    "country_code": "AS",
+    "IATA": "FTI",
+    "ICAO": "NSFQ",
+    "Latitude": "-14.216131",
+    "Longitude": "-169.423771",
+    "Altitude": "110",
+    "EDI": null
+  },
+  {
+    "name": "Ofu Airport",
+    "code": "32097",
+    "type": "small_airport",
+    "location": "Ofu",
+    "country_id": "302763",
+    "country_code": "AS",
+    "IATA": "OFU",
+    "ICAO": "NSAS",
+    "Latitude": "-14.1844",
+    "Longitude": "-169.669998",
+    "Altitude": "9",
+    "EDI": null
+  },
+  {
+    "name": "Tau Airport",
+    "code": "32422",
+    "type": "closed",
+    "location": "Tau",
+    "country_id": "302763",
+    "country_code": "AS",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "-14.23178",
+    "Longitude": "-169.51101",
+    "Altitude": "185",
+    "EDI": null
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "L.F. Wade International Airport",
+    "code": "6416",
+    "type": "medium_airport",
+    "location": "Hamilton",
+    "country_id": "302727",
+    "country_code": "BM",
+    "IATA": "BDA",
+    "ICAO": "TXKF",
+    "Latitude": "32.363998",
+    "Longitude": "-64.678703",
+    "Altitude": "12",
+    "EDI": null
+  },
+  {
+    "name": "RNAS Boaz Island",
+    "code": "44079",
+    "type": "closed",
+    "location": "Sandys",
+    "country_id": "302727",
+    "country_code": "BM",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "32.320801",
+    "Longitude": "-64.841103",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Naval Air Station Bermuda Annex",
+    "code": "44080",
+    "type": "closed",
+    "location": "Sandys",
+    "country_id": "302727",
+    "country_code": "BM",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "32.269871",
+    "Longitude": "-64.851616",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Darrell's Island Seaplane Base",
+    "code": "348371",
+    "type": "closed",
+    "location": "Warwick",
+    "country_id": "302727",
+    "country_code": "BM",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "32.27513",
+    "Longitude": "-64.81915",
+    "Altitude": null,
+    "EDI": null
+  }
+]

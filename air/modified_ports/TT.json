@@ -1,0 +1,44 @@
+[
+  {
+    "name": "A.N.R. Robinson International Airport",
+    "code": "6409",
+    "type": "medium_airport",
+    "location": "Scarborough",
+    "country_id": "302754",
+    "country_code": "TT",
+    "IATA": "TAB",
+    "ICAO": "TTCP",
+    "Latitude": "11.1497",
+    "Longitude": "-60.832199",
+    "Altitude": "38",
+    "EDI": null
+  },
+  {
+    "name": "Piarco International Airport",
+    "code": "6410",
+    "type": "medium_airport",
+    "location": "Port of Spain",
+    "country_id": "302754",
+    "country_code": "TT",
+    "IATA": "POS",
+    "ICAO": "TTPP",
+    "Latitude": "10.5954",
+    "Longitude": "-61.3372",
+    "Altitude": "58",
+    "EDI": null
+  },
+  {
+    "name": "Camden Airfield",
+    "code": "40554",
+    "type": "small_airport",
+    "location": "Couva",
+    "country_id": "302754",
+    "country_code": "TT",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "10.4263",
+    "Longitude": "-61.439701",
+    "Altitude": "75",
+    "EDI": null
+  }
+]

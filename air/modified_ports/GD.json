@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Maurice Bishop International Airport",
+    "code": "6367",
+    "type": "medium_airport",
+    "location": "Saint George's",
+    "country_id": "302735",
+    "country_code": "GD",
+    "IATA": "GND",
+    "ICAO": "TGPY",
+    "Latitude": "12.0042",
+    "Longitude": "-61.786201",
+    "Altitude": "41",
+    "EDI": null
+  },
+  {
+    "name": "Lauriston Airport",
+    "code": "30852",
+    "type": "small_airport",
+    "location": "Carriacou Island",
+    "country_id": "302735",
+    "country_code": "GD",
+    "IATA": "CRU",
+    "ICAO": null,
+    "Latitude": "12.4761",
+    "Longitude": "-61.472801",
+    "Altitude": "5",
+    "EDI": null
+  },
+  {
+    "name": "Pearls Airport",
+    "code": "43340",
+    "type": "closed",
+    "location": "Pearls",
+    "country_id": "302735",
+    "country_code": "GD",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "12.14368",
+    "Longitude": "-61.61692",
+    "Altitude": "20",
+    "EDI": null
+  }
+]

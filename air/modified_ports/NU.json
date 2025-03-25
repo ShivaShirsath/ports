@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Niue International Airport",
+    "code": "4974",
+    "type": "medium_airport",
+    "location": "Alofi",
+    "country_id": "302775",
+    "country_code": "NU",
+    "IATA": "IUE",
+    "ICAO": "NIUE",
+    "Latitude": "-19.079030990600586",
+    "Longitude": "-169.92559814453125",
+    "Altitude": "209",
+    "EDI": null
+  }
+]

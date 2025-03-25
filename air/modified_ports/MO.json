@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Macau International Airport",
+    "code": "26589",
+    "type": "large_airport",
+    "location": "Nossa Senhora do Carmo",
+    "country_id": "302651",
+    "country_code": "MO",
+    "IATA": "MFM",
+    "ICAO": "VMMC",
+    "Latitude": "22.149599",
+    "Longitude": "113.592003",
+    "Altitude": "20",
+    "EDI": null
+  },
+  {
+    "name": "Macau Heliport at Taipa Ferry Terminal",
+    "code": "340575",
+    "type": "heliport",
+    "location": "Nossa Senhora do Carmo",
+    "country_id": "302651",
+    "country_code": "MO",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "22.166616",
+    "Longitude": "113.577416",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "SkyTech Heliport",
+    "code": "504911",
+    "type": "heliport",
+    "location": "Nossa Senhora do Carmo",
+    "country_id": "302651",
+    "country_code": "MO",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "22.165493",
+    "Longitude": "113.582668",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Macau Heliport at Outer Harbour Ferry Terminal",
+    "code": "333071",
+    "type": "heliport",
+    "location": "Sé",
+    "country_id": "302651",
+    "country_code": "MO",
+    "IATA": "XZM",
+    "ICAO": null,
+    "Latitude": "22.196242",
+    "Longitude": "113.55936",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Conde S. Januário Hospital Heliport",
+    "code": "336601",
+    "type": "heliport",
+    "location": "Sé",
+    "country_id": "302651",
+    "country_code": "MO",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "22.194657",
+    "Longitude": "113.546807",
+    "Altitude": null,
+    "EDI": null
+  }
+]

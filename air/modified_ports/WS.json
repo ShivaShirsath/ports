@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Faleolo International Airport",
+    "code": "4976",
+    "type": "medium_airport",
+    "location": "Apia",
+    "country_id": "302788",
+    "country_code": "WS",
+    "IATA": "APW",
+    "ICAO": "NSFA",
+    "Latitude": "-13.829999923706055",
+    "Longitude": "-172.00799560546875",
+    "Altitude": "58",
+    "EDI": null
+  },
+  {
+    "name": "Maota Airport",
+    "code": "35173",
+    "type": "small_airport",
+    "location": "Maota",
+    "country_id": "302788",
+    "country_code": "WS",
+    "IATA": "MXS",
+    "ICAO": "NSMA",
+    "Latitude": "-13.7423",
+    "Longitude": "-172.257996",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Asau Airport",
+    "code": "30608",
+    "type": "small_airport",
+    "location": "Asau",
+    "country_id": "302788",
+    "country_code": "WS",
+    "IATA": "AAU",
+    "ICAO": "NSAU",
+    "Latitude": "-13.505132",
+    "Longitude": "-172.627888",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Fagali'i Airport",
+    "code": "31127",
+    "type": "small_airport",
+    "location": "Apia",
+    "country_id": "302788",
+    "country_code": "WS",
+    "IATA": "FGI",
+    "ICAO": "NSFI",
+    "Latitude": "-13.849167",
+    "Longitude": "-171.739866",
+    "Altitude": "131",
+    "EDI": null
+  },
+  {
+    "name": "Lalomalava Airport",
+    "code": "340684",
+    "type": "closed",
+    "location": "Lalomalava",
+    "country_id": "302788",
+    "country_code": "WS",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "-14.031827",
+    "Longitude": "-171.435114",
+    "Altitude": null,
+    "EDI": null
+  }
+]

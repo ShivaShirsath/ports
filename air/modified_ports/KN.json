@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Robert L. Bradshaw International Airport",
+    "code": "6386",
+    "type": "medium_airport",
+    "location": "Basseterre",
+    "country_id": "302742",
+    "country_code": "KN",
+    "IATA": "SKB",
+    "ICAO": "TKPK",
+    "Latitude": "17.311199188232422",
+    "Longitude": "-62.71870040893555",
+    "Altitude": "170",
+    "EDI": null
+  },
+  {
+    "name": "Vance W. Amory International Airport",
+    "code": "6387",
+    "type": "medium_airport",
+    "location": "Charlestown",
+    "country_id": "302742",
+    "country_code": "KN",
+    "IATA": "NEV",
+    "ICAO": "TKPN",
+    "Latitude": "17.205699920654297",
+    "Longitude": "-62.589900970458984",
+    "Altitude": "14",
+    "EDI": null
+  },
+  {
+    "name": "Royal St. Kitts Heliport",
+    "code": "430662",
+    "type": "heliport",
+    "location": "Lucas",
+    "country_id": "302742",
+    "country_code": "KN",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "17.291017",
+    "Longitude": "-62.689065",
+    "Altitude": null,
+    "EDI": null
+  }
+]

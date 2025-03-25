@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Monaco Heliport",
+    "code": "30153",
+    "type": "heliport",
+    "location": "Fontvieille",
+    "country_id": "302703",
+    "country_code": "MC",
+    "IATA": "MCM",
+    "ICAO": null,
+    "Latitude": "43.725798",
+    "Longitude": "7.419673",
+    "Altitude": "20",
+    "EDI": null
+  },
+  {
+    "name": "Terre-Plein du Larvotto Heliport",
+    "code": "319195",
+    "type": "heliport",
+    "location": "Larvotto",
+    "country_id": "302703",
+    "country_code": "MC",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "43.746543",
+    "Longitude": "7.43894",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Helipuerto del Centro Hospitalario “Princess Grace”",
+    "code": "340399",
+    "type": "heliport",
+    "location": "La Colle",
+    "country_id": "302703",
+    "country_code": "MC",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "43.729392",
+    "Longitude": "7.410111",
+    "Altitude": null,
+    "EDI": null
+  }
+]

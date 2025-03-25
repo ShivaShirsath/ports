@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Princess Juliana International Airport",
+    "code": "6406",
+    "type": "large_airport",
+    "location": "Sint Maarten",
+    "country_id": "302761",
+    "country_code": "SX",
+    "IATA": "SXM",
+    "ICAO": "TNCM",
+    "Latitude": "18.041",
+    "Longitude": "-63.108898",
+    "Altitude": "13",
+    "EDI": null
+  }
+]

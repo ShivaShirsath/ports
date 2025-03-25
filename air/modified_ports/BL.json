@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Saint Barthélemy - Gustaf III Airport",
+    "code": "32249",
+    "type": "medium_airport",
+    "location": "Gustavia",
+    "country_id": "302760",
+    "country_code": "BL",
+    "IATA": "SBH",
+    "ICAO": "TFFJ",
+    "Latitude": "17.9044",
+    "Longitude": "-62.843601",
+    "Altitude": "49",
+    "EDI": null
+  }
+]

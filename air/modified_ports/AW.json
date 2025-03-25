@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Queen Beatrix International Airport",
+    "code": "6402",
+    "type": "large_airport",
+    "location": "Oranjestad",
+    "country_id": "302725",
+    "country_code": "AW",
+    "IATA": "AUA",
+    "ICAO": "TNCA",
+    "Latitude": "12.5014",
+    "Longitude": "-70.015198",
+    "Altitude": "60",
+    "EDI": null
+  },
+  {
+    "name": "Savaneta Field",
+    "code": "335971",
+    "type": "closed",
+    "location": "Savaneta",
+    "country_id": "302725",
+    "country_code": "AW",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "12.452124",
+    "Longitude": "-69.953427",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "Cascabel Airfield",
+    "code": "335972",
+    "type": "closed",
+    "location": "San Nicolas",
+    "country_id": "302725",
+    "country_code": "AW",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "12.454544",
+    "Longitude": "-69.887499",
+    "Altitude": null,
+    "EDI": null
+  },
+  {
+    "name": "De Vuijst Field",
+    "code": "595440",
+    "type": "closed",
+    "location": "San Nicolas",
+    "country_id": "302725",
+    "country_code": "AW",
+    "IATA": null,
+    "ICAO": null,
+    "Latitude": "12.4385",
+    "Longitude": "-69.88641",
+    "Altitude": null,
+    "EDI": null
+  }
+]

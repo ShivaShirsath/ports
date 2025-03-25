@@ -1,0 +1,30 @@
+[
+  {
+    "name": "St Pierre Airport",
+    "code": "4245",
+    "type": "medium_airport",
+    "location": "Saint-Pierre",
+    "country_id": "302750",
+    "country_code": "PM",
+    "IATA": "FSP",
+    "ICAO": "LFVP",
+    "Latitude": "46.762901306152344",
+    "Longitude": "-56.173099517822266",
+    "Altitude": "27",
+    "EDI": null
+  },
+  {
+    "name": "Miquelon Airport",
+    "code": "4244",
+    "type": "small_airport",
+    "location": "Miquelon",
+    "country_id": "302750",
+    "country_code": "PM",
+    "IATA": "MQC",
+    "ICAO": "LFVM",
+    "Latitude": "47.095501",
+    "Longitude": "-56.380299",
+    "Altitude": "10",
+    "EDI": null
+  }
+]

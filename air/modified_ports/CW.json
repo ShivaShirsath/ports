@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hato International Airport",
+    "code": "6404",
+    "type": "large_airport",
+    "location": "Willemstad",
+    "country_id": "302762",
+    "country_code": "CW",
+    "IATA": "CUR",
+    "ICAO": "TNCC",
+    "Latitude": "12.1889",
+    "Longitude": "-68.959801",
+    "Altitude": "29",
+    "EDI": null
+  }
+]

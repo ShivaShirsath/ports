@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Douglas-Charles Airport",
+    "code": "6362",
+    "type": "medium_airport",
+    "location": "Marigot",
+    "country_id": "302733",
+    "country_code": "DM",
+    "IATA": "DOM",
+    "ICAO": "TDPD",
+    "Latitude": "15.547",
+    "Longitude": "-61.299999",
+    "Altitude": "73",
+    "EDI": null
+  },
+  {
+    "name": "Canefield Airport",
+    "code": "6361",
+    "type": "medium_airport",
+    "location": "Canefield",
+    "country_id": "302733",
+    "country_code": "DM",
+    "IATA": "DCF",
+    "ICAO": "TDCF",
+    "Latitude": "15.336693",
+    "Longitude": "-61.392108",
+    "Altitude": "13",
+    "EDI": null
+  }
+]
