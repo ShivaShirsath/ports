@@ -1,5 +1,5 @@
-☈ ~/Shiva/dump-sea-and-air-ports 》chmod +x *                                                                               ▢  ＠ 卐                                                                                       ▢  ＠ 卐
-☈ ~/Shiva/dump-sea-and-air-ports 》./getAllPorts                                                                            ▢  ＠ 卐
+☈ ~/Shiva/dump-sea-and-air-ports 》cd sea                                              ▢ master ＠26m 卐
+☈ ~/Shiva/dump-sea-and-air-ports/sea 》./getAllPorts                                   ▢ master ＠26m 卐                                                                          ▢  ＠ 卐
 Getting ports for country: AF
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
@@ -425,4 +425,4 @@ Getting ports for country: ZW
                                  Dload  Upload   Total   Spent    Left  Speed
 100    56    0    54  100     2     85      3 --:--:-- --:--:-- --:--:--    89
 Completed fetching ports for all countries
-☈ ~/Shiva/dump-sea-and-air-ports 》                                                                                         ▢  ＠ 卐
+☈ ~/Shiva/dump-sea-and-air-ports/sea 》                                                                                         ▢  ＠ 卐
