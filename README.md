@@ -1,5 +1,7 @@
 # Port Data Processing
 
+
+
 This repository contains scripts and data for processing and transforming sea and air port information from around the world. The scripts transform raw port data into a standardized format that's easier to work with.
 
 ## Directory Structure
@@ -196,3 +198,6 @@ The main output files are:
 - Combined sea port data in `sea/modified_ports/all_sea_ports_combined.json`
 
 These files contain all the port data in a standardized format that's ready for use in applications or further processing.
+
+
+<!-- adding comments -->
